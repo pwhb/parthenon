@@ -30,12 +30,16 @@ the memories i didn't know i experienced,
 the journeys i didn't remember i made,
 the feelings i failed to express.
 
-why invent a time machine
-when we already have songs
-why build a space ship
-when we already have songs
+why invent a time machine,
+when we already have songs?
+why build a space ship,
+when we already have songs?
 
-thank you for making me fall in love with life (again)
+i believe we all speak in songs in heaven;
+what is a musical, if not a glimpse into heaven?
+
+thank you for filling my life with songs,
+making me fall in love with life (again).
 illustrio heya shavekitini
 
 
