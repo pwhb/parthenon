@@ -12,7 +12,7 @@
 - **2041–2043**:  
   - Drifters establish **1% daily death rate** in poor sectors.  
   - Mel becomes **biochemical QA tester** for suppressants; secretly sabotages protocols.  
-  - Protagonist works in quarantined labs, sending emails as coping mechanism.  
+  - P works in quarantined labs, sending emails as coping mechanism.  
 - **2043 (Present)**:  
   - **Missile research** begins after Mel’s execution.  
 - **2045**: Missile launch → **equalizes death rates** (rich/poor).  
@@ -35,12 +35,12 @@
 - **Scientific**: *Hadeanema wisteriae* ("Hadean" = abyss; "wisteriae" = toxicity/beauty).  
 - **Common**:  
   - Official: **Wisteria Drifters**.  
-  - Slang: **"Lavenders"** (soldiers), **"The Weepers"** (poor).  
+  - Slang: **"Lavenders"** (soldiers), **"Reapers"** (poor).  
 
 ---
 
 ### **III. Character Profiles**  
-#### **1. Protagonist ("palebluedot")**  
+#### **1. Protagonist ("palebluedot"/ Phone Waiyam Hein / "P")**  
 - **Full Name**: *Unrevealed* (signs emails "p").  
 - **Role**: Hobbyist biochemist in *The Tidal Lock Foundation*.  
 - **Traits**:  
@@ -48,14 +48,14 @@
   - In love with Mel; never met her in person.  
 - **Key Quote**: *"We chose pacifism. Now our people pay for it."*  
 
-#### **2. Lover ("meltedsonata" / Hnin Wut-nyi / "Mel")**  
+#### **2. Lover ("meltedsonata" / Hnin Wuttyi Phyo / "Mel")**  
 - **Role**: Biochemical QA engineer + **clandestine gardener**.  
 - **Traits**:  
   - Steely, compassionate, **hides edible plants in "failed" reports**.  
   - Nickname *"Mel"* = Greek *"meli"* (honey/nectar).  
 - **Fate**: Executed in 2044 for smuggling medicine.  
 
-#### **3. Friend ("mapleonice")**  
+#### **3. Friend ("mapleonice" / Thuzar Lwin / "T")**  
 - **Role**: Doctor in *Tidal Lock*, Mel’s roommate.  
 - **Traits**:  
   - Guilt-ridden, **bridges protagonist and Mel**.  
@@ -64,9 +64,8 @@
 ---
 
 ### **IV. Organizations**  
-#### **1. The Tidal Lock Foundation**  
+#### **1. Event Horizon**  
 - **Purpose**: Disaster relief (originally), now **apocalypse mitigation**.  
-- **Irony**: Named for celestial bonds, but **fails to unite humanity**.  
 
 #### **2. Project Pandora**  
 - **Goal**: Deep-sea mining for **lithium/rare earths**.  
