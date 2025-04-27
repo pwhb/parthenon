@@ -1,19 +1,38 @@
 # Chapter 0
 
-From: palebluedot@eventhorizon.org
-To: lavenderonice@eventhorizon.org
-Subject: days of may
-Timestamp: 2043-05-01T02:34:12+06:30
+from: P <palebluedot@eventhorizon.org>
+to: T <lavenderonice@eventhorizon.org>
+date: 2043-05-01T02:34:12+06:30
+subject: days of may
+attachment: subject407_report.pdf
 
 it's may now. may the force be with you.
 
 i'm really sorry. we lost subject 407. her name is yoon cherry. we lost yoon an hour ago. i'm so sorry. the last vaccine failed. larvae count in her coronary tissue: ~2.1M. Mel was right.
 
-i'm sick of writing lab reports. i'm sick of looking through the glass. i'm sick of being so powerless. i can't remember the last time i cried. i can't cry. i can't escape this sense of suffocating. i didn't look at her face. no, we didn't do our best. we could've destroyed the walls while there was still time. we chose to be pacific. now our people are paying for our sin with their lives.
+i'm sick of writing reports. i'm sick of watching through the glass. i'm sick of being so powerless. i can't remember the last time i cried. i can't cry. i can't escape this sense of suffocating. i didn't look at her face. no, we didn't do our best. we could've destroyed the walls. we chose pacifism. now our people pay for it.
 
-i'm sorry, again, to share with you these. i hope you understand i need to say things out loud so i can continue our work. please don't tell mel about it. i don't want her to be more sorry. how is she? i didn't have time to catch up with anything out of the lab. i know it'd be selfish to have an unnecessary meeting with her. what i would happily give to hear her voice again, see her face again.
+don't tell Mel. i don't want her to grieve more. how is she? i'd trade every dataset left to hear her laugh once again.
 
-i know you have work to do. unfortunately so do i. please take care. be safe. please tell mel i said hello.
+please take care. be safe. please tell Mel i said hello. please take a good care of her for me.
 
-p
-yangon, 37°C
+P
+Yangon, 41°C
+
+/pagebreak
+
+from: T <lavenderonice@eventhorizon.org>
+to: P <palebluedot@eventhorizon.org>
+date: 2043-05-02T04:34:12+09:00
+subject: Re: days of may
+
+May the force be with Yoon. 
+
+Mel knew she won't survive. I didn't tell her anything. She asked if Yoon passed away and I nodded. She was sad to be confirmed. I saw a hint of relief. She has less to worry about now. I shared her the report and she found something interesting.
+
+In case the devil asked you for your dataset in exchange of hearing Mel's laugh once again, in the name of kindness, please don't. We need you and your work.
+
+Sweet dreams, P.
+
+T
+Ulsan, 23°C
