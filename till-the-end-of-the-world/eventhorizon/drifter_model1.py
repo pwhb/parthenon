@@ -3,8 +3,9 @@ from scipy.integrate import solve_ivp
 import matplotlib.pyplot as plt
 
 # Parameters (enhanced for realistic collapse)
+H0 = 9.2e9
 H0_poor = 7.9e9       # Initial poor population (87% of 9.2B)
-H0_rich = 1.3e9       # Initial rich population (13% of 9.2B)
+H0_rich = H0 - H0_poor       # Initial rich population (13% of 9.2B)
 N0 = 10_000           # Initial drifter population
 alpha = 0.008         # Adjusted downward for slower conversion
 beta_p = 0.00004      # Poor infection rate (0.4% daily)
