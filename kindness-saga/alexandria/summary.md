@@ -2,7 +2,7 @@
 
 A clinically depressed college dropout, drowning in alcohol, hallucinates his lover's ghost on campus during therapy visits. He stumbles into a lecture in his old classroom, by a radical Professor who proclaims: "Science is the act of stripping lies bare.", "Convocation is the ceremony of branding slave marks on your back."
 
-At the bar he used to go to, he meets the professor and talks to him — his first non-therapy human connection in years.
+At the bar he used to go to, named "Guillotine", he sees the professor and talks to him drunk — his first non-therapy human connection in years.
 
 Visiting the professor's office, he sees two versions of the Anarchist Cookbook sit on the desk: one criminal, one for communal living. The Professor lends him a beer-stained Tao Te Ching.
 
