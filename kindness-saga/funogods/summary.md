@@ -1,21 +1,109 @@
-"(let me kiss you) at the funeral of the gods"
+# "(let me kiss you) at the funeral of the gods"
 
-There have always been four horsemen of the apocalypse. There have always been four truths—paths to kindness: Science, Art, Love, Revolution. Their prophets walked among us: Euler (Science), Van Gogh (Art), Kierkegaard (Love), Diogenes (Revolution). Now, the knights of kindness, Science, Art, Love and Revolution are born as humans.
+There have always been Four Horsemen of the Apocalypse—and Four Knights of Kindness to oppose them: Science, Art, Love, Revolution. Their prophets once walked among mortals—Euler, Van Gogh, Kierkegaard, Diogenes—but now, the knights are born as flesh.
 
-Science helps the Professor understands his fight against oppression more precisely: Conquest wears three faces—Quantification, Dishonesty, Subjugation. It's never meant to be a humiliation. S doesn't get him and defends the professor. But they become good friends now. Science brings Revolution to meet S in the library. Revolution is pregnant with Love's child. She requests her to raise her child. "Why me?" S asks. "You'll see," Revolution answers. She has a way of making people accepts their deepest true self. S submits her resignation letter together with Science. It was signed by the professor. The convocation hall is blown up with the exam papers and the physical records of the students. The professor confesses his crime and gets arrested. The Chief of Police that's Bureaucracy in flesh as a squire of Famine ensures he never leaves prison. The Editor-in-Chief of the state media, that's Silence in flesh as a squire of Death, calls him a terrorist.
+## I. THE PROFESSOR’S FALL
 
-At the "Guillotine" bar, S tells Science she has always wanted to start an orphanage but she had no way of funding. Science tells her to be patient. Art, the singer there after singing "Bella Ciao", joins them. Art shares S, details plans to execute 4 critical heists that will fund the orphanage. S is hesitant at first. She doesn't want to risk a tiny chance of the crimes connecting to the orphanage she's about to start. Science makes her see Art's plans are flawless. S takes help from the knights and executes the heist under the alias "Red Tiger"; Science in the central bank heist, an attack to its director that's Debt in flesh as a squire of Famine. Revolution in the heist of moir.ai CEO's mansion that's Subjugation in flesh as a squire of Conquest, Love in the heist of PM's mansion, that's Propaganda in flesh as a squire of War and Love again, in the heist of Senior General's mansion, that's Submission in flesh as a squire of War. The four targets were specifically picked by Revolution. The four heists help S rob Eden back from God. the orphanage is named Strawberries Home.
+Science helps the Professor understand his fight against oppression: Conquest wears three faces—Quantification, Dishonesty, Subjugation. "It’s not humiliation," he insists. S, the pink-obsessed girl from his lectures, doesn’t understand—but she defends him anyway.
 
-For several years, Love infiltrates the secret service as a consultant and Art as a violinist at the elites' balls to prevent the upcoming world war. Science and Revolution infiltrate Moir.ai to investigate the data the company is providing the government to fuel the war. Love sees a plan of coercing foreign federal agents, K's parents, that involves kidnapping the child. Love saves her and sends her to Strawberries Home, where his son, P is living at. The knights often meet at the museum called Oblivion, its curator is Oblivion in flesh as a squire of Death. Science notices the specific display of historical items in a sophisticated way that hides many genocides. The knights figure out that the old curator is a squire of the horsemen they're fighting. Since the executives at Moir.ai aren't aware of the things they discuss, they accept that the old curator only listens to them and doesn't report it back.
+Then Revolution arrives. Pregnant with Love’s child, she corners S in the library:
+"Raise my child."
+"Why me?"
+"You’ll see."
 
-Revolution and Science learns the Moir.ai is so close to its full potential while they were distracted preventing the world war. Moir.ai can predict the fate of a normal person up to a week with 99.99% accuracy and it's so close to completely taking away free-will. Art and Love organize protests secretly. The Chief of Police, the PM, the Editor-in-chief, the celebrity that's Dishonesty in flesh as a squire of Conquest and the senior general, that's Submission in flesh as a squire of War, do their best to break the protests. Moir.ai reveals the real intention of Revolution and Science at the company and they gets fired. Their only hope is S, who's now called Strawberry; she's been off-grid enough to pull this off.
+Revolution has a gift: she makes people accept their truest selves. S submits her resignation letter approved by the Professor—just before he bombs the convocation hall, destroying student records and exam papers. "Let them see the system in flames," he says.
 
-Revolution, Science and Art designs a close to flawless plan to enter a Moir.ai's data center inside the central bank. It's the only target with an access point to the Moir.ai's infrastructure, that Strawberry has already broken into. Love as a Psychiatrist gathers information from the central bank director's assistant. Art as a violinist at the balls CTO of Moir.ai that's Quantification in flesh as a squire of Conquest, attends. Science and Art, with hesitation, asks Strawberry to pull this off. Science recognizes the professor's Tao Te Ching at Strawberries Home.
+The state brands him a terrorist. The Chief of Police (Bureaucracy, Famine’s squire) ensures his life sentence. The Editor-in-Chief of State Media (Silence, Death’s squire) broadcasts his fall.
 
-Strawberry executes another heist of central bank, stealing enough funds for the orphanage for another 100 years. She runs a script in the Moir.ai's server to create a backdoor, and erase all the logs for digital traces, and security records for physical evidence. The Chief of Police immediately reports it to the CEO of Moir.ai even though they finds no evidence of accessing the Moir.ai network, since everything was fully erased. The CTO of Moir.ai suspects it might have been accessed. He checked everywhere for an evidence. It takes him three days to find an unusual network traffic to the server at the exact time of the heist. He declares it an enough evidence to find the culprits from the root and disinfect the system. They requests help from every law enforcement organization in the world to hunt the culprits. A stand-down is declared to keep monitor who connects to Moir.ai network.
+## II. THE HEISTS FOR EDEN
 
-Users face unusual amount of technical issues since no sysadmins are accessing the network during the stand-down. But the monitoring teams don't find any evidence of the network being accessed. Revolution and Science are staying low intentionally because they learned about the stand-down from feds' emails they hacked, often through Love and Art social engineering. After 10 days of inactivity, the technical issues are being resolved and the emails that the stand-down is lifted are found. Revolution and Science connects to the network through the backdoor that's distinguisable from the specially whitelisted mac addresses and ip addresses of the Moir.ai sysadmins. It's a trap made by the CTO. We see a cyberwarfare between the CTO and our knights. They try to lock our knights out but through users and keys generated by the script and toolkit Science and Revolution prepared during the stand-down, the knight downloads the model of Moir.ai. When CTO realizes they're about to lose their source codes and their model, he asks for help from the Chief of Police for a physical hunt. The hunt costs K and C's lives. Strawberries now have to hide in the bunkers while our knights continue their fight.
+At the Guillotine bar, S confesses her dream to Science: an orphanage named Strawberries Home. "If only I had funding," she sighs.
+Science smirks: "Don’t worry about it." Art, the singer, slides beside them after singing "Bella Ciao" and unfolds a plan: four heists to fund Eden.
 
-Art and Love reverse engineer the Moir.ai and understands how to tweak it fundamentally to not predetermine the fate of all humans. They tests the tweaked version at many churches and support groups while Science and Revolution with the help of blackhat communities turn the tweaks into codes. All four knights plan the final heist to break into the impenetrable fortress of the paranoid CTO who's now the only one with the access to the source codes. They know they can only find a way to enter it and escaping alive is impossible. They update the source codes through the CTO's terminal and erase the trace and hide in the fortress, while the paranoid CTO and all the law enforcement organizations hunt them down. They erase themselves to hide their final hack.
+S hesitates. What if the crimes trace back to the orphans? But Science proves Art’s plans flawless. With the knights’ help, S becomes Red Tiger:
 
-The Moir.ai CTO and CEO learn that the AI's privacy-breaking invasive prediction are getting less and less accurate. It's now only 47% accurate. But no matter how hard the paranoid CTO looks for the reason or how the knights hacked the Fates, he finds nothing. Every update in hidden in the modified version control history of the codes of his own and the engineers he trusts. The users find Moir.ai and everything that use it, from search engines to OSes, more useful than ever. Their stocks increases 400% in value. The directors at Moir.ai have to be content with it. The billionaire, that's cowardice in flesh as a squire of War, decides to start deep sea drilling to mine lithium.
+Science infiltrates the central bank (target: Debt, Famine’s squire).
+
+Revolution raids the Moir.ai CEO’s mansion (Subjugation, Conquest’s squire).
+
+Love strikes the PM’s residence (Propaganda, War’s squire) and the General’s compound (Submission, War’s squire).
+
+Eden is stolen back from God.
+
+## III. THE WAR
+
+For years, the knights wage their shadow war on two fronts:
+Love infiltrates the secret service as a consultant, while Art plays violin at elite balls—gathering intelligence to prevent Nuclear World War.
+Science and Revolution hide themselves within Moir.ai, posing as researchers to investigate the data fueling the war machine.
+During a mission, Love uncovers a plot: the coercion of foreign federal agents (K’s parents) through the kidnapping of their child. He intervenes, spiriting K away to Strawberries Home, where his own son, P, lives.
+
+The knights’ rendezvous point is Oblivion Museum, its curator (Oblivion, Death’s squire) meticulously erasing genocides from exhibits. Science notices the pattern—history rewritten in real time—and they realize the curator serves the Horsemen. Yet, because Moir.ai’s executives remain oblivious to the knights’ discussions, they assume the curator is merely a silent witness.
+
+## IV. THE POINT OF NO RETURN
+
+While distracted by preventing the World War, Revolution and Science make a horrifying discovery:
+Moir.ai’s predictions now hit 99.99% accuracy for individual fates.
+The system is one update away from erasing free will entirely.
+Art and Love respond by organizing clandestine protests, but the squires retaliate ruthlessly:
+The Chief of Police (Bureaucracy, Famine's squire) deploys riot units.
+The Prime Minister (Propaganda, War's squire) spins the narrative.
+The Editor-in-Chief (Silence, Death's squire) censors dissent.
+The celebrity (Dishonesty, Conquest's squire) distract the people and General (Submission, War's squire) violently break up the movement.
+When Moir.ai exposes Revolution and Science’s true intentions, they’re terminated on the spot. With no options left, they turn to Strawberry—now a ghost in the system, the only one untraceable enough to strike back.
+
+## V. THE FINAL GAMBIT
+
+Four knights design a near-flawless plan: infiltrate Moir.ai’s data center inside the central bank—the sole access point to its infrastructure, which Strawberry had already breached years prior.
+
+Love, posing as a psychiatrist, extracts intel from the central bank director’s assistant.
+Art, performing at the CTO’s gala, maps his security protocols.
+With hesitation, Science and Art ask Strawberry to execute the impossible.
+Science recognizes the professor's Tao Te Ching at Strawberries Home.
+
+## IV. THE FINAL HEIST
+
+Strawberry executes the central bank heist, stealing funds to sustain Strawberries Home for a century. But her true mission is deeper:
+She plants a backdoor in Moir.ai’s servers.
+Erases all digital traces (logs, security footage).
+Leaves no physical evidence.
+The Chief of Police (Bureaucracy) alerts Moir.ai’s CEO—despite finding no proof of intrusion. The paranoid CTO (Quantification, Conquest’s squire) suspects the truth. For three days, he scours systems until he finds a phantom network blip—just enough to declare war.
+Global manhunt begins.
+An emergency stand-down stops Moir.ai's maintenance entirely.
+All sysadmins locked out; users suffer glitches.
+Monitoring teams find nothing, because Revolution and Science lie low, warned by hacked federal emails (courtesy of Love/Art’s social engineering).
+
+After ten days of forced inactivity, the system stabilizes and the hacked emails reveal the stand-down order has been lifted. Revolution and Science make their move - accessing the network through Strawberry's backdoor, its signature deliberately mismatched from the whitelisted MAC addresses and IP ranges of Moir.ai's new secret sysadmins.
+The CTO's trap springs shut the moment they connect.
+What follows is a brutal, microscopic war fought in the network:
+The CTO's security protocols attempt to immediately lock them out
+Their counterattack leverages the script-generated credentials and penetration toolkit prepared during the stand-down
+They hijack authenticated user sessions as pivot points
+The knights deploy a cascade of decryption keys like sonic mines
+
+The CTO watches in real-time as they exfiltrate Moir.ai's core model. When he realizes they're seconds from capturing the proprietary prediction algorithms, he makes the call that will haunt him - contacting the Chief of Police to escalate from digital to physical containment.
+
+The tactical raid achieves its objective at terrible cost. K and C die in the crossfire, their blood soaking the floor of Strawberries Home as the remaining children are evacuated to underground bunkers. Yet even as the knights mourn, their war continues - now fought from shadows within shadows.
+
+## V. THE LAST STAND
+
+Art and Love reverse-engineer Moir.ai, rewriting its destiny-algorithm in churches and support groups. Science and Revolution, aided by blackhat networks, codify the tweaks.
+
+The knights’ final mission: infiltrate the CTO’s fortress—the only place with source-code access. They know escape is impossible.
+
+Inside, they:
+
+Upload the new code.
+Erase all traces.
+Hide within the fortress as the CTO and global law enforcement hunt them in vain.
+Their last act is self-erasure.
+
+## VI. AFTERMATH
+
+Moir.ai’s predictions plummet to 47% accuracy.
+Users rejoice at the "improved" AI.
+Stocks surge 400%.
+The CEO/CTO seethe, blind to the hack.
+The billionaire (Cowardice, War’s squire) pivots to deep-sea lithium mining—another kind of theft.
+In a bunker, P clutches the beer-stained Tao Te Ching from alexandria.
+On the table is a letter from his parents:
+"Forgive us. We must steal free will back from the false gods."

@@ -35,7 +35,7 @@
 - **Scientific**: *Hadeanema wisteriae* ("Hadean" = abyss; "wisteriae" = toxicity/beauty).  
 - **Common**:  
   - Official: **Wisteria Drifters**.  
-  - Slang: **"Lavenders"** (soldiers), **"Reapers"** (poor).  
+  - Slang: **"Floaters"** (soldiers), **Drifters** **"Reapers"** (poor).  
 
 ---
 

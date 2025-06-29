@@ -1,17 +1,22 @@
 # "we met in the library of alexandria"
 
+## I. THE GHOST
 A clinically depressed college dropout, drowning in alcohol, hallucinates his lover's ghost on campus during therapy visits. He stumbles into a lecture in his old classroom, by a radical Professor who proclaims: "Science is the act of stripping lies bare.", "Convocation is the ceremony of branding slave marks on your back."
 
+## II. GUILLOTINE
 At the bar he used to go to, named "Guillotine", he sees the professor and talks to him drunk — his first non-therapy human connection in years.
 
+## III. TAO
 Visiting the professor's office, he sees two versions of the Anarchist Cookbook sit on the desk: one criminal, one for communal living. The Professor lends him a beer-stained Tao Te Ching.
 
+## IV. SYMPOSIUM
 During subsequent lectures, the dropout observes debates between:
 
 - The Professor
 - A mercilessly logical student (Science incarnate)
 - A pink-obsessed girl (future Strawberry), who defends the Professor with unsettling compassion
 
+## V. LAZARUS
 After witnessing the girl borrow both Cookbooks and seeing the Professor interact with his "ghost", the dropout—guided by his therapist—uncovers the truth:
 
 1. The Professor is his dissociated self—the version who graduated while he collapsed
@@ -19,4 +24,5 @@ After witnessing the girl borrow both Cookbooks and seeing the Professor interac
 3. The ghost was guilt manifest.
 4. While he mourned his lover, the professor mourned the rebellion
 
-When the pink girl returns the Cookbooks (having only studied the communal one), the dropout gives her his Tao Te Ching as she and the logical student quit school. United with his fractured self, he bombs the convocation hall— as a declaration of his love for his students and science. "I want you to see the system in its real form that's in flames, I don't mind being named the arsonist." The pink girl and student watch the flames from afar.
+## VI. ALEXANDRIA
+When the pink girl returns the Cookbooks (having only studied the communal one), the professor gives her his Tao Te Ching as she and the logical student quit school. United with his fractured self, he bombs the convocation hall— as a declaration of his love for his students and science. "I want you to see the system in its real form that's in flames, I don't mind being named the arsonist." The pink girl and the student watch the flames from afar.
