@@ -42,7 +42,7 @@ The knights’ rendezvous point is Oblivion Museum, its curator (Oblivion, Death
 ## IV. THE POINT OF NO RETURN
 
 While distracted by preventing the World War, Revolution and Science make a horrifying discovery:
-Moir.ai’s predictions now hit 99.99% accuracy for individual fates.
+Moir.ai’s predictions now hit 97% accuracy for individual fates because not only it predicts human desire but also manipulate to imprison free will.
 The system is one update away from erasing free will entirely.
 Art and Love respond by organizing clandestine protests, but the squires retaliate ruthlessly:
 The Chief of Police (Bureaucracy, Famine's squire) deploys riot units.
