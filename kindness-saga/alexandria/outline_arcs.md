@@ -1,4 +1,4 @@
-# "we met in alexandria"
+# we met in alexandria [alexandria]
 
 ## I. THE GHOST
 
@@ -17,19 +17,18 @@ He gets close to the professor and starts going to the class regularly. The prof
 ## IV. SYMPOSIUM
 
 During subsequent lectures, the dropout observes debates between:
-
-- The Professor
-- A mercilessly logical student (Science incarnate)
-- A pink-obsessed girl (future Strawberry), who defends the Professor with unsettling compassion
+The Professor
+A mercilessly logical student (Science incarnate)
+A pink-obsessed girl (future Strawberry), who defends the Professor with unsettling compassion
 
 ## V. LAZARUS
 
 After witnessing the girl borrow both Cookbooks and seeing the Professor interact with his "ghost" in the bookstore he used to go, named "Alexandria", the dropout, out of jealousy —guided by his therapist—investigates the professor and uncovers the truth slowly:
 
-1. The Professor is his dissociated self—the version who graduated while he collapsed
-2. His lover is alive; she left him because "You loved hating the system more than you loved me"
-3. The ghost was guilt manifest.
-4. While he mourned his lover, the professor mourned the rebellion
+    1. The Professor is his dissociated self—the version who graduated while he collapsed
+    2. His lover is alive; she left him because "You loved hating the system more than you loved me"
+    3. The ghost was guilt manifest.
+    4. While he mourned his lover, the professor mourned the rebellion
 
 ## VI. ALEXANDRIA
 
