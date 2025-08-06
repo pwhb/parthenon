@@ -18,7 +18,7 @@ By chance, C meets Strawberry at a bookstore named, "Alexandria". When Strawberr
 
 ## V. THE SERPENT
 
-P connects Strawberry's stories to the Red Tiger legend. When K asks directly about the orphanage's finances, P - incapable of lying - reveals Strawberry's secret identity. K confronts Strawberry, who confesses: "I stole Eden back from God, knowing His wrath. It breaks my heart that I put you in harm's way." She tells the orphans the truth and gives them a choice to leave. Though hesitant, some choose to leave but they all agree to protect her secret. Strawberry reveals K's parents are actually alive but unaware that K was rescued from the kidnappers years ago by Love (P's father) faked their death for their missions. K decides to reunite with them. As parting gift, Strawberry gives K the beer-stained Tao Te Ching from alexandria.
+P connects Strawberry's stories to the Red Tiger legend. When K asks directly about the orphanage's finances, P - incapable of lying - reveals Strawberry's secret identity. K confronts Strawberry, who confesses: "I stole Eden back from God, knowing His wrath. It breaks my heart that I put you in harm's way." She tells the orphans the truth and gives them a choice to leave. Though hesitant, some choose to leave but they all agree to protect her secret. Strawberry reveals K's parents are actually alive but unaware that K was rescued from the kidnappers years ago by Revolution (P's father) faked their death for their missions. K decides to reunite with them. As parting gift, Strawberry gives K the beer-stained Tao Te Ching from alexandria.
 
 ## VI. VIOLENT ENDS
 
