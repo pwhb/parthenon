@@ -23,7 +23,7 @@ A pink-obsessed girl (future Strawberry), who defends the Professor with unsettl
 
 ## V. LAZARUS
 
-After witnessing the girl borrow both Cookbooks and seeing the Professor interact with his "ghost" in the bookstore he used to go, named "Alexandria", the dropout, out of jealousy —guided by his therapist—investigates the professor and uncovers the truth slowly:
+After witnessing the girl borrow both Cookbooks and seeing the Professor interact with his "ghost" in the bookstore he used to go, named "Alexandria", the dropout, out of jealousy, investigates the professor and uncovers the truth slowly:
 
     1. The Professor is his dissociated self—the version who graduated while he collapsed
     2. His lover is alive; she left him because "You loved hating the system more than you loved me"

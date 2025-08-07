@@ -1,14 +1,10 @@
 # do strawberries dream of sweetest (saddest) songs [strawberries]
 
-## I.
+## I. VIOLENT DELIGHTS
 
-the prologue starts with Strawberry introducing the reader to Strawberries Home. It is a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (observation), Art (creation), Love (reflection), and Revolution (acceptance). There is only one rule at Strawberries Home: "Thou shalt not lie." the prologue ends with Strawberry visiting her old professor in prison.
+Strawberries Home is a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (observation), Art (creation), Love (reflection), and Revolution (acceptance). K, a mute girl who loves nature, communicates through hand signs and Tao Te Ching annotations. P is the first orphan, destined to become a computational biologist because of K's influence. P would've been a Set Theorist if not for K. There is only one rule at Strawberries Home: "Thou shalt not lie."
 
-We will explore the wholesomeness of the orphanage in POV of K. K is a mute girl; hinted that some trauma caused her mutism. K loves plants and animals. her best friend is P, the child obsessed with prime numbers. He is the first orphan, destined to become a computational biologist because of K's influence. P would've been a Set Theorist if not for K.
-
-## II. 
-
-We'll expore bureaucratic procedural work of federal agents in POV of C. C is detective that never moved on from the Red Tiger cases she took as an assignment during her academy years. 
+## II. THE HEISTS FOR EDEN
 
 The pink-obsessed girl S and Science drop out of university together. Science introduces her to Art, a singer at the bar "Guillotine". Their mission: to steal Eden back from God. Art and her friends plans four heists to fund the orphanage. The girl executes them wearing the Red Tiger mask, which becomes her infamous symbol. C, a genius detective assigned to hunt Red Tiger, grows tormented by the thief's perfection. When the heists stop, C's professional pursuit becomes a personal crusade.
 

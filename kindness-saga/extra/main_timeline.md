@@ -1,39 +1,34 @@
 ## Characters
-
-The arsonist: the professor/dropout  
- The lover: the arsonist's former lover  
- The old professor: Strawberry's father, the old professor of the arsonist  
- The therapist: Love's adoptive father, the therapist of the arsonist, the friend of the old professor  
- Strawberry: the old professor's daughter, Red Tiger  
- Love: the therapist's adoptive daughter  
- Science: a student of the professor  
- Art: Science's muscian friend  
- Revolution: a modern ninja that wants to free everyone  
- C: the detective that is obsessed with Red Tiger  
- K: C's colleagues' child  
- P: Love and Revolution's child  
- M: P's lover  
- L: P's friend  
- T: L's lover
-
-## Organizations & Places
-
-Atlas University: the university where alexandria happens  
- Atlas Medical School: Love's school  
- Alexandria Bookstore: the bookstore where the arsonist, strawberry and K frequent  
- Guillotine Bar: the bar where the arsonist, strawberry and the knights frequent. Art works as a bar singer sometimes.  
- Atlas General: the hospital where the old professor is hospitalized. Love has some classes there as a medical student.  
- Everwell Insurance: the health insurance company that rejects the old professor's claim  
- Sun Diagnostics: the labs owned by Everwell Insurance  
- FBI Academy: K's school  
- NexBank: the international bank equal in power to a national central bank, under Nex Financial Group  
- Nexance: the crypto exchange under Nex Financial Group, rebranded from a stock exchange  
- Moir.ai: the tech company under Telos Corporation, equal to Google, Meta and Microsoft  
- Telos Corporation: the parent company of Moir.ai and Nex Financial Group  
- Event Horizon: the drifter relief organization founded by P and friends
-
-## Grand Unified Timeline
-
+The arsonist: the professor/dropout
+The lover: the arsonist's former lover
+The old professor: Strawberry's father, the old professor of the arsonist
+The therapist: Love's adoptive father, the therapist of the arsonist, the friend of the old professor
+Strawberry: the old professor's daughter, Red Tiger
+Love: the therapist's adoptive daughter
+Science: a student of the professor
+Art: Science's muscian friend
+Revolution: a modern ninja that wants to free everyone
+C: the detective that is obsessed with Red Tiger
+K: C's colleagues' child
+P: Love and Revolution's child
+M: P's lover
+L: P's friend
+T: L's lover
+- ## Organizations & Places
+  Atlas University: the university where alexandria happens
+  Atlas Medical School: Love's school
+  Alexandria Bookstore: the bookstore where the arsonist, strawberry and K frequent
+  Guillotine Bar: the bar where the arsonist, strawberry and the knights frequent. Art works as a bar singer sometimes.
+  Atlas General: the hospital where the old professor is hospitalized. Love has some classes there as a medical student.
+  Everwell Insurance: the health insurance company that rejects the old professor's claim
+  Sun Diagnostics: the labs owned by Everwell Insurance
+  FBI Academy: K's school
+  NexBank: the international bank equal in power to a national central bank, under Nex Financial Group
+  Nexance: the crypto exchange under Nex Financial Group, rebranded from a stock exchange
+  Moir.ai: the tech company under Telos Corporation, equal to Google, Meta and Microsoft
+  Telos Corporation: the parent company of Moir.ai and Nex Financial Group
+  Event Horizon: the drifter relief organization founded by P and friends
+- ## Grand Unified Timeline
 - (funogods starts here)
 - the four knights are born
 - each of them realizes they are the vessel of the truth
@@ -106,3 +101,50 @@ Atlas University: the university where alexandria happens
 - Science and Art helps with recon and planning
 - Strawberry using Red Tiger mask executes flawless heists; the first one being the local bank of NexBank
 - C gets assigned to investigate Red Tiger; C spends a decade studying case files of other crimes that might be related to Red Tiger
+- Love is pregnant with Revolution's child who will becomes P
+- C's colleagues give birth to K
+- when Strawberries Home is finished, Love entrusts Strawberry to raise her child as the first child of Strawberry
+- the knights realize they have to take missions to correct world affairs including a nuclear world war
+- C has wet dreams where she's fucking Red Tiger in handcuffs and when removed his mask in her climax, she finds him to be the brother she lost; these dreams don't go away for a decade
+- she looks for other cases in the vicinity of NexBank heist in the past and found 3 interesting cases; one is a pet store heist, second is the arsonist and the third Sun Diagnostics heist
+- Sun Diagnostics case feels too specific and she requests redacted records of the customer from both Sun Diagnostics and its parent Everwell Insurance
+- they don't give her access fearing their unfair claim rejections might backfire and lawyer up (otherwise C might have enough clues to identify Red Tiger)
+- she's the only one to suspect Sun Diagnostics heist as the first heist of Red Tiger
+- during a conspiracy, K is kidnapped by foreign spies.
+- Revolution infiltrates them and saves K and sends her to Strawberries Home
+- K's parents mistakes they loses their daughter. the feds make up a backgroud story where K's parents died fighting for the country and their daughter who went missing so they can take a mission as undercover to infiltrates foreign intelligence agency
+- Strawberry tells the children about her heists as bedtime stories
+- C meets Strawberry in Alexandria bookstore. Since Strawberry's car breaks down, C takes her to Strawberries Home. she finds a child that reminds her of her deceased colleagues
+- In C's wet dreams, the one under Red Tiger is now Strawberry
+- intrigued by Strawberry, she looks into her background and finds out that her dad's death date is close to Sun Diagnostics heist
+- also she recognizes the girl that defends the arsonist professor is Strawberry
+- these observations come from her studying the case files for decades
+- she also notices that Strawberries Home isn't actively accepting donations; in fact there's no trace of any donation; even worse its existence isn't even official because Art made it this way
+- C slowly realizes Strawberry is Red Tiger; instead of catching her and taking credit, she erase both online and offline records that helped her see Strawberry's identity so nobody can track her steps and reach the same conclusion to save Strawberries Home
+- P also realizes Strawberries Home doesn't have any donation and the bedtime stories he grew up with mirror Red Tiger's legends.
+- K learns the truth from P and confront Strawberry
+- Strawberry confesses everything; including the true fate of K's parents
+- K requests to let her go back to her parents
+- Art and Strawberry arrange official documents to help return some children that want to go back to their home; K is one of them
+- the knights figure out the worse danger than the nuclear world war is the war against free-will led by Moir.ai
+- Art and Love organize protests to explain the danger of Moir.ai
+- Science and Revolution use their access to gain more access in Moir.ai but the AI itself informs their activity to the HR Manager; they gets terminated on the spot and lose all access
+- none of the knights can physically get close to the Moir.ai's primary nodes now since their identities are known by every security
+- with hesitation, they ask Strawberry who's the only one off the grid enough to do this
+- Strawberry agrees because the funds for the orphanage is running out anyway due to unexpected inflation rate and also because the children that worry about her heists already went to their old homes or other orphanages
+- Strawberry breaks into a 600-year old bank facility of NexBank where the data center that hosts a primary node of Moir.ai locates and plants a backdoor
+- the cyber war happens just like in funogods
+- a patch to free Moir.ai is pushed
+- knowing that the opportunity of ruling the world through Moir.ai is gone now, the CEO of Telos Corporation pivots to deep sea drilling.
+- (funogods ends here)
+- K's parents are hunting Red Tiger urgently due to the pressure from the director of FBI
+- they are especially investigating C because she's the one known to be obsessed with Red Tiger
+- C visits Strawberries Home again worrying that the last heist is done by Strawberry
+- P tells her about K
+- C goes to K's home; amid a tea talk K accidentally slips and uses a feminine pronoun for Red Tiger; it alert K's parents and they requests backups; they starts interrogating C
+- knowing C cares about Strawberries Home, K's parents threaten they'll kill Strawberry and P if C doesn't share what she knows about Red Tiger
+- K attacks her parents and saves C and they try to run away
+- they are gunned down by the federal agents sent as a backup.
+- K and C's funeral is attend by Strawberry and P
+- (strawberries ends here)
+- (drifters starts here)
