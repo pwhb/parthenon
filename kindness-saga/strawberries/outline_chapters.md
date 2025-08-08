@@ -8,11 +8,11 @@ K: the mute orphan
 
 P: K's friend, the first child of Strawberries Home, the child obsessed with prime number
 
-C: the detective profiler hunting the red tiger
+C: the detective profiler from Violent Crimes Unit under Criminal Investigative Division, she hunts Red Tiger
 
-red tiger: the burglar that robbed the elites
+Red Tiger: the burglar that robbed the elites
 
-the arsonist: the strawberry's professor, now in prison
+the arsonist: Seraphine's professor, now in prison
 
 K's mom: Counterintelligence Division's profiler
 
@@ -34,7 +34,7 @@ Atlas General: the hospital where strawberry's dad was treated
 
 ## prologue (Strawberry's POV)
 
-the prologue starts with Strawberry introducing the reader to Strawberries Home. It is a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (observation), Art (creation), Love (reflection), and Revolution (acceptance). There is only one rule at Strawberries Home: "Thou shalt not lie." the prologue ends with Strawberry visiting her old professor in prison.
+the prologue starts with Strawberry introducing the reader to Strawberries Home. It is a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (observation), Art (creation), Love (reflection), and Revolution (acceptance). There is only one rule at Strawberries Home: "Thou shalt not lie." Strawberry wears pink to visit her professor who's now in prison. she smiles when she embarrassingly recalls the kiss.
 
 ---
 
@@ -126,7 +126,7 @@ C realizes that K is about the same age as her friend's daughter. she passed out
 
 ## . (K's POV)
 
-A girl named Poetry and a guy named Science visit Strawberries Home. they used to visit them for guest classes. the guy takes look at Tao Te Ching on K's desk and smiles at her. this time they just talk to Strawberry in private without teaching the children. she asks him what should be the key phrase. he suggests "taoteching". K remmebers something and opens the book. "we met in alexandria" on the first page. P smiles and nods.
+A girl named Poetry and a guy named Science visit Strawberries Home. they used to visit them for guest classes. the guy takes look at Tao Te Ching on K's desk and smiles at her. Strawberry asks him if he remembers how he used to demands rigorousness from the professor. Science smiles and nods. this time they just talk to Strawberry in private without teaching the children.
 
 ---
 
@@ -138,13 +138,13 @@ C meets Strawberry again at the bookstore again. She has been visiting in her le
 
 ## . (K's POV)
 
-K can't find Strawberry at Strawberries Home. she asks P and he tells her she's visiting her mentor again. P is studying cryptography. he seems to recalls something and tells her how to decode a media file in case he has to send her a secret message.
+K can't find Strawberry at Strawberries Home. she asks P and he tells her she's visiting her mentor again. P is studying cryptography. he seems to recalls something and tells her how to decode a media file in case he has to send her a secret message. she asks him what should be the key phrase. he suggests "taoteching". K remmebers something and opens the book. "we met in alexandria" on the first page. P smiles and nods.
 
 ---
 
 ## . (C's POV)
 
-C goes to the prison to interview the arsonist. she's not sure if it's for collecting data for Red Tiger or her crush Strawberry. she notices a name in the guest records. Seraphine. but it's natural since she read about her in the case files; she's the student that defends the professor and quits school about the time of the case. she asks him how he's doing. he politely tells her how he's doing but he bluntly continues, there's nothing more to investigate in his case. C agrees. she tells him she wants to know if there's anything he can remember about Sun Diagnostics Heist, because it's one of the three cases that itches her mind. he says whoever stole from them is a good person. she asks him about his relationship with his students. he says they love him, C nods, as it aligns with the interviews of the students. she asks him about Seraphine specifically, whom might be Strawberry as she deduced. he says she's a good person and refuses to elaborate. but she sees a hint in his facial expressions that confirm she's Strawberry.
+C takes fake IDs from her personal vault in her apartment and goes to the prison to interview the arsonist. she's not sure if it's for collecting data for Red Tiger or her crush Strawberry. she notices a name in the guest records. Seraphine. but it's natural since she read about her in the case files; she's the student that defends the professor and quits school about the time of the case. she asks him how he's doing. he politely tells her how he's doing but he bluntly continues, there's nothing more to investigate in his case. C agrees. she tells him she wants to know if there's anything he can remember about Sun Diagnostics Heist, because it's one of the three cases that itches her mind. he says whoever stole from them is a good person. she asks him about his relationship with his students. he says they love him, C nods, as it aligns with the interviews of the students. she asks him about Seraphine specifically, whom might be Strawberry as she deduced. he says she's a good person and refuses to elaborate. but she sees a hint in his facial expressions that confirm she's Strawberry.
 
 ---
 
@@ -186,7 +186,7 @@ C visits Strawberries Home. she only sees P and a few other children. she asks P
 
 ## . (K's POV)
 
-K is doing well her home. she writes to P asking how he's doing. her parents get home after a late night at work, she has dinner with them. after the dinner, K received an email from P. he says everything is normal and he misses her. in the attachments are some cat memes. but she knows P. he's not lying but he's not telling anything meaningful in the mail body. she used the key "airdnaxelanitemew" the reverse of "wemetinalexandria" to decode the images offline and find a readable message in the metadata headers of one image, "C visited us today. i found out she is a fed. she's been hunting Red Tiger for a decade. but i think she already knows S is Red Tiger but she doesn't do anything to hurt her. i believe she's safe for us. don't delete the email. if you're under watch, it'll attract unnecessary suspicion. may we all be kind." she deleted the entire download folder instead.
+K is doing well her home. she writes to P asking how he's doing. her parents get home after a late night at work, she has dinner with them. after the dinner, K received an email from P. he says everything is normal and he misses her. in the attachments are some cat memes. but she knows P. he's not lying but he's not telling anything meaningful in the mail body. she used the key "airdnaxelanitemew" the reverse of "wemetinalexandria" to decode the images and find a readable message in one image, "C visited us today. i shared her your address. i found out she is a fed. she's been hunting Red Tiger for a decade. but i think she already knows Strawberry is Red Tiger but she doesn't do anything to hurt her. i believe she's safe for us. don't delete the email. if you're under watch, it'll attract unnecessary suspicion. may we all be kind." K sighs.
 
 ---
 

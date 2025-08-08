@@ -9,6 +9,15 @@ the plots are pretty much confirmed. please don't guess the plot yet. I will sha
 
 ---
 
+this is the first novel's outline. I also has a draft but I can't share it or the content limit will be exceeded. you'll see each chapter has two titles; mundane one and the greek myth inspired one in the quotes. like the ceiling fan and tartarus.
+
+
+---
+
+please only act like a friend listening to my pitch. feel free to point out any inconsistency. but please don't overstep in the creative area. it's my job and I want my voice to be authentic.
+
+---
+
 I need help with the character names. I'll share the character map later. for now just so you know the plots let me share the outline
 
 each section is more like an arc than a chapter. each arc takes multiple chapters. I swear the actual novels are deeper and have more details that I can't possibly express in the outline.
