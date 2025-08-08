@@ -35,7 +35,7 @@
 
 > every night we dive deep into the inky pool, deep into the arms of **morpheus**. every morning we wake up and wipe the sleep from our eyes. and that keeps us safe. safe from the monsters inside.
 
-sleep no more, doctor who
+> sleep no more, doctor who
 
 အဝေးတစ်နေရာက နှိုးစက်မြည်သံကို ထပ်တလဲလဲ ကြားရနေရတယ်။
 
@@ -66,7 +66,7 @@ sleep no more, doctor who
 > as she appears in weird shapes and strange forms,
 > now plain to the eye, now shadowy, now shining in the darkness—
 
-orphic hymn 71 to **melinoe**
+> orphic hymn 71 to **melinoe**
 
 အချိန်တစ်ခုကြာတော့ ဖုန်းကနှိုးစက် ထပ်မြည်လာတယ်။ စကတည်းက နှိုးစက်မြည်မယ်မှန်း ကြိုသိပြီးသားပဲကို။ ဒါပေမယ့်ထင်ထားသလို အိပ်ယာထဲမှာ နိုးမလာဘူး။ ကားပေါ်မှာ မတ်တပ်ရပ်စီးရင်းနဲ့ ဘောင်းဘီအိတ်ထဲက ဖုန်းကနှိုးစက်မြည်နေတာ။ ‌တိုင်ကိုထောက်မထားတဲ့လက်နဲ့ ဖုန်းကိုဆွဲထုတ်လိုက်တယ်။ နှိုးစက်အမည်က ဆေးခန်းလို့ ရေးထားတယ်။ ဟုတ်သား၊ ဒီနေ့ဆရာနဲ့တွေ့ရမှာပဲ။ အပတ်တိုင်းတွေ့နေကျပေမယ့် နောက်ဆုံးတွေ့ခဲ့တာကို ပြန်စဉ်းစားလို့မရ။ အရင်အပတ်က နှစ်ပေါင်းများစွာ ခြားနေသလို ခံစားရတယ်။ အရာရာတိုင်းက ကျနော်‌နေရာကနေ ဝေးကွာလွန်းနေတယ်။ ကျနော်တစ်ယောက်တည်း သီးခြားဖြစ်လွန်းနေတယ်။ အနည်းဆုံးတော့ ‌ကျောင်းကိုဘာလို့လာနေလဲ စဉ်းစားစရာ မလိုတော့ဘူး။ ဦးတည်ချက်တစ်ခုခု ရှိနေတဲ့အခါ နေရတာ အဆင်ပြေသားပဲ။ ဦးတည်ချက်တွေ အများကြီးရှိနေမှသာ စိတ်ဖိစီးပြီး ဘာလုပ်ရမှန်း မသိတော့တာ။
 
@@ -202,7 +202,7 @@ orphic hymn 71 to **melinoe**
 
 > hermes (to **prometheus**) : supreme conniver, master of complaints, fire-thief who mocks the gods and idolizes dayflies…
 
-aeschylus, prometheus bound
+> aeschylus, prometheus bound
 
 "အိုကေဗျာ၊ နောက်အပတ်လည်း ဒီအချိန်ပဲ ဒီကိုလာခဲ့။ ဆရာ မအားရင် ဆရာဖုန်းကြိုဆက်မယ်။ အားတော့အားမှာပါ။ ခင်များမလာဖြစ်ရင်တော့ မက်ဆေ့ဖြစ်ဖြစ်ပို့လိုက်။ မပို့လည်းရတယ်။ ခင်များ လာလာ၊ မလာလာ ဆရာကတော့ ဒီအချိန်ဆိုဒီအခန်းမှာ ရှိနေမှာပဲ။ ဖုန်းမဆက်ချင်မှန်း သိပေမယ့် အဆင်မပြေတာရှိရင် ဆရာ့ကို အချိန်မ‌ရွေး ဖုန်းဆက်‌"
 
