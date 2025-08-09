@@ -1,4 +1,5 @@
 ## Characters
+
 The arsonist: the professor/dropout
 The lover: the arsonist's former lover
 The old professor: Strawberry's father, the old professor of the arsonist
@@ -14,21 +15,25 @@ P: Love and Revolution's child
 M: P's lover
 L: P's friend
 T: L's lover
-- ## Organizations & Places
-  Atlas University: the university where alexandria happens
-  Atlas Medical School: Love's school
-  Alexandria Bookstore: the bookstore where the arsonist, strawberry and K frequent
-  Guillotine Bar: the bar where the arsonist, strawberry and the knights frequent. Art works as a bar singer sometimes.
-  Atlas General: the hospital where the old professor is hospitalized. Love has some classes there as a medical student.
-  Everwell Insurance: the health insurance company that rejects the old professor's claim
-  Sun Diagnostics: the labs owned by Everwell Insurance
-  FBI Academy: K's school
-  NexBank: the international bank equal in power to a national central bank, under Nex Financial Group
-  Nexance: the crypto exchange under Nex Financial Group, rebranded from a stock exchange
-  Moir.ai: the tech company under Telos Corporation, equal to Google, Meta and Microsoft
-  Telos Corporation: the parent company of Moir.ai and Nex Financial Group
-  Event Horizon: the drifter relief organization founded by P and friends
-- ## Grand Unified Timeline
+
+## Organizations & Places
+
+Atlas University: the university where alexandria happens
+Atlas Medical School: Love's school
+Alexandria Bookstore: the bookstore where the arsonist, strawberry and K frequent
+Guillotine Bar: the bar where the arsonist, strawberry and the knights frequent. Art works as a bar singer sometimes.
+Atlas General: the hospital where the old professor is hospitalized. Love has some classes there as a medical student.
+Everwell Insurance: the health insurance company that rejects the old professor's claim
+Sun Diagnostics: the labs owned by Everwell Insurance
+FBI Academy: K's school
+NexBank: the international bank equal in power to a national central bank, under Nex Financial Group
+Nexance: the crypto exchange under Nex Financial Group, rebranded from a stock exchange
+Moir.ai: the tech company under Telos Corporation, equal to Google, Meta and Microsoft
+Telos Corporation: the parent company of Moir.ai and Nex Financial Group
+Event Horizon: the drifter relief organization founded by P and friends
+
+## Grand Unified Timeline
+
 - (funogods starts here)
 - the four knights are born
 - each of them realizes they are the vessel of the truth

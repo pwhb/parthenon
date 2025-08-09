@@ -1,4 +1,4 @@
-I've been writing 4 novels since I was 21. it's just one at first and then i got another idea and so on. now I have 4 summaries for 4 novels.
+I've been writing 4 novels since I was 21. I'm 27 now. it's just one at first and then i got another idea and so on. now I have 4 summaries for 4 novels.
 
 the titles are
 
