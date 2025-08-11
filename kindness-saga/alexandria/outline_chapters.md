@@ -2,13 +2,13 @@
 
 ## characters
 
-| name                | full name          | role                   | description                                          |
-| ------------------- | ------------------ | ---------------------- | ---------------------------------------------------- |
-| the narrator        | Alexei Volkov      | dropout                |                                                      |
-| the lover           | Naomi Kim          | student/business woman | the narrator's lover that died in an accident        |
-| the old professor   | Arthur Starling    | professor              | the narrator's old professor, retired now            |
-| the professor       |                    | professor              | the young teacher in the narrator's old classroom    |
-| the pink girl       | Seraphine Starling | student                | the girl obsessed with pink                          |
+| name                | full name          | role                   | description                                           |
+| ------------------- | ------------------ | ---------------------- | ----------------------------------------------------- |
+| the narrator        | Alexei Volkov      | dropout                |                                                       |
+| the lover           | Naomi Kim          | student/business woman | the narrator's lover that died in an accident         |
+| the old professor   | Arthur Starling    | professor              | the narrator's old professor, retired now             |
+| the professor       |                    | professor              | the young teacher in the narrator's old classroom     |
+| the pink girl       | Seraphine Starling | student                | the girl obsessed with pink                           |
 | the logical student | Soren Socrates     | student                | the student that mercilessly critiques the professor |
 
 ---
@@ -38,7 +38,7 @@ an alarm wakes up the narrator from a dream. he's still not sure he's in a dream
 
 ## III. the ghost (melinoe)
 
-he realizes the alarm is for his weekly therapy session with his therapist, an psychology professor in the campus, his old university, Atlas University. he also realizes he's a dropout now. he sees his deceased lover on the way. he sees his therapist in a classroom. he mentions about hallucinating his lover. the therapist asks him if the library of alexandria is still burning. he shows he feels like the academic institution should be destroyed to free curiosity of the students. the therapist asks him if he's talked to anyone recently because he delete all social media apps. he answers he has no contact with anyone. suddenly he remembers he recently visited the bookstore but can't remember why. he dissociates during the session and sees his lover in the university library.
+he realizes the alarm is for his weekly therapy session with his therapist, a psychology professor in the campus, his old university, Atlas University. he also realizes he's a dropout now. he sees his deceased lover on the way. he sees his therapist in a classroom. he mentions about hallucinating his lover. the therapist asks him if the library of alexandria is still burning. he shows he feels like the academic institution should be destroyed to free curiosity of the students. the therapist asks him if he's talked to anyone recently because he delete all social media apps. he answers he has no contact with anyone. suddenly he remembers he recently visited the bookstore but can't remember why. he dissociates during the session and sees his lover in the university library.
 
 ---
 
@@ -132,7 +132,7 @@ the narrator finds himself in the hallway walking to the morgue. he doesn't unde
 
 ---
 
-## XVIII. [chess opening that mirrors the story]
+## XVIII. king's gambit
 
 the narrator realizes he's getting unstable again. it's two past midnight. he keeps playing chess to stay awake. he keeps losing. when he remembers to look at the time, it's already morning. he gets up and goes to see his therapist. he retells him about his dream. the therapist tells him it's normal to be unstable again when the old wounds are reopened. he has to understand that the only thing he can do now is to live in the memory of his lover and his professor and live in a way that would make them proud of him. he sees his therapist has a bishop head. he's seeing chess patterns everywhere.
 
@@ -154,7 +154,7 @@ the narrator wakes up at the library. he's not sure if he dreamed about kissing 
 
 ---
 
-## XXI.
+## XXI. spectator mode
 
 it's been a while he last saw the pink girl. he doesn't know how to or why but he wants to apologize to her. the debates in the classrooms are mostly one-sided since she's been skipping classes. maybe she's avoiding him. maybe she's dealing with her grief. he feels like she sucked the despair from him. of course it didn't make him feel better. it'd be so awkward to see her again but he wants to see her again. the professor should be as clueless as him.
 
@@ -176,7 +176,7 @@ the narrator wakes up with a panic attack. when he can ground himself, he has to
 
 he calls his therapist in the morning. he realizes his therapist knew the professor is himself. he asks him if it's possible to talk to himself. the therapist retraces how he figures it out. he explains he begins to suspect it because of the book. he got it at the professor's office. the therapist suggests him to go to the professor's office. the therapist warns him to be very gentle with himself. just like the narrator isn't aware that the professor is himself, the professor might not be aware that he's the narrator. learn to understand yourself and accept yourself, the therapists advises.
 
-## XXIV.
+## XXIV. face-off
 
 the narrator can easily open the professor's office. he sits in the guest's chair and wait for him. after a while, the professor enters the room and is surprised to see him. "is there anything I can help you with?" the narrator nods. he asks him why he gave him tao te ching. he answers it's a habbit he got from his old professor. he asks him if his old professor also hands out his lover's gift to any random person. the professor opens the book and sees "we met in alexandria". the professor is surprised by how the narrator knows about his lover. he quietly replies she's his former lover and asks how he knew it was his former lover's gift. the narrator is angry and asks him if the student girl is his lover now. the professor answers no. the narrator asks him to be honest and if he knows something about being physically intimate with the student girl in the classroom. the professor shamefully answers he had a wet dream like that and he felt guilty about it but there's nothing complicated between him and the girl. he's shocked by how the narrator knows about his dream. the narrator interrogates him if he took advantage of his student. the professor says he worked for sexual harassment policy when he was a student. the narrator points out that it doesn't mean he's not a hypocrite. the professor confessed he had some feelings about his student. he recognizes he's a hypocrite. he confesses he wanted to be physically intimate with her. but he never approached her. because he wants to save her from him. the narrator is finally convinced and tells him he and the professor are the same person. the professor asks him how he sent himself home with a taxi. the narrator answers they both might have been on the taxi or they both were with the girl. only the girl knows. the professor assured him he stayed away from the former lover to protect her too. the narrator asked him how his former lover is alive. the professor answers she never died. she just broke up with him when she recovered. he accepted it and wasted a year, since he failed the exam, drowning in alcohol. it was a confusing year for him too. while the narrator clings onto the therapy, the professor clings onto the normal status quo.
 
