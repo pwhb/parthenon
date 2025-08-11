@@ -6,6 +6,14 @@ Four humans children were born as ordinary children. Each of them found the trut
 
 ## I. prologue
 
+Four children were born in the same year in different parts of the world; Soren Socrates in Copenhagen, Persephone Philomela in Athens, Leila Lysandra in Shiraz, Rhys Rosaline in Vienna.
+
+David 
+
+
+Leila Lysandra is in her father's library, reading bible. When she reads Revelation, she knows for certain the Four Horsemen are the foes she's been fighting against for eternity.
+
+Rhys Rosaline
 
 ## I. THE PROFESSOR’S FALL
 

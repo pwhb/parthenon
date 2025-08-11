@@ -2,21 +2,25 @@
 
 ## characters
 
-the narrator: the dropout
-the lover: the narrator's lover that died in an accident
-the old professor: the narrator's old professor, retired now
-the professor: the young teacher in the narrator's old classroom
-the pink girl: the girl obsessed with pink
-the logical student: the student that mercilessly criticizes the professor
+| name                | full name          | role                   | description                                          |
+| ------------------- | ------------------ | ---------------------- | ---------------------------------------------------- |
+| the narrator        | Alexei Volkov      | dropout                |                                                      |
+| the lover           | Naomi Kim          | student/business woman | the narrator's lover that died in an accident        |
+| the old professor   | Arthur Starling    | professor              | the narrator's old professor, retired now            |
+| the professor       |                    | professor              | the young teacher in the narrator's old classroom    |
+| the pink girl       | Seraphine Starling | student                | the girl obsessed with pink                          |
+| the logical student | Soren Socrates     | student                | the student that mercilessly critiques the professor |
 
 ---
 
 ## places
 
-Atlas University: the university where the dropout went to
-Guillotine bar: the bar where the dropout used to go with his friends
-Alexandria: the bookstore where the dropout used to date with his lover
-Atlas General: the hospital where his lover was hospitalized after the accident and where his old teacher is hospitalized
+| name                 | description                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Atlas University     | the university where the dropout went to                                                                   |
+| Guillotine Bar       | the bar where the dropout used to go with his friends                                                      |
+| Alexandria Bookstore | the bookstore where the dropout used to date with his lover                                                |
+| Atlas General        | the hospital where his lover was hospitalized after the accident and where his old teacher is hospitalized |
 
 ---
 
@@ -90,7 +94,7 @@ the narrator goes to the canteen he used to go with his lover. it is crowded. he
 
 ---
 
-## . paperwork
+## XII. paperwork
 
 the narrator is in his old professor's office. his professor isn't convinced he's financially struggling to continue his studies. but he tells him he'd support him. he refuses to sign the letter. failing to convince his old professor, he left the office. he tells his lover about that. his lover is glad the professor rejected his resignation. she assures she'll always be there to support him.
 
@@ -98,13 +102,13 @@ he finds himself writing another resignation letter. this time the reason is men
 
 ---
 
-## . beef ramen
+## XIII. beef ramen
 
 the narrator's lover begs him to study. he says it's meaningless. he says he wants to break free from this absurd academic system. she begs him again and again. she tells him she'll buy him beef ramen everyday. she tells him to study if she loves him. he tells her he loves her but he's not going to take this exam. he tells her he has no choice. his professor will never let him go as long as he doesn't abandon the rules. his lover begs him to endure it until he graduates. he tell her graduation is the ceremony of branding slave marks on your back and he doesn't want a slave mark. after a long fight, he apologizes to her and turn off his phone.
 
 ---
 
-## . the cookbooks
+## XIV. the cookbooks
 
 the therapists ask the narrator if he knows what he wants other than from things like seeing his lover. the therapist wants him to answer he wants to continue his studies. he thinks about it but he prefers to go to the class he has no obligation to go to. he answers he wants to make food for his comrades even though he doesn't know who his comrades are. what kind of food, the therapist asks. burmese tofu, he answers. why doesn't he make some as a rehearsal, the therapist asks. he says he'll think about it. he used to make tofu for his lover and his friends. it'd be sad to make some tofu without someone to share. the therapist suggests to share it with his old professor. even if he's too sick to have some, his daughter would appreciate it.
 
@@ -112,23 +116,23 @@ missing his old professor, the narrator walks to the young professor's office. h
 
 ---
 
-## . tofu
+## XV. tofu
 
 it's been a few days since he last saw his therapist. the narrator goes to the grocery store. when he sees chickpea powder, he remembers he wants to make tofu. he forgot how to make it. he remembers he used to write recipes in a document in his laptop. but he can't login to his profile. he tries his lover's name, his lover's birthday, and so on. he tries to access the file from the guest profile. but he fails. he just look up the recipe online and make some tofu. the first batch isn't good. he makes another batch. he wishes he could share it with his lover. while waiting for tofu, he reads in the news that there was a burglary at the medical labs. it's the same one he used to go while his lover was in the hospital. he still has some receipts from there in his wallet. he kept them as something to remember his lover. he's glad that it was stolen. the staff there were too rude. they once gave him wrong labs results. this tofu batch isn't good either. he tries to make another batch.
 
-## . the funeral
+## XVI. the funeral
 
 the narrator picks up a call from his therapist and learns his old professor passed away. he feels so empty. he dresses himself well and attends his old professor's funeral. he sees the pink girl at the funeral. [I'll add details here to point out that the narrator eventually realizes she's his old mentor's daughter.] he also sees the young professor talking to the pink girl. his therapist approaches him to ask about his well-being. the narrator sorrowfully confesses he wishes he visited his old professor. the therapist tries to comfort him saying his friend was unconscious when he visited the hospital. he tells him he mentioned about the narrator. perhaps the old professor understands him.
 
 ---
 
-## . the hallway
+## XVII. the hallway
 
 the narrator finds himself in the hallway walking to the morgue. he doesn't understand why the hallway is endless or why he's trying to see the body of his mentor whose funeral he already attended. [this is a nightmare sequence just like the first chapter.] he used to be mad at his old mentor for rejecting his resignation again and again. he wants to apologize for it. he sees his lover's body being taken out of the morgue. he tries to stop the strangers pushing the body. he caress his lover's face. he apologizes to her for reading dostoevsky because it was the only books that help him with his anxiety. he apologizes again and again. he confesses he wished he read her jane austen instead. he sees his lover's eyes open and then he wakes up.
 
 ---
 
-## . [chess opening that mirrors the story]
+## XVIII. [chess opening that mirrors the story]
 
 the narrator realizes he's getting unstable again. it's two past midnight. he keeps playing chess to stay awake. he keeps losing. when he remembers to look at the time, it's already morning. he gets up and goes to see his therapist. he retells him about his dream. the therapist tells him it's normal to be unstable again when the old wounds are reopened. he has to understand that the only thing he can do now is to live in the memory of his lover and his professor and live in a way that would make them proud of him. he sees his therapist has a bishop head. he's seeing chess patterns everywhere.
 
@@ -136,7 +140,7 @@ he wants to text his lover. but he doesn't, overwhelmed by his guilt and sorrow.
 
 ---
 
-## . the restroom
+## XIX. the restroom
 
 the narrator goes to the "Guillotine" bar after class. the nostalgia is agonizing. he misses his friends. he misses playing dart with his friends. he remembers pretending to play billiards with his friends only using two balls making other people impatiently wait. he's summoned to the present when the pink girl takes the seat at his table. she orders "blood of eden" cocktail. he politely asks her how she's doing. she confesses she feels lost without her dad. he lost his dad when he was about her age too. but he didn't mention about it because he was relieve when his dad passed away because he was abusive to him all his life. she's just like him. alone and lost. she tells him about her classes. after a while, she excuses herself and take a visit to the restroom. he notices she enters "other" bathroom. after a while, the young professor enters the bar and asks him for a seat at the table. he orders "lavender tears" again. when the pink girl comes out of the restroom, she's not surprised to see her professor at the table. she smiles at both and continue talking about her classes. she lights a cigarette. she also expresses her opinion about that student that demands rigorousness in every class. he's exhausting. the professor says he doesn't really mind. he's even grateful that he's there to correct him.
 
@@ -144,13 +148,13 @@ the singer is singing "Apocalypse" by "Cigarettes After Sex" when the narrator r
 
 ---
 
-## . library
+## XX. library
 
 the narrator wakes up at the library. he's not sure if he dreamed about kissing the pink girl. he feels guilty the same. he goes to the professor's office. he might know what happened as he's the only one that was present there. the professor is taking a nap on his desk. he knocks on the door to wake him up and the professor welcomes him. he says he's sorry but he wants to know if they drunk yesterday. the professor nods. the narrator tells him he can't remember what happened. the professor explains he passed out in the restroom. the girl asked him for help and he carried him. they tried to wake him up. it took them a while to wake him up. they got a taxi for him and they wished he got home safely. when he's about to leave the office, the professor asks him to wait and gives him a copy of tao te ching.
 
 ---
 
-## .
+## XXI.
 
 it's been a while he last saw the pink girl. he doesn't know how to or why but he wants to apologize to her. the debates in the classrooms are mostly one-sided since she's been skipping classes. maybe she's avoiding him. maybe she's dealing with her grief. he feels like she sucked the despair from him. of course it didn't make him feel better. it'd be so awkward to see her again but he wants to see her again. the professor should be as clueless as him.
 
@@ -158,7 +162,7 @@ he visits the bookstore hoping he might find her. instead he sees the professor 
 
 ---
 
-## . the window glass
+## XXII. the window glass
 
 the narrator likes to pretend to teach the class when all classes are over. his professor once said he used to practice like that too. he can see his reflection in the window glass. [insert a mock lecture to rehearse. but it's not serious because this is a dream sequence again.]
 
@@ -166,19 +170,19 @@ when he looks at the class, he sees the pink girl clapping. she's smiling at him
 
 ---
 
-## . the book
+## XXIII. the book
 
 the narrator wakes up with a panic attack. when he can ground himself, he has to conclude the young professor isn't normal. he remembers he gives him tao te ching. he feels like it's more than a book. he doesn't understand why he sense his lover's warmth when he thinks about it. he opens the book and sees his lover's handwriting on the first page. "we met in alexandria". why does the professor have this book? did he give this book to him to humiliate him? determined to confront with him, he thinks about how to ask him. he tries to read tao te ching. he slowly remembers his lover gives it to him as a gift. then why does the professor has it? he remembers reading dostoevsky's the double. it's almost like the professor is his junior. he tries to consider if it's possible that he's the professor. he carefully looks into his bag and he finds some keys he doesn't recognize. it might be the professor's office key. all he has to do is to go to the office in the morning and check if one of those keys can open the office. but isn't there something else that requires a key? he remembers the profile in his laptop. he tries "wemetinalexandria" and it's unlocked. he looks into his profile. he finds lecture notes he wrote. he finds his faculty emails. he finds his social media accounts in the browser. he finds he's been in contact with his lover. he scroll through his lover's profile. she's still very alive. he remembers she definitely had an accident; she had a trip with her classmates soon after he chose to not take his exam. she'd been in coma. he texts her, "when is the last time we met?" she replies, "at the bookstore". he realizes what he saw at the bookstore wasn't a dream. he was there as the professor. the professor locked him out so he can't make them notice him.
 
 he calls his therapist in the morning. he realizes his therapist knew the professor is himself. he asks him if it's possible to talk to himself. the therapist retraces how he figures it out. he explains he begins to suspect it because of the book. he got it at the professor's office. the therapist suggests him to go to the professor's office. the therapist warns him to be very gentle with himself. just like the narrator isn't aware that the professor is himself, the professor might not be aware that he's the narrator. learn to understand yourself and accept yourself, the therapists advises.
 
-## .
+## XXIV.
 
 the narrator can easily open the professor's office. he sits in the guest's chair and wait for him. after a while, the professor enters the room and is surprised to see him. "is there anything I can help you with?" the narrator nods. he asks him why he gave him tao te ching. he answers it's a habbit he got from his old professor. he asks him if his old professor also hands out his lover's gift to any random person. the professor opens the book and sees "we met in alexandria". the professor is surprised by how the narrator knows about his lover. he quietly replies she's his former lover and asks how he knew it was his former lover's gift. the narrator is angry and asks him if the student girl is his lover now. the professor answers no. the narrator asks him to be honest and if he knows something about being physically intimate with the student girl in the classroom. the professor shamefully answers he had a wet dream like that and he felt guilty about it but there's nothing complicated between him and the girl. he's shocked by how the narrator knows about his dream. the narrator interrogates him if he took advantage of his student. the professor says he worked for sexual harassment policy when he was a student. the narrator points out that it doesn't mean he's not a hypocrite. the professor confessed he had some feelings about his student. he recognizes he's a hypocrite. he confesses he wanted to be physically intimate with her. but he never approached her. because he wants to save her from him. the narrator is finally convinced and tells him he and the professor are the same person. the professor asks him how he sent himself home with a taxi. the narrator answers they both might have been on the taxi or they both were with the girl. only the girl knows. the professor assured him he stayed away from the former lover to protect her too. the narrator asked him how his former lover is alive. the professor answers she never died. she just broke up with him when she recovered. he accepted it and wasted a year, since he failed the exam, drowning in alcohol. it was a confusing year for him too. while the narrator clings onto the therapy, the professor clings onto the normal status quo.
 
 they both goes home together for the first time.
 
-## .
+## XXV.
 
 the narrator asks for help from the professor. he wants to destroy the convocation hall and destroy student data. the professor, wanting to redeem for his shameful sins, gives him his access. the narrator phishes the university admins and he gains access to delete student data. before he starts deleting he make a bomb to blow up the hall. he makes a plan to evacuate the people insides the building with a fake timebomb and then actually blow it up when everyone is safe.
 

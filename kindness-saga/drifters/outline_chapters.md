@@ -38,7 +38,7 @@ Three years after Emergence, with no volunteers left, M tests a new vaccine on h
 
 ## VI. PROJECT PANDORA
 
-P realizes their wasted years stem from elite resource hoarding. He loads Pandora into wine barrels (nodding to Diogenes, his mother's prophet) and has T distribute it to all elite vaults and space stations.
+P realizes their wasted years stem from elite resource hoarding. He loads Pandora into wine barrels (nodding to Diogenes, his father's prophet) and has T distribute it to all elite vaults and space stations.
 
 He knows M wouldn't want vengeance. Strawberry and his parents wouldn't want continued war. He may be dooming humanity. Yet trembling with guilt, he pulls the final lever unapologetically—not for revenge, but as a heist of justice. He believes in the poor's survival chances if freed from elite obstruction.
 

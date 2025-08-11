@@ -2,43 +2,40 @@
 
 ## characters
 
-strawberry: the university dropout that founded strawberries home, her real name is Seraphine
-
-K: the mute orphan
-
-P: K's friend, the first child of Strawberries Home, the child obsessed with prime number
-
-C: the detective profiler from Violent Crimes Unit under Criminal Investigative Division, she hunts Red Tiger
-
-Red Tiger: the burglar that robbed the elites
-
-the arsonist: Seraphine's professor, now in prison
-
-K's mom: Counterintelligence Division's profiler
-
-K's dad: Counterintelligence Division's task force member
+| name         | full name            | role          | description                                                                           |
+| ------------ | -------------------- | ------------- | ------------------------------------------------------------------------------------- |
+| Strawberry   | Seraphine Starling   | caretaker     | the university dropout that founded strawberries home                                 |
+| K            | Katy Moore           | child         | the mute orphan that loves nature                                                     |
+| C            | Clara Foster         | agent         | the detective profiler from Violent Crimes Unit under Criminal Investigative Division |
+| P            | Parthenius Lysandra  | child         | the first child of Strawberries Home                                                  |
+| Red Tiger    |                      | criminal      | the burglar that robbed the elites                                                    |
+| The arsonist | Alexei Volkov        | prisoner      | Seraphine's professor, now in prison                                                  |
+| K's mom      | Jenny Moore          | agent         | Counterintelligence Division's profiler                                               |
+| K's dad      | Martin Moore         | agent         | Counterintelligence Division's task force member                                      |
+| Science      | Soren Socrates       | guest teacher |                                                                                       |
+| Poetry       | Persephone Philomela | guest teacher |                                                                                       |
 
 ---
 
 ## places
 
-Strawberries Home: the orphanage founded by strawberry
-
-Alexandria: the bookstore where strawberry gets books for the orphanage
-
-Atlas University: the university where strawberry went to
-
-Atlas General: the hospital where strawberry's dad was treated
+| name                 | description                                                 |
+| -------------------- | ----------------------------------------------------------- |
+| Strawberries Home    | the orphanage founded by strawberry                         |
+| Atlas University     | the university where strawberry went to                     |
+| Guillotine Bar       | the bar where the dropout used to go with his friends       |
+| Alexandria Bookstore | the bookstore where strawberry gets books for the orphanage |
+| Atlas General        | the hospital where strawberry's dad was treated             |
 
 ---
 
-## prologue (Strawberry's POV)
+## I. prologue (Strawberry's POV)
 
 the prologue starts with Strawberry introducing the reader to Strawberries Home. It is a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (observation), Art (creation), Love (reflection), and Revolution (acceptance). There is only one rule at Strawberries Home: "Thou shalt not lie." Strawberry wears pink to visit her professor who's now in prison. she smiles when she embarrassingly recalls the kiss.
 
 ---
 
-## I. violent delights (K's POV)
+## II. violent delights (K's POV)
 
 We will explore the wholesomeness of the orphanage in POV of K. K is a mute girl; hinted that some trauma caused her mutism. K loves plants and animals. her best friend is P, the child obsessed with prime numbers. He is the first orphan, destined to become a computational biologist because of K's influence. P would've been a Set Theorist if not for K.
 
@@ -84,7 +81,7 @@ Strawberry tells the children about the origin story of the thief. the thief bro
 
 C visits her brother's grave, on a holiday. he died in a gang war. he was a drug addict but he was all she had before her job. When she gets her apartment, she review the board on her wall again. she searches red tiger in porn sites. she tries to masturbate to one of the video but she fails to get wet. she's too sad missing her brother.
 
-she passed off being exhausted. she hears a knock on the door and opens it. it's red tiger. she is scared to let him in but she eventually does. she doesn't understand why she finds his chest sexy. without speaking a word, she finds herself connected to this man. she caresses his chest. he hugs her and put her on the bed. she handcuffs his hands to the bed and has sex with him. at the climax, she put his mask off and sees her brother's face. she cums while crying on her brother's chest.
+she passed out being exhausted. she hears a knock on the door and opens it. it's red tiger. she is scared to let him in but she eventually does. she doesn't understand why she finds his chest sexy. without speaking a word, she finds herself connected to this man. she caresses his chest. he hugs her and put her on the bed. she handcuffs his hands to the bed and has sex with him. at the climax, she put his mask off and sees her brother's face. she cums while crying on her brother's chest.
 
 ---
 
@@ -210,7 +207,7 @@ K reads about the NexBank crypto heist. she receives an email from P again. he t
 
 C burns all the real clues that might reveal Strawberry's identity. She replaces them with unrelated real informations. she also replaces her hard drives and destory them. she takes a moment to check if she missed something. when she's sure, she did everything she can. she tries to relax and live normal. if she were under watch, the normal thing to do is to visit K.
 
-C visits K's home and is surprised to see her deceased colleagues as K's parents. they hug her and tell her they're happy to see her. she tells them she missed them so much. they talk about their lives. K's parents notice C isn't mentioning Red Tiger at all even though there was a huge case in the news. They ask her if she's give up on the tiger. C shakes her head. "of course not. I'm sure I'll catch her one day." C notices she slips "her" but pretends to hide her anxiety. K's parents pretend to not notice it. but K realizes C made the fatal mistake. K's mom excuses herself to go to the kitchen. K's dad keeps asking her about how she met K. C says it must be destiny because she's always loved K ever since she was born. C tells them she believes K'll be able to talk again. K's mom brought some tea for K and C. K refuses to drink it. C looks at them awkwardly. K says she wants to go to bed now. they asks C to drinkt the tea but she tries to refuses it. she makes excuse to go home since she's too tired from working on Red Tiger's last heist. K's dad pulls his gun from a shelf and points at C. K's mom asks her to calm down and share them information she has on Red Tiger. C shakingly begs them to let her go at first but she realizes it's no use. she tells them she'll be interrogated willingly. K's dad tells her to not waste their time or he'll ask the task force to wipe out Strawberries Home which C obviously cares about. C tells them they know Strawberries Home is innocent because it raises K. K's mom nods and says she knows. she tells C to give up on Red Tiger or innocent people will lost their lives. C runs towards K's dad and attack him to take his gun. K's mom pulls out her gun and point at C. C's pointing the gun at K's dad. C says she still wants to believe they're her friends and she drops the gun first. K's dad takes it back and points it at her. he then dial his phone to call his superior. "We have enough evidence to believe C knows something about Red Tiger. she's refusing to give us helpful information." he looks at C and tells her it's her last chance to give up on Red Tiger or she'll request authorization to storm Strawberries Home. C shakes her head and kneels. "Hand me to an interrogator." He warns for the last time "Please give us anything helpful." and then begin to speak into the phone. they are stunned as K attacks her mom with a pan from behind. C takes K's dad's gun again and points at him. he sees pure anger in her eyes. he surrenders and speaks into the phone, "We've cornered her in my residence. Please arrange to contain her and interrogate her. It's good for now." and drops the phone. He asks her to drop the gun and surrender peacefully because the task force should've surrounded the home by now. She's hesitant at first but she begins to remove the bullets to drop the gun. but the task force storms into the home and starts shooting. C hides under the table and shoots them back. K jumps over her mom and runs towards her with a pan. another team storms the house from behind. K's mom wakes up and tries to protect K and C but all three of them were gunned down by the task force.
+C visits K's home and is surprised to see her deceased colleagues as K's parents. they hug her and tell her they're happy to see her. she tells them she missed them so much. they talk about their lives. K's parents notice C isn't mentioning Red Tiger at all even though there was a huge case in the news. They ask her if she's give up on the tiger. C shakes her head. "of course not. I'm sure I'll catch her one day." C notices she slips "her" but pretends to hide her anxiety. K's parents pretend to not notice it. but K realizes C made the fatal mistake. K's mom excuses herself to go to the kitchen. K's dad keeps asking her about how she met K. C says it must be destiny because she's always loved K ever since she was born. C tells them she believes K'll be able to talk again. K's mom brought some tea for K and C. K refuses to drink it. C looks at them awkwardly. K says she wants to go to bed now. they asks C to drinkt the tea but she tries to refuses it. she makes excuse to go home since she's too tired from working on Red Tiger's last heist. K's dad pulls his gun from a shelf and points at C. K's mom asks her to calm down and share them information she has on Red Tiger. C shakingly begs them to let her go at first but she realizes it's no use. she tells them she'll be interrogated willingly. K's dad tells her to not waste their time or he'll ask the task force to wipe out Strawberries Home which C obviously cares about. C tells them they know Strawberries Home is innocent because it raises K. K's mom nods and says she knows. she tells C to give up on Red Tiger or innocent people will lost their lives. C runs towards K's dad and attack him to take his gun. K's mom pulls out her gun and point at C. C's pointing the gun at K's dad. C says she still wants to believe they're her friends and she drops the gun first. K's dad takes it back and points it at her. he then dial his phone to call his superior. "We have enough evidence to believe C knows something about Red Tiger. she's refusing to give us helpful information." he looks at C and tells her it's her last chance to give up on Red Tiger or she'll request authorization to storm Strawberries Home. C shakes her head and kneels. "Hand me to an interrogator." He warns for the last time "Please give us anything helpful." and then begin to speak into the phone. they are stunned as K attacks her mom with a pan from behind. C takes K's dad's gun again and points at him. he sees pure anger in her eyes. he surrenders and speaks into the phone, "We've cornered her in my residence. Please arrange to contain her and interrogate her. It's good for now." and drops the phone. He asks her to drop the gun and surrender peacefully because the task force should've surrounded the home by now. She's hesitant at first but she begins to remove the bullets to drop the gun. but the task force storms into the home and starts shooting. C hides under the table and shoots them back. K jumps over her mom and runs towards her with a pan. another team storms the house from behind. amid the chaos K's mom wakes up, groans and crawls towards her daughter to protect her and her friend. but determined to not let C escape at all cost, all three of them were gunned down by the task force.
 
 ---
 

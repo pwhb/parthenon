@@ -1,33 +1,34 @@
-Inspiration,Name,Full Name,Alias,Race,Role,Skills,Relationships,Motivation,Fate,Appearances
-,Dropout,Unknown,,Human,Student,,,,,alexandria
-,Professor,Unknown,,Human,Professor,,,,,alexandria
-,Lover,Unknown,,Human,Student,,Former Lover to Dropout,,,alexandria
-,Therapist,Unknown,,Human,Professor | Therapist,Psychology | Psychoanalysis,Therapist to Dropout,,,alexandria
-Khine Thazin Swe,S,Seraphine Orchid,Strawberry,Human,Caretaker,"Parenting, Teaching","Caretaker to P, K and other children",,,alexandria | strawberries | funogods
-Khine Thazin Swe,S,Seraphine Orchid,Red Tiger,Human,Thief,"Stealth, Thief",,,,alexandria | strawberries | funogods
-,Science,Soren Cogito,,Knight of Kindness,Researcher,"Deduction, Observation",,,,alexandria | strawberries | funogods
-,Art,Aria Muse,,Knight of Kindness,Bar Singer,"Forgery, Music",,,,alexandria | strawberries | funogods
-,Love,Luke Amory,,Knight of Kindness,Psychiatrist,"Infiltration, Psychoanalysis, Psychology","Father to P, Lover to Revolution",,,strawberries | funogods
-,Revolution,Renée Voss,,Knight of Kindness,Private Investigator,,"Mother to P, Lover to Love",,,strawberries | funogods
-,C,Clara,,Human,Detective,,,,Sacrifice her life to save Strawberries Home,strawberries
-,K's Mother,,,Human,Federal Agent,,,,,strawberries
-,K's Father,,,Human,Federal Agent,,,,,strawberries
-Kal Lone,K,Katalina,,Human,Child of Eden,,Friend to P | Child of K's Mother and K's Father,,Sacrifice her life to save Strawberries Home,strawberries
-Phone Waiyam Hein,P,Parthenius Voss,palebluedot@eventhorizon.org,Human,Child of Eden | Computational Biologist,Computational Biology | Computer Science | Medical Science,Child of Love and Revolution | First Child of Strawberry | Friend to K | Friend to L,,,strawberries | drifters
-Hnin Wuttyi Phyo,M,Melissa,meltedsonata@eventhorizon.org,Human,Pharmaceutical Quality Assurance,Biochemistry | Pharmacology,Friend to P | Friend to L,,,drifters
-Thuzar Lwin,L,Lark,lavendersoju@eventhorizon.org,Human,Microbiologist,Biology | Microbiology,,,,drifters
-Myat Thura Aung,T,Tango,thievingmagpie@eventhorizon.org,Human,Smuggler,Mechanical Engineering,,,,drifters
-,Conquest,Konrad Sieger,,Horseman of the Apocalypse,Horseman,,,,,funogods
-,Quantification,Unknown,,Squire of Conquest,CTO,,,,,funogods
-,Dishonesty,Unknown,,Squire of Conquest,Celebrity,,,,,funogods
-,Subjugation,Unknown,,Squire of Conquest,CEO,,,,,funogods
-,Famine,Lira Scorch,,Horseman of the Apocalypse,Horseman,,,,,funogods
-,Bureaucracy,Unknown,,Squire of Famine,Head of Feds,,,,,funogods | drifters
-,Debt,Unknown,,Squire of Famine,Central Bank Director,,,,,funogods
-,War,Marta Krieg,,Horseman of the Apocalypse,Horseman,,,,,funogods | drifters
-,Cowardice,Unknown,,Squire of War,Billionaire,,,,,funogods | drifters
-,Submission,Unknown,,Squire of War,General,,,,,funogods | drifters
-,Propaganda,Unknown,,Squire of War,Prime Minister,,,,,funogods
-,Death,Morwen Shroud,,Horseman of the Apocalypse,Horseman,,,,,funogods
-,Silence,Unknown,,Squire of Death,Editor-in-Chief,,,,,funogods
-,Oblivion,Unknown,,Squire of Death,Curator,,,,,funogods
+Inspiration,Name,Full Name,Alias,Race,Species,Role,Skills,Relationships,Motivation,Fate,Appearances
+,Dropout,Alexei Volkov,,Russian,Human,Student,,,,,alexandria
+,Professor,Alexei Volkov,,Russian,Human,Professor,,,,,alexandria
+,Lover,Naomi Kim,,Korean,Human,Student,,Former Lover to Dropout,,,alexandria
+,Old Professor,Arthur Starling ,,American,Human,Professor,,,,,alexandria
+,Therapist,David Lysandra,,Greek,Human,Professor | Therapist,Psychology | Psychoanalysis,Therapist to Dropout,,,alexandria
+Khine Thazin Swe,S,Seraphine Starling ,Strawberry,American,Human,Caretaker,Parenting | Teaching,Caretaker to P | K and other children,,,alexandria | strawberries | funogods
+Khine Thazin Swe,S,Seraphine Starling ,Red Tiger,American,Human,Thief,Stealth | Thief,,,,alexandria | strawberries | funogods
+,Science,Soren Socrates ,Science,Scandinavian/Greek,Knight of Kindness,Researcher,Deduction | Abstraction,,,,alexandria | strawberries | funogods
+,Poetry,Persephone Philomela,Poetry,Greek,Knight of Kindness,Bar Singer,Forgery | Music,,,,alexandria | strawberries | funogods
+,Lover,Leila Lysandra ,Lover,Persian/Greek,Knight of Kindness,Psychiatrist,Psychoanalysis | Psychology,Mother to P | Lover to Revolution,,,strawberries | funogods
+,Revolution,Rhys Rosaline ,Revolution,Welsh/Germanic,Knight of Kindness,Private Investigator,Social Engineering | Infiltration,Father to P | Lover to Love,,,strawberries | funogods
+,C,Clara Foster,,American,Human,Detective,,,,Sacrifice her life to save Strawberries Home,strawberries
+,K's Mother,Jenny Moore,,Irish,Human,Federal Agent,,,,,strawberries
+,K's Father,Martin Moore,,Irish,Human,Federal Agent,,,,,strawberries
+Kal Lone,K,Katy Moore,,Irish,Human,Child of Eden,,Friend to P | Child of K's Mother and K's Father,,Sacrifice her life to save Strawberries Home,strawberries
+Phone Waiyam Hein,P,Parthenius Lysandra,palebluedot@eventhorizon.org,Persian/Greek/Welsh/Germanic,Human,Child of Eden | Computational Biologist,Computational Biology,Child of Love and Revolution | First Child of Strawberry | Friend to K | Friend to L,,,strawberries | drifters
+Hnin Wuttyi Phyo,M,Melissa Kim,meltedsonata@eventhorizon.org,Greek/Korean,Human,Pharmaceutical Quality Assurance,Biochemistry | Pharmacology,Friend to P | Friend to L,,,drifters
+Thuzar Lwin,L,Luna Song,lavendersoju@eventhorizon.org,Korean,Human,Microbiologist,Biology | Microbiology,,,,drifters
+Myat Thura Aung,T,Tango Reed,thievingmagpie@eventhorizon.org,American,Human,Smuggler,Mechanical Engineering,,,,drifters
+,Conquest,Konrad Sieger,,,Horseman of the Apocalypse,Horseman,,,,,funogods
+,Quantification,Unknown,,,Squire of Conquest,CTO,,,,,funogods
+,Dishonesty,Unknown,,,Squire of Conquest,Celebrity,,,,,funogods
+,Subjugation,Unknown,,,Squire of Conquest,CEO,,,,,funogods
+,Famine,Lira Scorch,,,Horseman of the Apocalypse,Horseman,,,,,funogods
+,Bureaucracy,Unknown,,,Squire of Famine,Head of Feds,,,,,funogods | drifters
+,Debt,Unknown,,,Squire of Famine,Central Bank Director,,,,,funogods
+,War,Marta Krieg,,,Horseman of the Apocalypse,Horseman,,,,,funogods | drifters
+,Cowardice,Unknown,,,Squire of War,Billionaire,,,,,funogods | drifters
+,Submission,Unknown,,,Squire of War,General,,,,,funogods | drifters
+,Propaganda,Unknown,,,Squire of War,Prime Minister,,,,,funogods
+,Death,Morwen Shroud,,,Horseman of the Apocalypse,Horseman,,,,,funogods
+,Silence,Unknown,,,Squire of Death,Editor-in-Chief,,,,,funogods
+,Oblivion,Unknown,,,Squire of Death,Curator,,,,,funogods

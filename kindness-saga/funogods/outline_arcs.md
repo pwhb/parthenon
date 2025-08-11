@@ -8,26 +8,23 @@ Four humans children were born as ordinary children. Each of them found the trut
 
 Science points out to help the Professor understand his fight against oppression: Conquest wears three faces—Quantification, Dishonesty, Subjugation. Seraphine, the pink-obsessed girl from his lectures, doesn’t understand—but she defends him anyway.
 
-Then Love’s arrives. Pregnant with Revolution's child, she corners Seraphine in the library:
-"Raise my child."
-"Why me?"
-"You’ll see."
+Love is a medical student. She meets Seraphine crying at Atlas General when her father's insurance claim was denied. Inspired by methods in Anarchist Cookbooks she borrowed, Seraphine robs Sun Diagnostics alone. Love knows it's Seraphine when she sees it in the news. But it is too late and she lost her dad. She tries to donate the remaining money but she finds out that most orphanages are money laundering operations in disguise. She decides to start an orphanage herself.
 
-Seraphine submits her resignation letter approved by the Professor—just before he bombs the convocation hall, destroying student records and exam papers. "Let them see the system in flames," he says.
+Seraphine submits her resignation letter approved by the Professor—just before he bombs the convocation hall, destroying student records and exam papers. "Let them see the system in its real form that's in flames," he says.
 
 The state brands him a terrorist. The Director of Feds (Bureaucracy, Famine’s squire) ensures his life sentence. The Editor-in-Chief of State Media (Silence, Death’s squire) broadcasts his fall.
 
 ## II. THE HEISTS FOR EDEN
 
-At the Guillotine bar, Seraphine confesses her dream to Science: an orphanage named Strawberries Home. "If only I had funding," she sighs. Science smirks: "Don’t worry about it." Poetry, the singer, slides beside them after singing "Bella Ciao" and unfolds a plan: four heists to fund Eden.
+At the Guillotine bar, Seraphine confesses the struggle with materializing her dream to Science: an orphanage named Strawberries Home. Science smirks: "Don’t worry about it." Poetry, the singer, slides beside them after singing "Bella Ciao" and tells her she'll help her forge everything she needs for Strawberries Home. Seraphine explains her money might not be enough. Science and Poetry convinces her that they have perfect plans for heists that'll fund the orphanage, because Love told them about her first heist. 
 
-Seraphine hesitates. What if the crimes trace back to the orphans? But Science proves Poetry’s plans flawless. With the knights’ help, Seraphine becomes Red Tiger:
+With the knights’ help, Seraphine becomes Red Tiger:
 
-Science infiltrates a vault of NexBank. (target: Debt, Famine’s squire).
+Science help her infiltrates a vault of NexBank. (target: Debt, Famine’s squire).
 
-Revolution raids the Moir.ai HR Manager mansion. (Subjugation, Conquest’s squire).
+Revolution raids the Moir.ai HR Manager mansion. (target: Subjugation, Conquest’s squire).
 
-Love strikes the PM’s residence (Propaganda, War’s squire) and the General’s compound (Submission, War’s squire).
+Love strikes the PM’s residence (target: Propaganda, War’s squire) and the General’s compound (target: Submission, War’s squire).
 
 Eden is stolen back from God. Seraphine takes a new name, Strawberry.
 
