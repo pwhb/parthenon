@@ -16,12 +16,13 @@
 
 ## places
 
-| name                 | description                                                                                                 |
-| -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Atlas University     | the university where the dropout once studied                                                               |
-| Guillotine Bar       | the bar where the dropout used to drink with his friends                                                    |
-| Alexandria Bookstore | the bookstore where the dropout used to meet his lover                                                      |
-| Atlas General        | the hospital where his lover was treated after the accident and where his old professor is now hospitalized |
+| name                 | description                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Atlas University     | the university where the dropout once studied                                                                      |
+| Guillotine Bar       | the bar where the dropout used to drink with his friends                                                           |
+| Alexandria Bookstore | the bookstore where the dropout used to meet his lover                                                             |
+| Atlas General        | the hospital where his lover was treated after the accident and where his old professor is now hospitalized        |
+| NexBank              | the lover's workplace, the international bank equal in power to a national central bank, under Nex Financial Group |
 
 ---
 
