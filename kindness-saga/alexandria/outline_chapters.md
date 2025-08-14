@@ -2,15 +2,15 @@
 
 ## characters
 
-| name                | full name          | role                   | description                                           |
-| ------------------- | ------------------ | ---------------------- | ----------------------------------------------------- |
-| the narrator        | Alexei Volkov      | dropout                |                                                       |
-| the lover           | Naomi Kim          | student/business woman | the narrator's lover that died in an accident         |
-| the old professor   | Arthur Starling    | professor              | the narrator's old professor, retired now             |
-| the professor       |                    | professor              | the young teacher in the narrator's old classroom     |
-| the therapist       | David Lysandra     | therapist/professor    | the narrator's therapist, friend of the old professor |
-| the pink girl       | Seraphine Starling | student                | the girl obsessed with pink                           |
-| the logical student | Soren Socrates     | student                | the student that mercilessly critiques the professor |
+| name                | full name          | role                | description                                           |
+| ------------------- | ------------------ | ------------------- | ----------------------------------------------------- |
+| the narrator        | Alexei Volkov      | dropout             |                                                       |
+| the lover           | Naomi Kim          | student/banker      | the narrator's lover that died in an accident         |
+| the old professor   | Arthur Starling    | professor           | the narrator's old professor, retired now             |
+| the professor       |                    | professor           | the young teacher in the narrator's old classroom     |
+| the therapist       | David Lysandra     | therapist/professor | the narrator's therapist, friend of the old professor |
+| the pink girl       | Seraphine Starling | student             | the girl obsessed with pink                           |
+| the logical student | Soren Socrates     | student             | the student that mercilessly critiques the professor |
 
 ---
 

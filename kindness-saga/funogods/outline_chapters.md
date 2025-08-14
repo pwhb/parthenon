@@ -2,19 +2,19 @@
 
 ## characters
 
-| name          | full name            | role       | description                       |
-| ------------- | -------------------- | ---------- | --------------------------------- |
-| Science       | Soren Socrates       | researcher |                                   |
-| Poetry        | Persephone Philomela | musician   |                                   |
-| Love          | Leila Lysandra       | doctor     |                                   |
-| Revolution    | Rhys Rosaline        | hacker     |                                   |
-| the therapist | David Lysandra       | therapist  | Leila's father                    |
-| Strawberry    | Seraphine Starling   |            |                                   |
-| The arsonist  | Alexei Volkov        | prisoner   | Seraphine and Soren's professor |
-| Banker woman  | Naomi Kim            | banker     | Alexei's former lover             |
-| Agent woman   | Jenny Moore          |            |                                   |
-| Agent man     | Martin Moore         |            |                                   |
-|               |                      |            |                                   |
+| name          | full name            | role       | description                                      |
+| ------------- | -------------------- | ---------- | ------------------------------------------------ |
+| Science       | Soren Socrates       | researcher |                                                  |
+| Poetry        | Persephone Philomela | musician   |                                                  |
+| Love          | Leila Lysandra       | doctor     |                                                  |
+| Revolution    | Rhys Rosaline        | hacker     |                                                  |
+| the therapist | David Lysandra       | therapist  | Leila's father                                   |
+| Strawberry    | Seraphine Starling   |            |                                                  |
+| The arsonist  | Alexei Volkov        | prisoner   | Seraphine and Soren's professor                |
+| Banker woman  | Naomi Kim            | banker     | Alexei's former lover                            |
+| Agent woman   | Jenny Moore          | agent      | Counterintelligence Division's profiler          |
+| Agent man     | Martin Moore         | agent      | Counterintelligence Division's task force member |
+| K             | Katy Moore           | child      | the first child of Strawberries Home             |
 
 ## places
 
@@ -84,8 +84,10 @@ Persephone brings Soren and Seraphine to Oblivion Museum to meet Rhys. Rhys asks
 
 ---
 
-## IX. unusal patient (Leila's POV)
+## IX. (Leila's POV)
 
-Leila reads about the NexBank's heist in the news.
+Leila reads about the NexBank's heist in the news. Leila is 
+
+
 
 ---
