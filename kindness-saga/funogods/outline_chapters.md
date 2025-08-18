@@ -20,7 +20,7 @@
 
 | name              | description                              |
 | ----------------- | ---------------------------------------- |
-| Atlas University  | the nexus point of the knight            |
+| Atlas University  | the nexus point of the knights           |
 | Guillotine Bar    | the bar where the knights meet           |
 | Atlas General     | the hospital where Love meets Strawberry |
 | Oblivion Museum   | the knights' rendezvous point            |
@@ -80,14 +80,48 @@ Soren is at "Guillotine" Bar with Seraphine. Once Persephone starts singing, he 
 
 ## VIII. heist for eden (Rhys's POV)
 
-Persephone brings Soren and Seraphine to Oblivion Museum to meet Rhys. Rhys asks each what they thinks they desire. Persephone answers "warmth". Soren answers "consistency". Persephone answers "turning dream into real". Rhys tells Seraphine her funds aren't enough for the orphanage. Persephone corrects, "it's called Strawberries Home". Rhys tells them he need the help from Soren and Persephone for some missions he assigned himself. He needs to break into NexBank to steal a financier's records. [it's a conspiracy files that mirrors Epstein's files.] He thinks it's the key to controlling the most powerful people's dark background. Persephone asks how it has anything to do with Seraphine. Rhys smiles and tells them she has experience. He explains "by warmth you mean the flame in Atlas University and you know this is a chance for your revenge." Seraphine is surprised again to see that Rhys not only knows she has a crush on the arsonist, but she hates the former girlfriend of his, that's working at NexBank. She agrees to join the heist.
+Persephone brings Soren and Seraphine to Oblivion Museum to meet Rhys. Rhys asks each what they thinks they desire. Persephone answers "warmth". Soren answers "consistency". Persephone answers "turning dream into real". Rhys tells Seraphine her funds aren't enough for the orphanage. Persephone corrects, "it's called Strawberries Home". Rhys tells them he need the help from Soren and Persephone for a crusade. He needs to break into NexBank to steal a financier's records. [it's a conspiracy files that mirrors Epstein's files.] He thinks it's the key to controlling the most powerful people's dark background. Persephone asks how it has anything to do with Seraphine. Rhys smiles and tells them she has experience. He explains "by warmth you mean the flame in Atlas University and you know this is a chance for your revenge." Seraphine is surprised again to see that Rhys not only knows she has a crush on the arsonist, but she hates the former girlfriend of his, that's working at NexBank. She agrees to join the heist.
+
+---
+
+## . (Soren's POV)
+
+Soren analyzes the blueprints Rhys shared with him for the weakest point in NexBank's security. He also provides the detailed schedule of the heist.
+
+---
+
+## . (Persephone's POV)
+
+Persephone forges fake IDs and help the team obtain tools necessary for the heist.
 
 ---
 
 ## IX. (Leila's POV)
 
-Leila reads about the NexBank's heist in the news. Leila is 
+Leila is on her clerkship duty. She reads about the NexBank's heist in the news in the break room. She is summoned to assist her professor treating a pregnant mother, Jenny Moore. She'll be due in a few weeks. [She doesn't know the child who'll become Katy will be her future son's friend.]
 
+---
 
+## X. (Persephone's POV)
+
+Rhys, Soren, Persephone and Seraphine are at Oblivion Museum again. Rhys names their team "the Knights of Kindness". He preaches them there are four horsemen. Each horsemen has squires. Seraphine seems to be the only one that fails to understand what he's saying. He says they have a list of the squires now; Red Tiger copied the records of a financier during her first heist. They are corrupted people in power that's playing with the fate of the world. He explains the squires don't know they're serving the horsemen of the same apocalypse. "It's our only advantage," he tells them. Seraphine complains she want to finish her duty in this crusade as soon as possible. She just wants to start "Strawberries Home". Persephone agrees.
+
+---
+
+## . (Soren's POV)
+
+Soren explains the team about all the information they have to fill to legitimate "Strawberries Home". Persephone shares them blueprints for "Strawberries Home". They will start building the orphanage next month.
+
+---
+
+## . (Rhys's POV)
+
+"Strawberries Home" mansion is now completed. But they hear news about the upcoming nuclear war. Eden would be pointless if the world is ending tomorrow. Soren asks Rhys if they can do anything to prevent it. Rhys asks Soren for help with analysis for the new heist, the General's mansion. Strawberry says she want to help them back saving the future of Eden as they helped her build Strawberries Home.
+
+---
+
+## . (Leila's POV)
+
+Leila gets a call from Seraphine.
 
 ---
