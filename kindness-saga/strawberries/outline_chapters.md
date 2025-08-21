@@ -2,18 +2,18 @@
 
 ## Characters
 
-| Name         | Full Name            | Role          | Description                                                                           |
-| ------------ | -------------------- | ------------- | ------------------------------------------------------------------------------------- |
-| Strawberry   | Seraphine Starling   | Caretaker     | The university dropout who founded Strawberries Home                                  |
-| Katy         | Katy Moore           | Child         | The mute orphan who loves nature                                                      |
-| Clara        | Clara Foster         | Agent         | The detective profiler from Violent Crimes Unit under Criminal Investigative Division |
-| Parthe       | Parthenius Lysandra  | Child         | The child who loves primes                                                            |
-| Red Tiger    |                      | Criminal      | The burglar who robbed the elites                                                     |
-| The Arsonist | Alexei Volkov        | Prisoner      | Seraphine's professor, now in prison                                                  |
-| Katy's Mom   | Jenny Moore          | Agent         | Counterintelligence Division's profiler                                               |
-| Katy's Dad   | Martin Moore         | Agent         | Counterintelligence Division's task force member                                      |
-| Science      | Soren Socrates       | Guest Teacher |                                                                                       |
-| Poetry       | Persephone Philomela | Guest Teacher |                                                                                       |
+| Name       | Full Name           | Role          | Description                                                                           |
+| ---------- | ------------------- | ------------- | ------------------------------------------------------------------------------------- |
+| Strawberry | Seraphine Clair     | Caretaker     | The university dropout who founded Strawberries Home                                  |
+| Katy       | Katy Moore          | Child         | The mute orphan who loves nature                                                      |
+| Clara      | Clara Foster        | Agent         | The detective profiler from Violent Crimes Unit under Criminal Investigative Division |
+| Parthe     | Parthenius Lysandra | Child         | The child who loves primes                                                            |
+| Red Tiger  |                     | Criminal      | The burglar who robbed the elites                                                     |
+| Arsonist   | Alexei Volkov       | Prisoner      | Seraphine's professor, now in prison                                                  |
+| Katy's Mom | Jenny Moore         | Agent         | Counterintelligence Division's profiler                                               |
+| Katy's Dad | Martin Moore        | Agent         | Counterintelligence Division's task force member                                      |
+| Science    | Soren Socrates      | Guest Teacher |                                                                                       |
+| Poetry     | Astrid Apollonia    | Guest Teacher |                                                                                       |
 
 ---
 

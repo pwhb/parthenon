@@ -1,7 +1,7 @@
 The arsonist: Alexei Volkov 
-The old professor: Arthur Starling
+The old professor: Arthur Clair
 The therapist: David Lysandra
-The pink girl: Seraphine Starling
+The pink girl: Seraphine Clair
 C: Clara Foster
 K: Katy Moore
 K's mom: Jenny Moore
@@ -11,6 +11,6 @@ M: Melissa Kim
 L: Luna Song
 T: Tango Reed
 Science: Soren Socrates
-Poetry: Persephone Philomela
+Poetry: Astrid Philomela
 Love: Leila Lysandra
-Revolution: Rhys Rosaline
+Revolution: Pallas Rosaline

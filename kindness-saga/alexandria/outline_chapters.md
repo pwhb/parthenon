@@ -2,15 +2,15 @@
 
 ## characters
 
-| name                | full name          | role                | description                                           |
-| ------------------- | ------------------ | ------------------- | ----------------------------------------------------- |
-| the narrator        | Alexei Volkov      | dropout             |                                                       |
-| the lover           | Naomi Kim          | student/banker      | the narrator's lover who died in an accident          |
-| the old professor   | Arthur Starling    | professor           | the narrator's old professor, now retired             |
-| the professor       |                    | professor           | the young instructor in the narrator's old classroom  |
-| the therapist       | David Lysandra     | therapist/professor | the narrator's therapist, friend of the old professor |
-| the pink girl       | Seraphine Starling | student             | the girl obsessed with pink                           |
-| the logical student | Soren Socrates     | student             | the student who mercilessly critiques the professor   |
+| name            | full name          | role                | description                                           |
+| --------------- | ------------------ | ------------------- | ----------------------------------------------------- |
+| Narrator        | Alexei Volkov      | dropout             |                                                       |
+| Lover           | Naomi Kim          | student/banker      | The narrator's lover who died in an accident          |
+| Old professor   | Arthur Starling    | professor           | The narrator's old professor, now retired             |
+| Professor       |                    | professor           | The young instructor in the narrator's old classroom  |
+| Therapist       | David Lysandra     | therapist/professor | The narrator's therapist, friend of the old professor |
+| Pink girl       | Seraphine Starling | student             | The girl obsessed with pink                           |
+| Logical student | Soren Socrates     | student             | The student who mercilessly critiques the professor   |
 
 ---
 
@@ -18,11 +18,11 @@
 
 | name                 | description                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Atlas University     | the university where the dropout once studied                                                                      |
-| Guillotine Bar       | the bar where the dropout used to drink with his friends                                                           |
-| Alexandria Bookstore | the bookstore where the dropout used to meet his lover                                                             |
-| Atlas General        | the hospital where his lover was treated after the accident and where his old professor is now hospitalized        |
-| NexBank              | the lover's workplace, the international bank equal in power to a national central bank, under Nex Financial Group |
+| Atlas University     | The university where the dropout once studied                                                                      |
+| Guillotine Bar       | The bar where the dropout used to drink with his friends                                                           |
+| Alexandria Bookstore | The bookstore where the dropout used to meet his lover                                                             |
+| Atlas General        | The hospital where his lover was treated after the accident and where his old professor is now hospitalized        |
+| NexBank              | The lover's workplace, the international bank equal in power to a national central bank, under Nex Financial Group |
 
 ---
 
@@ -152,7 +152,7 @@ Suddenly, he sees strangers wheeling his lover's body out of the morgue. He rush
 
 ---
 
-## XVIII. **the chessboard**
+## XVIII. the chessboard
 
 The narrator realizes he's losing his grip on stability again. It's two past midnight, and he keeps playing chess to stay awake, losing game after game. When he finally remembers to check the time, morning has already arrived.
 
@@ -182,7 +182,7 @@ He finds the professor napping at his desk. After knocking to wake him, the prof
 
 ---
 
-## XXI. **the ghost watcher**
+## XXI. the ghost watcher
 
 It's been weeks since he last saw the pink girl. He doesn't know how or why, but he wants to apologize to her. The classroom debates have become one-sided since she started skipping classes. Maybe she's avoiding him. Maybe she's still dealing with her grief. He feels like she absorbed his despair—though of course that didn't make him feel any better. Seeing her again would be awkward, but he wants to see her again. The professor would probably be just as clueless as him.
 
@@ -232,7 +232,7 @@ The therapist suggests he return to the professor's office but warns him to be v
 
 ---
 
-## XXIV. **confession**
+## XXIV. confession
 
 The narrator easily opens the professor's office door. He settles into the guest chair and waits. After a while, the professor enters and looks surprised to see him there.
 
