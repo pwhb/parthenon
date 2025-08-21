@@ -14,7 +14,7 @@
 | Banker woman | Naomi Kim          | banker     | Alexei's former lover                            |
 | Agent woman  | Jenny Moore        | agent      | Counterintelligence Division's profiler          |
 | Agent man    | Martin Moore       | agent      | Counterintelligence Division's task force member |
-| K            | Katy Moore         | child      | the first child of Strawberries Home             |
+| Katy         | Katy Moore         | child      | the first child of Strawberries Home             |
 
 ## places
 
@@ -30,21 +30,21 @@
 
 ## I. prologue
 
-Four children were born in the same year in different parts of the world; Soren Socrates in Copenhagen, Denmark, Astrid Philomela in Athens, Greece, Leila Lysandra in Shiraz, Iran, Pallas Rosaline in Vienna, Austria. Each child has different backgrounds but they all share one thing; their passion to seek truth.
+Four children were born in the same year in different parts of the world; Soren Socrates in Copenhagen, Denmark, Astrid Apollonia in Athens, Greece, Leila Lysandra in Shiraz, Iran, Pallas Palamedes in Vienna, Austria. Each child has different backgrounds but they all share one thing; their passion to seek truth.
 
-Soren excels in geometry, algebra and science in general. His mom is a nuclear physicist who gave birth to him with the help of a sperm donor using IVF. Once he gets his hands on Euclid's Elements, he rediscovers everything up to Renaissance Era's science on his own at the age of 8. After losing his mom to cancer, He leaves his home town to seek his destiny.
+Soren excels in geometry, algebra and science in general. His mom is a nuclear physicist who gave birth to him with the help of a sperm donor using IVF. Once he gets his hands on Euclid's Elements, he rediscovers everything up to Renaissance Era's science on his own at the age of 8. After losing his mom to cancer, he realizes the world is a cruel place for him. He has to deal with Autism Spectrum Disorder, Social Anxiety while surviving in the world that torment him.
 
-Astrid can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. One day, she runs away from her home to follow a luminous thread only she can see.
+Astrid can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. Her therapist diagnoses her with Schizotypal Personality Disorder. But she believes her senses are real and the doctor is just less imaginative. One day, she runs away from her home to follow a luminous thread only she can see. It leads her to Atlas City.
 
-Leila is very perceptive. Reflection is her strength. She can fall in love with anyone. She's obsessed with Sappho's poems. She understands we'll never be able to see ourselves without love. She comes to Atlas City with her psychologist father when her mother psychoanalyst was assassinated because she was a consultant in an Iranian anarchist community.
+Leila is very perceptive. Reflection is her strength. She's obsessed with Sappho's poems. She understands we'll never be able to see ourselves without love. Her mother is a psychoanalyst secretly working as a consultant in an Iranian anarchist community. She learns about the cruelty of the world when her mom was assassinated. She comes to Atlas City with her psychologist father.
 
-Pallas is an expert of desire. He grows up being bullied because he looks neither male nor female. But he doesn't become spiteful. He never stop being pacifist. He idolizes Diogenes. He convince his bullies to do what they truly desire to do instead of bullying him.
+Pallas is a child of political scientists that died in an accident. He suspects his parents' accident wasn't an accident. He grows up in an orphanage. He's an expert of desire. He get bullied constantly because he looks neither male nor female. But he doesn't become spiteful. He never stop being pacifist. He idolizes Diogenes. He convince his bullies to do what they truly desire to do instead of bullying him.
 
 ---
 
 ## II. reason (Soren's POV)
 
-Soren joins Atlas University. He could have applied for any scholarship but he doesn't want him name in records. Atlas City seems like a perfect place where he can follow his academic passion and live without distractions. He meets a professor that preaches anarchist ideas. He couldn't help pointing out where the professor fails to be rigour and a girl obsessed with pink defends the professor. He befriends her eventually. Her name is Seraphine.
+Soren joins Atlas University. He could have applied for any scholarship but he doesn't want him name in records. Atlas City seems like a perfect place where he can follow his academic passion and live without distractions. He meets a professor that preaches anarchist ideas. He couldn't help pointing out where the professor fails to be rigour and a girl obsessed with pink defends the professor. Despite his social anxiety, he finds her warm. He befriends her eventually. Her name is Seraphine.
 
 ---
 
