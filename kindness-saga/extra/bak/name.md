@@ -1,7 +1,7 @@
 The arsonist: Alexei Volkov 
-The old professor: Arthur Clair
+The old professor: Arthur Starling
 The therapist: David Lysandra
-The pink girl: Seraphine Clair
+The pink girl: Seraphine Starling
 C: Clara Foster
 K: Katy Moore
 K's mom: Jenny Moore
