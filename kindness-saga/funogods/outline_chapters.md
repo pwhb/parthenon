@@ -2,19 +2,19 @@
 
 ## characters
 
-| name         | full name          | role       | description                                      |
-| ------------ | ------------------ | ---------- | ------------------------------------------------ |
-| Science      | Soren Socrates     | researcher |                                                  |
-| Poetry       | Astrid Apollonia   | musician   |                                                  |
-| Love         | Leila Lysandra     | doctor     |                                                  |
-| Revolution   | Pallas Palamedes   | hacker     |                                                  |
-| Therapist    | David Lysandra     | therapist  | Leila's father                                   |
-| Strawberry   | Seraphine Starling |            |                                                  |
-| Arsonist     | Alexei Volkov      | prisoner   | Seraphine and Soren's professor                |
-| Banker woman | Naomi Kim          | banker     | Alexei's former lover                            |
-| Agent woman  | Jenny Moore        | agent      | Counterintelligence Division's profiler          |
-| Agent man    | Martin Moore       | agent      | Counterintelligence Division's task force member |
-| Katy         | Katy Moore         | child      | the first child of Strawberries Home             |
+| name                | full name        | role       | description                                      |
+| ------------------- | ---------------- | ---------- | ------------------------------------------------ |
+| Science             | Soren Socrates   | researcher |                                                  |
+| Art                 | Astrid Apollonia | musician   |                                                  |
+| Love                | Leila Lysandra   | doctor     |                                                  |
+| Politics            | Pallas Palamedes | hacker     |                                                  |
+| Therapist           | David Lysandra   | therapist  | Leila's father                                   |
+| Strawberry Starling | Seraphine Clair  |            |                                                  |
+| Arsonist            | Alexei Volkov    | prisoner   | Seraphine and Soren's professor                |
+| Banker woman        | Naomi Kim        | banker     | Alexei's former lover                            |
+| Agent woman         | Jenny Moore      | agent      | Counterintelligence Division's profiler          |
+| Agent man           | Martin Moore     | agent      | Counterintelligence Division's task force member |
+| Katy                | Katy Moore       | child      | the first child of Strawberries Home             |
 
 ## places
 
@@ -30,98 +30,97 @@
 
 ## I. prologue
 
-Four children were born in the same year in different parts of the world; Soren Socrates in Copenhagen, Denmark, Astrid Apollonia in Athens, Greece, Leila Lysandra in Shiraz, Iran, Pallas Palamedes in Vienna, Austria. Each child has different backgrounds but they all share one thing; their passion to seek truth.
+Four children were born in the same year in different parts of the world; one in Copenhagen, Denmark, one in Athens, Greece, one in Shiraz, Iran, one in Vienna, Austria. Each child has different backgrounds but they all share one thing; their passion to seek truth.
 
-Soren excels in geometry, algebra and science in general. His mom is a nuclear physicist who gave birth to him with the help of a sperm donor using IVF. Once he gets his hands on Euclid's Elements, he rediscovers everything up to Renaissance Era's science on his own at the age of 8. After losing his mom to cancer, he realizes the world is a cruel place for him. He has to deal with Autism Spectrum Disorder, Social Anxiety while surviving in the world that torment him.
+A nuclear physicist in Copenhagen calls her son, Science, as it's the thing she loves most. She gave birth to him with the help of a sperm donor using IVF. She homeschools him as she realizes he's suffering from Autism Spectrum Disorder and Social Anxiety. He excels in geometry, algebra and science in general. Once he gets his hands on Euclid's Elements, he rediscovers everything up to Renaissance Era's science on his own at the age of 8. He was 12 when he lost her mom to cancer. He is raised by his relatives that find it odd that his name is Science.
 
-Astrid can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. Her therapist diagnoses her with Schizotypal Personality Disorder. But she believes her senses are real and the doctor is just less imaginative. One day, she runs away from her home to follow a luminous thread only she can see. It leads her to Atlas City.
+Two engineers in Athens call their daughter Angel but she demands to be called Art instead. She can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. Her parents' friend therapist diagnoses her with Schizotypal Personality Disorder. But she believes her senses are real and the doctor is just less imaginative. One day, she runs away from her home to follow a luminous thread only she can see. It leads her to Atlas City.
 
-Leila is very perceptive. Reflection is her strength. She's obsessed with Sappho's poems. She understands we'll never be able to see ourselves without love. Her mother is a psychoanalyst secretly working as a consultant in an Iranian anarchist community. She learns about the cruelty of the world when her mom was assassinated. She comes to Atlas City with her psychologist father.
+A psychoanalyst in Shiraz raise her daughter as a single mother. Her lover was an Iranian revolutionary that died in a mission. She also secretly works as a consultant in his organization. She calls her daughter Love. She is very perceptive. Reflection is her strength. She's obsessed with Sappho's poems. She understands we'll never be able to see ourselves without love. She learns about the cruelty of the world at the age of 7 when her mom was assassinated. Her mother's good friend David Lysandra in Atlas City adopts her. Leila Lysandra becomes her legal name.
 
-Pallas is a child of political scientists that died in an accident. He suspects his parents' accident wasn't an accident. He grows up in an orphanage. He's an expert of desire. He get bullied constantly because he looks neither male nor female. But he doesn't become spiteful. He never stop being pacifist. He idolizes Diogenes. He convince his bullies to do what they truly desire to do instead of bullying him.
-
----
-
-## II. reason (Soren's POV)
-
-Soren joins Atlas University. He could have applied for any scholarship but he doesn't want him name in records. Atlas City seems like a perfect place where he can follow his academic passion and live without distractions. He meets a professor that preaches anarchist ideas. He couldn't help pointing out where the professor fails to be rigour and a girl obsessed with pink defends the professor. Despite his social anxiety, he finds her warm. He befriends her eventually. Her name is Seraphine.
+Two political scientists in Vienna, calls their son, Politics, lovingly. He was just 6 when they died in an accident. He suspects the accident wasn't an accident. He grows up in an orphanage. He's an expert of desire. He get bullied constantly because he looks neither male nor female. But he doesn't become spiteful. He never stop being pacifist. He idolizes Diogenes. He convince his bullies to do what they truly desire to do instead of bullying him. He learns Tai Chi to defend himself if required. Yet he remains lean and weak. Trying to escape from cruel world, he becomes good friends with computers instead.
 
 ---
 
-## III. heart (Leila's POV)
+## II. reason (Science's POV)
 
-After graduating, Leila joins Atlas Medical School. As a medical student, she has to often go to Atlas General. She meets a girl crying on the stairs at the hospital once. She hugs her without saying anything. Somehow she knows she's her father's friend's daughter, Seraphine. She feels like she's one of her siblings even though she's the only child. She never know why she's always felt like she has 3 siblings. Now she thinks Seraphine is also a sister.
-
----
-
-## IV. dream (Astrid's POV)
-
-Astrid finds the end of the thread she's been following at "Guillotine" Bar. Thanks to her mesmerizing voice, it was easy for her to become a singer. She's singing Cigarettes After Sex's Apocalypse when she sees a girl obsessed with pink and a man. She sees them going into the same toilet. She sees them coming out but somehow she knows they kissed in the restroom. She doesn't understand why but she sees the same thread she's been following is connected to both of them.
+Science joins Atlas University. He could have applied for any scholarship but Atlas City seems like a perfect place where he can follow his academic passion and live without distractions. He meets a professor that preaches anarchist ideas. He couldn't help pointing out where the professor fails to be rigour and a girl obsessed with pink defends the professor. Despite his social anxiety, he finds her warm. He befriends her eventually. Her name is Seraphine.
+"Can I sit here?" Seeing no reason to say no, Science nods.
 
 ---
 
-## V. desire (Pallas' POV)
+## III. heart (Love's POV)
 
-It was never difficult for Pallas to become a hacker. He can see anyone's desire in their eyes, in their voice, in their words. Social engineering is something he can do at ease. He has been looking for comrades but he never find one adequate enough. Atlas University Convocation Hall is blown up. He joins the University amid chaos, as there's no way to verify student records, after losing physical and digital records to bombing.
-
----
-
-## VI. comrade (Astrid's POV)
-
-Astrid is drinking "free-will" at "Guillotine" bar. She sees the thread again and it's now connected to Pallas. Pallas smiles at her and tells her he needs a fake ID. Astrid doesn't understand why he's telling her so. "Are you talking to me?" "What do you think you desire?" "Kindness," Astrid gently answers. "Through which means?" "Through art, I think." He smiles again and tells her "What is forging an ID if not a necessary form of art? Is art not restructuring the world we live in?" Astrid nods.
+After graduating, Leila joins Atlas Medical School. As a medical student, she has to often go to Atlas General. She meets a girl crying on the stairs at the hospital once. She hugs her without saying anything. Somehow she knows she's her adoptive father's friend's daughter, Seraphine. Her father only told her his friend was hospitalized. She feels like she's one of her siblings even though she's the only child. She never know why she's always felt like she has 3 siblings. Now she thinks Seraphine is also a sister.
 
 ---
 
-## VII. dream of eden (Soren's POV)
+## IV. dream (Art's POV)
 
-Soren is at "Guillotine" Bar with Seraphine. Once Astrid starts singing, he somehow knows she's connected to him. Seraphine confesses she wants to start an orphanage because she realizes such institutes are merely money laundering operations. Soren wants to support her. Astrid finishes singing and goes straight to Soren's table. "Can I sit here?" Seeing no reason to say no, Soren nods, although he doesn't understand if it's ok for her to be present  here. Astrid looks at Seraphine and says, "God banished us from Eden. We can't reenter it without defying God." Soren understands what she's saying but Seraphine is confused. Astrid clarifies, "Metaphors aside, a friend told me it's you that robbed Sun Diagnostics. You can't use that funds to start an orphanage that defy the status quo. You need to make up paperwork to stay invisible. Let me help you."
-
----
-
-## VIII. heist for eden (Pallas's POV)
-
-Astrid brings Soren and Seraphine to Oblivion Museum to meet Pallas. Pallas asks each what they thinks they desire. Astrid answers "warmth". Soren answers "consistency". Astrid answers "turning dream into real". Pallas tells Seraphine her funds aren't enough for the orphanage. Astrid corrects, "it's called Strawberries Home". Pallas tells them he need the help from Soren and Astrid for a crusade. He needs to break into NexBank to steal a financier's records. [it's a conspiracy files that mirrors Epstein's files.] He thinks it's the key to controlling the most powerful people's dark background. Astrid asks how it has anything to do with Seraphine. Pallas smiles and tells them she has experience. He explains "by warmth you mean the flame in Atlas University and you know this is a chance for your revenge." Seraphine is surprised again to see that Pallas not only knows she has a crush on the arsonist, but she hates the former girlfriend of his, that's working at NexBank. She agrees to join the heist.
+Art finds the end of the thread she's been following at "Guillotine" Bar. Thanks to her mesmerizing voice, it was easy for her to become a singer. She's singing Cigarettes After Sex's Apocalypse when she sees a girl obsessed with pink and a man. She sees them going into the same toilet. She sees them coming out but somehow she knows they kissed in the restroom. She doesn't understand why but she sees the same thread she's been following is connected to both of them.
 
 ---
 
-## . (Soren's POV)
+## V. desire (Politics' POV)
 
-Soren analyzes the blueprints Pallas shared with him for the weakest point in NexBank's security. He also provides the detailed schedule of the heist.
-
----
-
-## . (Astrid's POV)
-
-Astrid forges fake IDs and help the team obtain tools necessary for the heist.
+It was never difficult for Politics to become a hacker. He can see anyone's desire in their eyes, in their voice, in their words. Social engineering is something he can do at ease. He has been investigating the conspiracy about the death of his parents. He has a board in his rental room. In the center is Theo Finch, who's mainly responsible for his parents' death. He is now in prison for human trafficking charge. Looking into his case files, he learns about another interesting case; the Atlas University professor that blowed up the convocation hall. He reads about two recurring people in student interviews; a guy that demands rigourness and a girl that defends the professor. He decides he wants to get close to them.
 
 ---
 
-## IX. (Leila's POV)
+## VI. (Science's POV)
 
-Leila is on her clerkship duty. She reads about the NexBank's heist in the news in the break room. She is summoned to assist her professor treating a pregnant mother, Jenny Moore. She'll be due in a few weeks. [She doesn't know the child who'll become Katy will be her future son's friend.]
-
----
-
-## X. (Astrid's POV)
-
-Pallas, Soren, Astrid and Seraphine are at Oblivion Museum again. Pallas names their team "the Knights of Kindness". He preaches them there are four horsemen. Each horsemen has squires. Seraphine seems to be the only one that fails to understand what he's saying. He says they have a list of the squires now; Red Tiger copied the records of a financier during her first heist. They are corrupted people in power that's playing with the fate of the world. He explains the squires don't know they're serving the horsemen of the same apocalypse. "It's our only advantage," he tells them. Seraphine complains she want to finish her duty in this crusade as soon as possible. She just wants to start "Strawberries Home". Astrid agrees.
+Science is drinking "free-will" at Guillotine bar. A lean man approaches his table. He hands him a file. "A puzzle for your mind." He then leaves the bar. Science looks into it and sees a bunch of printed case files and cropped newspaper about political scientist couples' accident 13 years ago. He sees a card in the file, a timestamp in the future and the location of a museum.
 
 ---
 
-## . (Soren's POV)
+## VII. will you join in our crusade? (Art's POV)
 
-Soren explains the team about all the information they have to fill to legitimate "Strawberries Home". Astrid shares them blueprints for "Strawberries Home". They will start building the orphanage next month.
-
----
-
-## . (Pallas's POV)
-
-"Strawberries Home" mansion is now completed. But they hear news about the upcoming nuclear war. Eden would be pointless if the world is ending tomorrow. Soren asks Pallas if they can do anything to prevent it. Pallas asks Soren for help with analysis for the new heist, the General's mansion. Strawberry says she want to help them back saving the future of Eden as they helped her build Strawberries Home.
+Art is singing "do you hear the people sing?" at Guillotine bar. She sees the thread again and it's now connected to a guy in the bar. It's not the first time she notices him here. After she finishes singing, he smiles at her and tells her he needs fake IDs. Art doesn't understand why he's telling her so. "Are you talking to me?" "What do you think you desire?" he asks. "Kindness," Art gently answers. "Through which means?" "Through art, I think." He smiles again and tells her "What is forging an ID if not a necessary form of art? Is art not restructuring the world we live in?" Art nods. He gives her a file and then leaves the bar. She finds the profiles of 4 people for 4 fake IDs, including him and herself and a card; a timestamp in the future and the location of a museum.
 
 ---
 
-## . (Leila's POV)
+## VIII. who will be strong and stand with me? (Politics' POV)
 
-Leila gets a call from Seraphine.
+Politics is in Oblivion Museum. A voice inside him asks him what he would do if they're not coming. He shakes his head. They'll come. The voice says, "you know Seraphine isn't one of you. Why did you asks Art to make her an ID for her?" "She's one of us. I know I've found only other two people like me. But I know Seraphine can fill the last one's place." "Who are you talking to?" Science asks him. Politics realizes he lost his attention and smiles at Science and asks him if he found the answer. Science replies, "Theo Finch murdered your parents and my mom." Politics nods in approval. "What do you mean Seraphine can fill the last one's place?" Science asks. Politics responds, "it wasn't me that put Theo Finch behind bars. He was incredibly careful about his real clients but well he got too confident and got sloppy about his other business." "I don't care. What do you mean Seraphine can fill the last one's place?" Art arrives and get into the conversation, "Is Seraphine supposed to be Strawberry Starling?" Science is surprised to see her, "you are the singer at the bar." Politics nods and asks if she had trouble making the fake IDs. Art shakes her head and gives him the IDs; Soren Socrates for Science, Strawberry Starling for Seraphine, Pallas Palamedes for Politics and Astrid Apollonia for Art. "I suppose the last one is for me." Politics nods and gives two of them to Science. "Why do Seraphine and I need these IDs?" Science asks. "I'd been trying to take down people like Theo Finch all my life. But it was wrong. No revolution can be born from a single person. I need comrades and I want you to be my comrades." Science and Art know he's telling the truth. Art confesses, "I've seen a thread all my life. I've arrived here following it. I came here because that thread is connected to both of you and Seraphine." Science also decides to confess, "I've been relying on logic all my life. I realized being logical isn't the only thing that matters. Seraphine taught me that. I agree to join your crusade."
+
+Politics asks them who they think control the world. "People like the secret clients of  Theo Finch," Science answers. Politics agrees and continues, "presidents are powerful, prime ministers are powerful, generals are powerful, billionaires are powerful. They control our world. But Theo Finch is the one controlling them and I thought he should be my target. It was naive of me to underestimate them. If we want to take them down, we have to take control of the system or someone else will replace the demon we slay and it'll never end. Capitalism is a god. Bureacracy is a god. Fascism is a god. We have to slay them all. Shed no blood but that of the gods." Politics takes a breath. "How does one shed the blood of a god?" he asks. Science answers, "the power of a god lies in the worshipers' loyalty." Art likes the idea, "We take away the bootlickers' loyalty."
 
 ---
+
+## XI. (Science's POV)
+
+Science reads about the death of Theo Finch in prison. Theo Finch apparently left a son named Quentin Finch. He hears a knock on his door and sees it's Politics. He shares him a 3D scan of a room; a private study room. "Whose room is it?" Science asks. "Theo Finch has a successor," Politics answers. "Is it Quentin Finch?" Science asks although he highly doubt it. Quentin Finch is a college dropout. He majored in Computer Science but he suspects Politics is easily a stronger computer wizard. "Unfortunately, no. Quentin would've been an easier target. Theo Finch's successor is someone that used to work in Finance. He's called Donovan Price. I could narrow him down because I've been monitoring Theo Finch's clients. I suspects Theo Finch has a system to manage his clients' financial assets." Science interrupts, "Yes, he holds a set of unique key phrases, one for each client, that only he knows and he access their data with those keys. So apparently his clients trust this new successor too and Donovan Price now holds these keys." Politics nods, "that his successor now have access to his keys means there's a backup somewhere. There must be only one backup because they can't risk having more vulnerabilities than one. But I suspects we wouldn't find all the data in one place." "Of course he would've split the data into multiple peices and store them in secure vaults around the world," Science continues. They both take a while and then Politics asks, "hypothetically if Donovan Price will be to renew the keys, how do you think he'll do it?" "So the room you showed me is the secret private room of Donovan Price?" Science asks. Politics nods. Science looks at it carefully. He see a grandfather clock, a lion head on the world, a desk, on which are a typewriter, an armillary sphere, a copy of the prince, and luxury stationery items, a record player on a stand table, 7 bookshelves, a mini bar, an a large carpet and a fireplace. "So you broke into his house?" "I hacked into his smart home system and looked into every residence he owns. This one is the only one with a secret office. I suspect it's a Faraday cage and the only way to see the interior is to break into it. So yea I broke into it. But it was easy for me to manipulate the security feeds so no trace of my entering can be found." "So you have been spying on him, right? What does he usually work?" Science asks. Politics answers, "He is too paranoid. He uses an Incognito Live System called Tails OS on his laptop. I doubt it's possible to hack his computer. I've never seen him type a key either. I assume the data of his clients are in secure system of his each client. But I can't get access to their system because they have national level security system defended by top cybersecurity engineers. Some of his clients are like Cassian Blake in the top 5 richest people in the world or General Secretary Shen Yao. I could only break into his home network because he's too paranoid to have cybersecurity engineers that defend his system in real-time." "I think I know how he'll renew the keys. He'll use an Incognito Live System, like you said, in his office to generate the keys and he'll memorize them and create a backup." Politics nods, "I need to make sure how exactly he'll create a backup." "He'll type it on the typewriter," Science answers. Politics smiles. Science realizes Politics must have concluded the same and just wanted to make sure if his conclusion is correct. "What if he write it down with just a pen?" Politics asks. Science scratches his head, he sees no paper on the table but there must be some in the drawers because Donovan would still need paper if he uses a typewriter. "I guess it's possible that he'll write down the key with a pen. Whether he uses a pen or a typewriter, there must be an acoustic signature produced by the process. If you could hide a few sensors in the office, I think it's possible to record this series of signatures during the creation of the backup. It'll be an entirely different thing to filter out the noise and obtain a clean data from it." Politics looks like he's thinking about it a lot. "I suspects Donovan Price might use a Radio Frequency Detector to check if his room is bugged time to time. He has a detector and I've often seen him check him home arbitarily." "If you're sure he is using a RF detector, it's a good news. I can design a sensor that doesn't emit radio waves so it can't be detected." Science explains. Politics looks a little relieved. "I'll ask Art to assemble the sensor. Please take some time to design such a sensor and also find the optimal places to hide them." Science replies, "it'd be the easy step. Like I said please note that it'll be an entirely different thing to extract clean data from the sensor logs." Politics smiles, "I have faith in you. I have faith in Art and Seraphine too."
+
+---
+
+## X. (Art's POV)
+
+Science gives Art a thumb drive and some cash. "Apparently this is your salary for working as a crusader. I'm not sure how much Politics brief you. I've designed this sensor device. You have to assemble it in various forms." Art plugs it into her mobile phone and looks at the files. She asks hin how she can open a .ply file. Science asks her if she has a laptop. She shakes her head. Science looks disappointed and takes out his laptop. "Feel free to use mine then. I'll get another one. At least this gig pays. By the way, do you know how Politics can even afford to pay us a salary?" Art laughts, "it's the courtesy of your university. He tricked the management to fund his so-called research." "How do you even know about it?" Science asks booting up Tails OS from another thumb drive. "I made the documents necessary to play his trick. For someone that hates the system, he knows quite well how it works." He shows her the design of the sensor and the 3D scan of the rooms. "Spectre," Art exclaims. "What?" Science is confused. "These little guys are called spectres and they will haunt Donovan Price," she laugh childishly. Science looks so concerned while Art looks so worryfree. "This is serious. You have to make sure these devices - these spectres - remain undetected," Science says seriously. "Yes, I know. Donovan Price is a paranoid prick with a stick that look for radio waves. I get it. Yes, please call them spectres." Science apologizes. "I'm sorry. Please give them to Politics when you finish assembling them." "Okey dokey" Art replies.
+
+---
+
+## XI. (Politics' POV)
+
+He breaks into Donovan Price's residence again. He brought a replica of armillary sphere with a spectre embedded in it and a couple more spectres. He swaps the armillary spheres and install other spectres in the places recommended by Science. He silently escape from the scene. The security system didn't even record his entry as he replaced the data stream with a footage from previous day.
+
+---
+
+## XII. dream of eden (Science's POV)
+
+Science is at "Guillotine" Bar with Seraphine. Seraphine confesses she wants to start an orphanage because she realizes such institutes are merely money laundering operations. Science wants to support her. Art finishes singing and goes straight to Science's table. She looks at Seraphine and says, "God banished us from Eden. We can't reenter it without defying God." Science understands what she's saying but Seraphine is confused. Art clarifies, "Metaphors aside, a friend told me it's you that robbed Sun Diagnostics. You can't use that funds to start an orphanage that defy the status quo. You need to make up paperwork to stay invisible. Let me help you." Science can see clearly Seraphine is surprised that he's not surprised to know about her heist.
+
+---
+
+## XIII. heist for eden (Art's POV)
+
+Art brings Science and Seraphine to a blind spot in Oblivion Museum. Politics is waiting for them. Politics asks Seraphine what she desires. Seraphine answers "warmth". Politics tells Seraphine her funds aren't enough for the orphanage. Art corrects, "it's called Strawberries Home". Seraphine wonders how she knows what she wants to name her orphanage. Politics admits his mistake, "I'm sorry. Yes, Strawberries Home need more funds. I have an idea. One bird will carry two stones and that bird is you, Seraphine". Seraphine asks, "can't I just find a way to collect the necessary funds along the way?" Science answers, "I don't think you want your dream of Eden to rely on the mercy of the corrupted." Seraphine nods. "What is your answer then?" Seraphine sounds skeptical.
+
+"What you already have experience with. A heist." Politics answers. Seraphine shakes her head. "I don't think you understand me. I thought it was what it'd take to save my dad. But it couldn't save my dad. I cried in bed everyday tormented by guilt. I don't want to experience it again," she confesses. Politics agrees, "you're tormented by guilt. So am I. So are all of us. The guilt of letting them control our fate. You see I desire freedom above all but I don't think I can take a rest until I can put a collar on the neck of those that murdered our parents. I'm not fueled by rage or revenge. I'm sick of being so defenseless against them." Seraphine shakes her head again. "I'm sorry. I don't think you understand me. I already lost everything. I want to forget what I did when I was desperate." "Exactly you already lost everything. I have faith that I understand you. You said you desired warmth. I promise you will get it. First, please listen. The target is a branch of NexBank."
+
+He sees a spark in Seraphine's eyes. He explains "by warmth you mean the flame in Atlas University and I know this is a chance for your payback." Seraphine is surprised again to see that Politics not only knows she has a crush on the arsonist, but she hates the former girlfriend of his, that's working at NexBank. "What exactly is the target?" she asks. "The same NexBank branch Kim Naomi is working at. She's in risk management. She's the former lover of Alexei, your professor." Seraphine looks embarrassed to learn that he understands her. "Why are you targeting her?" "I'm not targeting her. I'm not even delighted to cause her trouble. But I know you'll be. I'm targeting Donovan Price. A financier that just succeeded Theo Finch. I've been monitoring him for a month. I've broken into his residence twice. He has a set of keys to access his predecessor's client data. I have reasons to believe a part of the key is in a safety deposit box at the NexBank." "So I have to steal that key for you and you will give me funds for Strawberries Home?" Seraphine asks. Politics shakes his head. "Even though I've been monitoring Theo Finch, he's such a sneaky bastard. I never learned which exactly is his safety deposit box. I never learned where he keeps his key for the box. It'd be very complicated to get the key from the bank side too. I asks Science a couple months ago to find the ideal way to break into the bank. This thumb drive contains the plan. You can take three weeks to study the plan and prepare for it. I know you know about security system better than I or Science do. Feel free to improve the plan if you can." "So what exactly is the target?" Seraphine sounds impatient. "Just the funds you need for Eden." "And how will it give you the keys of that sneaky bastard?" "You'll see in the plan that one of your tasks is to disable the camera in a certain path that lead to the safety deposit box. I'm sure you are capable of stealing the key if we have time but it's no use unless we can steal the other pieces. Unfortunately we don't live forever. So I came up with this heist plan. We'll just steal from NexBank enough to alert the law enforcement and of course Donovan Price will know about the heist since he's in deep with the head of Burea. He'll request the security footage to make sure his safety deposit box is safe." Seraphine understands now, "And he'll suspect his key is compromised and he'll renew the key." Politics nods, "Yes. I'm sure his mentor Theo Finch won't renew the key just because a piece of it might be compromised. But our little Donovan Price definitely will. You don't need to know the details for your own safety but we have managed to capture the new keys during the process of creation. Art, can you show her the gadgets?" Art takes out the tools from her bags and she shows them a Red Tiger mask. Seraphine smiles and wears it.
+
+---
+
+## IX. (Love's POV)
+
+Leila is on her clerkship duty. She reads about the NexBank's heist in the news in the break room. She is summoned to check up on a pregnant mother, Jenny Moore. She'll be due tomorrow. [She doesn't know the child who'll become Katy will be her future son, Parthe's friend.] While she's taking notes about her condition, Clara Foster visits her friend Jenny. Jenny looks so happy to see Clara. Leila can sense Clara is so exhausted.

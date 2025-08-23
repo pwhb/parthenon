@@ -13,7 +13,7 @@
 | Katy's Mom | Jenny Moore         | Agent         | Counterintelligence Division's profiler                                               |
 | Katy's Dad | Martin Moore        | Agent         | Counterintelligence Division's task force member                                      |
 | Science    | Soren Socrates      | Guest Teacher |                                                                                       |
-| Poetry     | Astrid Apollonia    | Guest Teacher |                                                                                       |
+| Art        | Astrid Apollonia    | Guest Teacher |                                                                                       |
 
 ---
 
@@ -44,7 +44,7 @@ We explore the wholesomeness of the orphanage through Katy's POV. Katy is a mute
 
 ## III. Cold Cases (Clara's POV)
 
-We explore the bureaucratic procedural work of federal agents through Clara's POV. Clara is a detective profiler who never moved on from Red Tiger—the culprit behind the case she took as her first assignment, the NexBank Heist, during her intern days. Red Tiger continued to execute flawless heists. It took her years to deduce that cases like the PM's residence or a general's mansion were perpetrated by Red Tiger. She wouldn't have been able to solve them without the subtle clues left by Red Tiger himself.
+We explore the bureaucratic procedural work of federal agents through Clara's POV. Clara is a detective profiler who never moved on from Red Tiger—the culprit behind the case she took as her first assignment, the NexBank Heist, during her intern days. Red Tiger continued to execute flawless heists for only 2 years. It took her years to deduce that cases like the PM's residence or a general's mansion were perpetrated by Red Tiger. She wouldn't have been able to solve them without those she believes to be the subtle clues left by Red Tiger himself; like a mirrored image in security footage.
 
 ---
 
@@ -124,13 +124,13 @@ Clara realizes that Katy is about the same age as her friend's daughter. She pas
 
 ## XVI. (Katy's POV)
 
-A girl named Poetry and a guy named Science visit Strawberries Home - Katy remembers them as guest teachers. Science looks at Tao Te Ching on Katy's desk and smiles at her. Strawberry asks him if he remembers how he used to demand rigor from the professor. Science smiles and nods. P runs to them when he sees them. They hug him and tell him he's growing so fast. Later they have a talk with Strawberry in private without teaching the children.
+A girl named Art and a guy named Science visit Strawberries Home - Katy remembers them as guest teachers. Science looks at Tao Te Ching on Katy's desk and smiles at her. Strawberry asks him if he remembers how he used to demand rigor from the professor. Science smiles and nods. P runs to them when he sees them. They hug him and tell him he's growing so fast. Later they have a talk with Strawberry in private without teaching the children.
 
 ---
 
 ## XVII. (Clara's POV)
 
-Clara meets Strawberry again at the bookstore. She has been visiting it in her leisure because it was mentioned in the Arsonist's case files. Clara casually asks her about Katy. She also asks if, by any chance, Strawberry knew the arsonist. Strawberry answers that he was her professor. Clara says it's a shame—she's read some of his papers and knows he has a brilliant mind.
+Clara meets Strawberry again at the bookstore. She has been visiting it in her leisure because it was mentioned in the Arsonist's case files. Clara casually asks her about Katy. She also asks if, by any chance, Strawberry knew the Arsonist. Strawberry answers that he was her professor. Clara says it's a shame—she's read some of his papers and knows he has a brilliant mind.
 
 ---
 
@@ -142,19 +142,21 @@ Katy can't find Strawberry at Strawberries Home. She asks Parthe, and he tells h
 
 ## XIX. (Clara's POV)
 
-Clara takes fake IDs from her personal vault and goes to the prison to interview the arsonist. She's not sure if it's for collecting data on Red Tiger or her crush on Strawberry. She notices a name in the guest records: Seraphine. It's natural since she read about her in the case files—she's the student who defended the professor and quit school around the time of the case. She asks how he's doing. He politely tells her, but bluntly continues that there's nothing more to investigate in his case. Clara agrees. She tells him she wants to know if there's anything he can remember about the Sun Diagnostics Heist, because it's one of three cases that itch her mind. He says whoever stole from them is a good person. She asks about his relationship with his students. He says they can tolerate him. Clara nods, as it aligns with student interviews. She asks about Seraphine specifically, who might be Strawberry as she suspected. He says she's a good person and refuses to elaborate. But she sees a hint in his facial expression that confirms she's Strawberry.
+Clara reads the Arsonist's case files again. She notices that there was a student named Seraphine Clair that was specially kind to the professor and quit school around the time of the case. They never got to interview her. She somehow feels like Seraphine matches the profile of Strawberry. She doesn't want to ask Strawberry if she's Seraphine; it'd be too invasive.
+
+Clara takes fake IDs from her personal vault and goes to the prison to visit the arsonist. She's not sure if it's for collecting data on Red Tiger or her crush on Strawberry. She notices a name in the guest records: Strawberry Starling. She knows she's on the right track. She asks how he's doing. He politely tells her he's fine but bluntly continues that there's nothing more to investigate in his case. Clara agrees. She tells him she wants to know if there's anything he can remember about the Sun Diagnostics Heist, because it's one of three cases that still itch her mind. He says whoever stole from them is a good person. She asks about his relationship with his students. He says they can tolerate him. Clara nods, as it aligns with student interviews. She asks about his relationship with Seraphine. He replies she's a good person. She asks if she visited him recently. "Can't you ask for the guest records?" he replies and refuses to elaborate. But she sees a hint in his facial expression that confirms Seraphine is Strawberry.
 
 ---
 
 ## XX. (Katy's POV)
 
-Katy is playing in the woods. She climbs a tree, falls, and breaks her hand. Parthe runs to Strawberry, and she takes them to Atlas General Hospital. [I might change this to another injury that requires sending Katy to the hospital.]
+Katy and Parthe are playing with a ball in the woods. The ball is stuck on a tree. She climbs it to retrieve the ball. while she's getting down, she falls, and breaks her hand. Parthe runs to Strawberry, and she takes them to Atlas General Hospital. [I might change this to another injury that requires sending Katy to the hospital.]
 
 ---
 
 ## XXI. (Clara's POV)
 
-Realizing she's fallen for Strawberry, Clara looks into her background as Seraphine. She finds a funeral record of Seraphine's father. She suddenly realizes the time of his death is close to the Sun Diagnostics Heist. She goes to the hospital to look for his records. She learns Seraphine's father's insurance claim was denied by Everwell Insurance, of which Sun Diagnostics was a part. She knows it would be a stretch to suspect Strawberry (aka Seraphine) to be Red Tiger, but she thinks it has enough merit to investigate deeper.
+Realizing she's fallen for Strawberry, Clara looks into her background as Seraphine. Why did she change her name to Strawberry Starling? She finds a funeral record of Seraphine's father. She suddenly realizes the time of his death is close to the Sun Diagnostics Heist. She goes to the hospital to look for his records. She learns Seraphine's father's insurance claim was denied by Everwell Insurance, of which Sun Diagnostics was a part. She knows it would be a stretch to suspect Strawberry (aka Seraphine) to be Red Tiger, but she thinks it has enough merit to investigate deeper.
 
 ---
 
