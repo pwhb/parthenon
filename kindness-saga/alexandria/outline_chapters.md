@@ -2,15 +2,15 @@
 
 ## characters
 
-| name            | full name          | role                | description                                           |
-| --------------- | ------------------ | ------------------- | ----------------------------------------------------- |
-| Narrator        | Alexei Volkov      | dropout             |                                                       |
-| Lover           | Naomi Kim          | student/banker      | The narrator's lover who died in an accident          |
-| Old professor   | Arthur Starling    | professor           | The narrator's old professor, now retired             |
-| Professor       |                    | professor           | The young instructor in the narrator's old classroom  |
-| Therapist       | David Lysandra     | therapist/professor | The narrator's therapist, friend of the old professor |
-| Pink girl       | Seraphine Starling | student             | The girl obsessed with pink                           |
-| Logical student | Soren Socrates     | student             | The student who mercilessly critiques the professor   |
+| name            | full name        | role                | description                                           |
+| --------------- | ---------------- | ------------------- | ----------------------------------------------------- |
+| Narrator        | Alexei Volkov    | dropout             |                                                       |
+| Lover           | Naomi Kim        | student/banker      | The narrator's lover who died in an accident          |
+| Old professor   | Arthur Clair    | professor           | The narrator's old professor, now retired             |
+| Professor       |                  | professor           | The young instructor in the narrator's old classroom  |
+| Therapist       | David Lysandra   | therapist/professor | The narrator's therapist, friend of the old professor |
+| Pink girl       | Seraphine Clair | student             | The girl obsessed with pink                           |
+| Logical student | Soren Socrates   | student             | The student who mercilessly critiques the professor   |
 
 ---
 

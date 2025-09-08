@@ -32,7 +32,7 @@
 
 ## I. Prologue (Strawberry's POV)
 
-The prologue opens with Strawberry introducing the reader to Strawberries Home—a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (abstraction), Art (restructuring), Love (reflection), and Revolution (acceptance). There is only one rule at Strawberries Home: "Thou shalt not lie." Strawberry wears pink to visit her professor, now imprisoned. She smiles when she embarrassingly recalls the kiss.
+The prologue opens with Strawberry introducing the reader to Strawberries Home—a sanctuary for gifted children. "How do you know if a child is gifted?" you might ask. "All children are gifted," Strawberry would insist. It's an orphanage that raises its children on four pillars: Science (abstraction), Art (restructuring), Love (reflection), and Politics (acceptance). There is only one rule at Strawberries Home: "Thou shalt not lie." Strawberry wears pink to visit her professor, now imprisoned. She smiles when she embarrassingly recalls the kiss.
 
 ---
 
@@ -174,7 +174,7 @@ Clara notices all the paperwork around Strawberries Home is too perfect to be tr
 
 ## XXIV. (Katy's POV)
 
-Katy suddenly wants to know about the orphanage's finances. Parth—incapable of lying—reveals Strawberry's secret identity. Katy confronts Strawberry. She confesses: "I stole Eden back from God, knowing His wrath. It breaks my heart that I put you in harm's way." She tells the orphans the truth and gives them a choice to leave. Though hesitant, some choose to leave, but they all agree to protect her secret. Strawberry reveals Katy's parents are actually alive but unaware that Katy was rescued from kidnappers years ago by Revolution (Parthe's father), who faked their death for their missions. Katy decides to reunite with them. As a parting gift, Strawberry gives Katy the Tao Te Ching.
+Katy suddenly wants to know about the orphanage's finances. Parth—incapable of lying—reveals Strawberry's secret identity. Katy confronts Strawberry. She confesses: "I stole Eden back from God, knowing His wrath. It breaks my heart that I put you in harm's way." She tells the orphans the truth and gives them a choice to leave. Though hesitant, some choose to leave, but they all agree to protect her secret. Strawberry reveals Katy's parents are actually alive but unaware that Katy was rescued from kidnappers years ago by Politics (Parthe's father), who faked their death for their missions. Katy decides to reunite with them. As a parting gift, Strawberry gives Katy the Tao Te Ching.
 
 ---
 
