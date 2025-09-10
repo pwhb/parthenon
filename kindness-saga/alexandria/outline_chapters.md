@@ -72,7 +72,7 @@ The narrator can't pinpoint why, but the pink girl reminds him of his old profes
 
 The narrator dissociates in his therapist's office. The therapist asks why he thinks he went to the bookstore. Everything feels dreamlike to the narrator. It feels like a déjà vu. He's not sure, but he swears he saw the shopkeeper setting aside those anarchist cookbooks. Can he see the future?
 
-The narrator tells the therapist he misses his old professor, who happens to be the therapist's friend. His old professor actually recommended this therapist. The narrator can't remember how many resignation letters he submitted, only to have his old professor reject each one. The therapist breaks the news: his old professor was hospitalized at Atlas General. The narrator mentions meeting a strange new professor who took his old professor's place. He's been attending those classes, which pleases the therapist. Perhaps it might reignite his passion for studies.
+The therapist asks him what he has been doing lately. The narrator mentions meeting a strange new professor who took his old professor's place. He's been attending those classes, which pleases the therapist. Perhaps it might reignite his passion for studies. The narrator tells the therapist he misses his old professor, who happens to be the therapist's friend. His old professor actually recommended this therapist. The narrator can't remember how many resignation letters he submitted, only to have his old professor reject each one. The therapist breaks the news: his old professor was hospitalized at Atlas General. The narrator asks if they're still in contact. The therapist explains, "unfortunely I didn't have a close contact with Arthur. Fate is strange sometimes. My daughter is a medical student now and she met Arthur's daughter at the hospital."
 
 ---
 
@@ -135,6 +135,8 @@ He recalls writing recipes in a document on his laptop, but when he gets home, h
 Frustrated, he looks up the recipe online and starts making tofu. The first batch turns out terrible. He tries again, wishing he could share it with his lover. While waiting for the second batch to set, he reads that someone burglarized the medical labs—the same one he used to visit when his lover was hospitalized. He still carries receipts from there in his wallet, kept as mementos of his lover.
 
 He's almost glad about the burglary. The staff there had been unbearably rude, once even giving him the wrong lab results. This second batch of tofu isn't good either. He starts on a third.
+
+---
 
 ## XVI. the funeral (charon)
 
@@ -298,4 +300,4 @@ The narrator asks for help from the professor. He wants to destroy the convocati
 
 When the narrator arrives at the professor's office to say goodbye, he finds the pink girl waiting at the front desk. She hands him two resignation letters—hers and the logical student's. The two have become friends now. She also returns the cookbooks, but he refuses to take them back. Instead, he gives her his copy of the Tao Te Ching. After signing their resignation letters, he tells her to be kind. She bows toward him once more.
 
-The narrator then enters the convocation hall and plants both the decoy bomb and the real one. He pulls the fire alarm to evacuate everyone from the building, then pretends to flee alongside the panicked crowd. While running, he executes a script that wipes all the digital records. Once people reach a safe distance, he detonates the building, destroying all the physical records inside.
+The narrator then enters the convocation hall and plants both the decoy bomb and the real one. He pulls the fire alarm to evacuate everyone from the building, then pretends to flee alongside the panicked crowd. While running, he executes a script that wipes all the digital records. Once people reach a safe distance, "I want you to see the system in its real form that's in flames, I don't mind being named the arsonist," he says to himself. He detonates the building, destroying all the physical records inside.
