@@ -162,7 +162,7 @@ Realizing she's fallen for Strawberry, Clara looks into her background as Seraph
 
 ## XXII. (Katy's POV)
 
-Katy sees Clara at the hospital. Too busy with her own business, Clara doesn't notice her. Strawberry has trouble checking out at the hospital because they don't accept cash. She calls her friend, Poetry, to pay for the bills with her credit card.
+Katy sees Clara at the hospital. Too busy with her own business, Clara doesn't notice her. Strawberry has trouble checking out at the hospital because they don't accept cash. She calls her friend, Art, to pay for the bills with her credit card.
 
 ---
 

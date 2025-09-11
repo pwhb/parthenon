@@ -1,4 +1,3 @@
-
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## characters
@@ -163,6 +162,8 @@ Building "Strawberries Home" main mansion is now completed. Science provided the
 
 ---
 
-## XVII. (Love's POV)
+## XVIII. (Love's POV)
+
+Love joins a volunteer pandemic response team as a doctor. 
 
 ---
