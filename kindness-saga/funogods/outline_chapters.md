@@ -44,13 +44,13 @@
 
 Four children were born in the same year in different parts of the world; one in Copenhagen, Denmark, one in Athens, Greece, one in Shiraz, Iran, one in Vienna, Austria. Each child has different backgrounds but they all share one thing; their passion to seek truth.
 
-A nuclear physicist in Copenhagen calls her son, Science, as it's the thing she loves most. She gave birth to him with the help of a sperm donor using IVF. She homeschools him as she realizes he's suffering from Autism Spectrum Disorder and Social Anxiety. He excels in geometry, algebra and science in general. Once he gets his hands on Euclid's Elements, he rediscovers everything up to Renaissance Era's science on his own at the age of 7. He was 12 when he lost her mom to cancer. He is raised by his relatives that find it odd that his name is still Science.
+A nuclear physicist in Copenhagen calls her son, Science, as it's the thing she loves most. She gave birth to him with the help of a sperm donor using IVF. She homeschools him as she realizes he's suffering from Autism Spectrum Disorder and Social Anxiety. He excels in geometry, algebra and science in general. Once he gets his hands on Euclid's Elements, he rediscovers everything up to Renaissance Era's science on his own at the age of 7. He notices foreign nuclear physicists often come to visit to consult with his mom. He was 12 when he lost her mom to cancer. He is raised by his relatives that find it odd that his name is still Science.
 
-Two engineers in Athens call their daughter Angel but she demands to be called Art instead. She can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. Her parents' friend therapist, David Lysandra, diagnoses her with Schizotypal Personality Disorder. But she believes her senses are real and the doctor is just less imaginative. One day, she runs away from her home to follow a luminous thread only she can see. It leads her to Atlas City.
+Two virologists in Athens call their daughter Angel but she demands to be called Art instead. She can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. Her parents' friend therapist, David Lysandra, diagnoses her with Schizotypal Personality Disorder. But she believes her senses are real and the therapist is just less imaginative. One day, she runs away from her home to follow a luminous thread only she can see. It leads her to Atlas City.
 
-A psychoanalyst in Shiraz raise her daughter as a single mother. Her lover was an Iranian revolutionary that died in a mission. She also secretly works as a consultant in his organization. She calls her daughter Love. She is very perceptive. Reflection is her strength. She's obsessed with Sappho's poems. She understands we'll never be able to see ourselves without love. She learns about the cruelty of the world at the age of 7 when her mom was assassinated. Her mother's good friend David Lysandra in Atlas City adopts her. Leila Lysandra becomes her legal name.
+A psychoanalyst in Shiraz raise her daughter as a single mother. Her lover was a revolutionary fighting for the freedom of one of the three countries that contains a region called Rare Earth Crescent (REC). She also secretly works as a consultant in his organization. She calls her daughter Love. She is very perceptive. Reflection is her strength. She's obsessed with Sappho's poems. She understands we'll never be able to see ourselves without love. She learns about the cruelty of the world at the age of 7 when her mom was assassinated. Her mother's good friend David Lysandra in Atlas City adopts her. Leila Lysandra becomes her legal name.
 
-Two political scientists in Vienna, calls their son, Politics, lovingly. He was just 6 when they died in an accident. He suspects the accident wasn't an accident. He grows up in an orphanage. He's an expert of desire. He get bullied constantly because he looks neither male nor female. But he doesn't become spiteful. He never stop being pacifist. He idolizes Diogenes. He convince his bullies to do what they truly desire to do instead of bullying him. He learns Tai Chi to defend himself if required. Yet he remains lean and weak. Trying to escape from cruel world, he becomes good friends with computers instead.
+Two political scientists in Vienna, calls their son, Politics, lovingly. They were activists defending the freedom of one of the three countries that contains a region called Rare Earth Crescent (REC). He was just 6 when they died in an accident. He suspects the accident wasn't an accident. He grows up in an orphanage. He's an expert of desire. He get bullied constantly because he looks neither male nor female. But he doesn't become spiteful. He never stop being pacifist. He idolizes Diogenes. He convince his bullies to do what they truly desire to do instead of bullying him. He learns Tai Chi to defend himself if required. Yet he remains lean and weak. Trying to escape from cruel world, he becomes good friends with computers instead.
 
 ---
 
@@ -164,6 +164,12 @@ Building "Strawberries Home" main mansion is now completed. Science provided the
 
 ## XVIII. (Love's POV)
 
-Love joins a volunteer pandemic response team as a doctor. 
+Love joins a volunteer pandemic response team as a doctor. The first patient died 3 months after the discovery of patient zero. The patient zero was found in the region called REC which is now the most infected area. Love travels there and meets a microbiologist, named Song Hye-jin.
+
+---
+
+## XIX. (Art's POV)
+
+Science's model show that
 
 ---

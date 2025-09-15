@@ -17,8 +17,6 @@ the anchor points in phase 3 are
 
 ---
 
-
-
 I missed another anchor point that's in phase 3.
 
 !IMPORTANT the squire of War, Severus Reed, giving birth to Tango Reed
@@ -29,6 +27,10 @@ let me start working on phase 2. it starts with the virus outbreak which Science
 
 ---
 
-
-
 Can you check the plausibility in these vague outline of the outline? Feel free to act like a friend listening to my pitch. The core of the phase 2 is after phase 1, the team has enough financial resources and Donovan Price's encryption keys so they can access the squires' financial when they need to. They'll exploit these resources to reverse engineer the biohazard. Science and Art on the other side of the world will prepare the vaccine research team while Seraphine and Politics work on getting the data of the original virus and vaccine which will accelerate and save a couple year from vaccine research if it were to start from scratch.
+
+
+
+Broken Mirror sounds like a good cocktail for the detective. It wouldn't be a popular drink because its name hurts your throat even when you hear it. Is there any alternative that reflects the same symbol without making your throat hurt? it's a drink after all.
+
+I'll use Miss Marple for the polymath's drink. why are suggesting so much throat hurting sharp things for cocktail names?
