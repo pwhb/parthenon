@@ -1,4 +1,3 @@
-
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## chapter i (Science)
@@ -46,3 +45,47 @@ I nodded. I grabbed Darwin's book in my arms and went to my bedroom to start rea
 ---
 
 ## chapter ii (Art)
+
+I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was a creative little brat. It started with me siding with the girl that was bullied at the school. They had been bullying her for a long time. "Astrid, did you really see them hurting her?" It was beyond me how they could asked me like that. I've always been creative but how creative did they have to be to suspect the victim might have been falsely accusing the bullies? Were they blind to the obvious scars? "Please don't tell me I'm the only one that can see the scars." The girl looked at me apologetically. She convinced the teachers she had an accident. I didn't blame her. It made perfect sense to not expect any justice from such teachers. It was clever of her to not make her bullies hate her more than they already did. I would never forget the mocking eyes. So the shameless teachers not only failed to see their moral failure but also informed my parents that I was making up things that weren't there.
+
+"Astrid, I understand you must have your reason to report to the teachers," said my mom's good friend, Mr. David Lysandra. He was a professor from Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. But I could see he was a shrink and they asked for his diagnosis. They really thought I was making things up.
+
+"How long have you known the girl that was hurt?" Mr. David asked gently. I genuinely had no clue how to explain to them. I didn't know the girl nor the bullies. I saw her scars and I saw their punchable eyes. "I met her the first time yesterday," I replied honestly.
+
+"Were she already hurt when you met her?" At least he was more patient than the teachers that dismissed me. I nodded.
+
+"Did she tell you how she got hurt?" he almost sounded like he cared about her. I shook my head. She didn't need to; the scars told the story themselves. 
+
+"How did you feel when you saw her hurt?" asked he very calmly. I hated his calm voice. I wasn't the one that had been bullied. She was. Why weren't he treating her instead? Or better yet, why weren't he treating the bullies?
+
+"Spicy," I answered. Stupid answer for stupid question. 
+
+"Elena often told me about your special talent. Have you ever heard of something called synesthesia?" He was almost like he was trying to get on my nerves. Yes, I could hear colors and I could see songs. Did colorblind people treat normal people different because they saw colors they couldn't see? These attributes were all waves and my sense were simply strong enough to perceive those waves differently than most people do. I didn't think it had anything to do with my sense of justice. 
+
+"Is it when I can smell skepticism in your voice?" I answered trying to look as respectful as I could. He smiled. 
+
+"You have a beautiful mind that perceives the world differently than most people. I think your parents were unnecessarily worried about you." He began to make sense slowly. 
+
+"Why did you feel like you want to tell the teachers about the little girl?" He was back to the beginning again. I always hated being interrogated. I always hated being diagnosed.
+
+"It was my bad. I felt no sense of justice in the eyes of the teachers. But I told them about her anyway in case I was wrong. Unfortunately I wasn't wrong." I explained respectfully. His eyes brightened with curiosity.
+
+"Were you saying you felt like you already knew the end result?" he made a good question. How nice it would have been if his voice didn't smell like skepticism. I nodded.
+
+"How do you feel to know you weren't wrong?" Would he never get tired of questioning me.
+
+"Salty. I couldn't help ... you know, trying to help her. It was my fault I got the authority involved." I could see he found my use of the word authority interesting.
+
+"So you felt like the authority failed you?" again, he made a good question. If only I couldn't sense skepticism in his voice. 
+
+"I wouldn't care if they failed me. They failed her. They harrassed a victim. They tried to spin a narrative that I was complicating their job."
+
+"Astrid, I understand how you feel. I understand you still sense some sort of skepticism in my voice. It's because I'm trying to understand you objectively." Well if I were to be honest, I found this shrink interesting. I realized where he got it wrong. He should've been trying to understand me subjectively. He should've forgot child psychology. He should've forgot his diagnosis tools.
+
+"I believe you're a kind kid. You understand your emotions really well. You only have a good intention. But the justice system we have is a little more complicated." If only complicated was a synonym of 'flawed', I whispered.
+
+"It's not just your school. The situation you encountered is very common. I'd be able to understand the context better if I could talk to the girl and the other children that you said were hurting her." Exactly. You were looking for the missing ring at the place it wasn't lost. How nice would it be if I didn't see his intention. He wasn't searching for the missing ring. He was checking the place where the ring wasn't lost.
+
+
+
+Two virologists in Athens call their daughter Angel but she demands to be called Art instead. She can hear colors and see melody. She finds herself to be a fan girl of Homer. She can get used to any instrument in no time. She always runs away from her classes because they're too strict and unimaginative. Her parents' friend therapist, David Lysandra, diagnoses her with Schizotypal Personality Disorder. But she believes her senses are real and the therapist is just less imaginative. One day, she runs away from her home to follow a luminous thread only she can see. It leads her to Atlas City.

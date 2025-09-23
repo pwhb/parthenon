@@ -19,5 +19,8 @@ this is the first novel's outline. you'll see each chapter has two titles; munda
 
 ---
 
-
 Camus isn't a philosopher I personally like. I find his philosphy coming from a privileged background and diluted. not that I'm saying his work isn't accurate. I just find other philosophers more precise. I was watching Chomsky-Foucault Debate and suddenly realized my protagonist mirrors Foucault a lot. Not just the critique but psychiatry screams Foucault more than other philosophers.
+
+---
+
+I'm writing a novel. I'm writing it in English since it's set in a global setting. English isn't my native language so there might be sentences I failed to make smooth and natural. Can you check them and help me with smoothening them? it's ok if you think what I wrote it ok too. Please try to act like a casual reader. You don't need to look too hard.
