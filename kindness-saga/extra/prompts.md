@@ -24,3 +24,6 @@ Camus isn't a philosopher I personally like. I find his philosphy coming from a 
 ---
 
 I'm writing a novel. I'm writing it in English since it's set in a global setting. English isn't my native language so there might be sentences I failed to make smooth and natural. Can you check them and help me with smoothening them? it's ok if you think what I wrote it ok too. Please try to act like a casual reader. You don't need to look too hard.
+
+
+I know there are a lot of places to be improved. but I honestly don't know how to improve it. since I saved my version in git commit, you can provide your corrected version and I'll check the changes and ask you back if i don't agree with some changes.

@@ -1,4 +1,3 @@
-
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## chapter i (Science)
