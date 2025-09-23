@@ -7,7 +7,6 @@ the titles are
 "(let me kiss you) at the funeral of the gods" [funogods]
 "til the end of the world" [drifters]
 
-
 Galvarino
 
 the plots are pretty much confirmed. please don't guess the plot yet. I will share the outlines one by one. I've written some drafts but it's far from finished since I've been working a different full time job. so I drafted the outlines first and I'm currently working on the third. I want you to act like a friend listening to my pitch first. and then as a stranger that reads my novel.
@@ -19,3 +18,6 @@ the plots are pretty much confirmed. please don't guess the plot yet. I will sha
 this is the first novel's outline. you'll see each chapter has two titles; mundane one and the greek myth inspired one in the quotes. like the ceiling fan and tartarus.
 
 ---
+
+
+Camus isn't a philosopher I personally like. I find his philosphy coming from a privileged background and diluted. not that I'm saying his work isn't accurate. I just find other philosophers more precise. I was watching Chomsky-Foucault Debate and suddenly realized my protagonist mirrors Foucault a lot. Not just the critique but psychiatry screams Foucault more than other philosophers.

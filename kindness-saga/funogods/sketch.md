@@ -27,7 +27,7 @@ let me start working on phase 2. it starts with the virus outbreak which Science
 
 ---
 
-Can you check the plausibility in these vague outline of the outline? Feel free to act like a friend listening to my pitch. The core of the phase 2 is after phase 1, the team has enough financial resources and Donovan Price's encryption keys so they can access the squires' financial when they need to. They'll exploit these resources to reverse engineer the biohazard. Science and Art on the other side of the world will prepare the vaccine research team while Seraphine and Politics work on getting the data of the original virus and vaccine which will accelerate and save a couple year from vaccine research if it were to start from scratch.
+Can you check the plausibility in these vague outline of the outline? Feel free to act like a friend listening to my pitch. The core of the phase 2 is after phase 1, the team has enough financial resources and Donovan Faust's encryption keys so they can access the squires' financial when they need to. They'll exploit these resources to reverse engineer the biohazard. Science and Art on the other side of the world will prepare the vaccine research team while Seraphine and Politics work on getting the data of the original virus and vaccine which will accelerate and save a couple year from vaccine research if it were to start from scratch.
 
 
 
