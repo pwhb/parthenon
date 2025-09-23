@@ -45,3 +45,83 @@ I nodded. I grabbed Darwin's book in my arms and went to my bedroom to start rea
 ---
 
 ## chapter ii (Art)
+
+I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
+
+"Astrid, did you really see them hurting her?" the teacher asked. I was stunned by their question. How could they possibly doubt the victim? I've always been perceptive, but how blind did they have to be to suspect the victim might be lying? Couldn't they see the obvious scars?
+
+"Please don't tell me I'm the only one who can see the scars," I responded.
+
+The girl looked at me apologetically. She had convinced the teachers it was just an accident. I didn't blame her. It made perfect sense to not expect justice from such teachers. It was clever of her to avoid making her bullies hate her more than they already did.
+
+I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories.
+
+"Astrid, I understand you must have your reasons for reporting to the teachers," said my mom's good friend, Mr. David Lysandra.
+
+He was a professor from Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. But I could see he was a shrink and they asked for his diagnosis. They really thought I was making things up.
+
+"How long have you known the girl who was hurt?" Mr. David asked gently.
+
+I genuinely had no idea how to explain to them. I didn't know the girl or the bullies. They weren't even from my class. I saw her scars and I saw their cruel punchable faces.
+
+"I met her the first time yesterday," I replied honestly.
+
+"Was she already hurt when you met her?" he asked. At least he was more patient than the teachers that dismissed me. I nodded.
+
+"Did she tell you how she got hurt?" he asked, almost sounding like he genuinely cared. I shook my head. She didn't need to speak; her scars told the entire story.
+
+"How did you feel when you saw her hurt?" he asked calmly. I hated his measured tone. I wasn't the one who had been bullied—she was. Why wasn't he treating her instead? Or better yet, why wasn't he treating the bullies?
+
+"Spicy," I answered. Stupid answer for stupid question.
+
+"Elena often told me about your special talent. Have you ever heard of something called synesthesia?"
+
+He seemed determined to get under my skin. Yes, I could hear colors and see songs. Did colorblind people treat others differently just because they perceived colors differently? These were all just waves, and my senses were simply strong enough to perceive them in ways most people couldn't. I didn't see how this had anything to do with my sense of justice.
+
+"Is it when I can smell skepticism in your voice?" I responded, attempting to look respectful. He smiled.
+
+"You have a beautiful mind that perceives the world differently from most people. I think your parents were unnecessarily worried," he said, slowly beginning to make sense.
+
+"Why did you feel like you wanted to tell the teachers about the little girl?"
+
+Again, he was circling back to the start. I hated being interrogated. I hated being diagnosed.
+
+"It was my mistake. I saw no sense of justice in the teachers' eyes. But I reported what I saw anyway, in case I was mistaken. Unfortunately, I wasn't," I explained respectfully.
+
+His eyes brightened with curiosity.
+
+"Were you saying you felt like you already knew the end result?" It was a good question. If only his voice didn't smell of skepticism. I nodded.
+
+"How do you feel knowing you weren't wrong?" He seemed endless in his questioning.
+
+"Salty. I couldn't help trying to help her. It was my fault I got the authorities involved." I noticed his interest in my choice of words.
+
+"So you felt like the authorities failed you?" Another good question. If only I couldn't sense the skepticism in his voice.
+
+"I wouldn't care if they failed me. They failed her. They harassed a victim. They tried to spin a narrative that I was complicating their job."
+
+"Astrid, I understand how you feel. I know you still sense skepticism in my voice. It's because I'm trying to understand you objectively."
+
+If I were to be honest, I finally found this shrink interesting. I realized where he was mistaken. He should have been trying to understand me subjectively. He should have forgotten child psychology. He should have forgotten his diagnostic tools.
+
+"I believe you're a kind kid. You understand your emotions well. You have good intentions. But the justice system is a little more complicated."
+
+If only 'complicated' were a synonym for 'flawed', I whispered.
+
+"It's not just your school. This situation is quite common. I'd understand the context better if I could talk to the girl and the other children you said were hurting her."
+
+Exactly. He wasn't looking for the missing ring in the wrong place. How nice it would be if I couldn't see through his intention. He wasn't searching for the missing ring in the first place; he was simply examining the wrong place for the wrong reason. I found his approach amusing. I needed to give something witty to someone so completely missing the point.
+
+"What's the difference between a therapist and a lawyer?" I asked him.
+
+"A suit?" he answered, after thinking for a while.
+
+He was funny. I could've been friends with him if he weren't a therapist trying to diagnose me.
+
+"Exactly. Both of them listen to you and then convince you of a truth you can tolerate."
+
+"What's the version of the truth you can live with?" he asked instantly.
+
+"I don't settle for a palatable truth. I expose the failures of authority. One layer at a time," I explained.
+
+I was certain he was impressed. He admitted to admiring my resilience. He went on to reassure my parents about what happened at school. My perception of reality was so intense that it might have been impossible to investigate through conventional facts. I didn't know exactly what he told my parents, but somehow they misinterpreted his words and concluded I was struggling with Schizotypal Personality Disorder.

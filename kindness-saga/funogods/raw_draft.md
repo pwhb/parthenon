@@ -46,67 +46,71 @@ I nodded. I grabbed Darwin's book in my arms and went to my bedroom to start rea
 
 ## chapter ii (Art)
 
-I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat.
+I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
 
-It started with me siding with the girl that was bullied at school. They must've been bullying her for a long time. 
+"Astrid, did you really see them hurting her?" the teacher asked. I was stunned by their question. How could they possibly doubt the victim? I've always been perceptive, but how blind did they have to be to suspect the victim might be lying? Couldn't they see the obvious scars?
 
-"Astrid, did you really see them hurting her?" the teacher asked. It was beyond me how they could ask me like that. I've always been creative but how creative did they have to be to suspect the victim might have been falsely accusing the bullies? Were they blind to the obvious scars?
+"Please don't tell me I'm the only one who can see the scars," I responded.
 
-"Please don't tell me I'm the only one that can see the scars," I responded. 
+The girl looked at me apologetically. She had convinced the teachers it was just an accident. I didn't blame her. It made perfect sense to not expect justice from such teachers. It was clever of her to avoid making her bullies hate her more than they already did.
 
-The girl looked at me apologetically. She convinced the teachers she had an accident. I didn't blame her. It made perfect sense to not expect any justice from such teachers. It was clever of her to not make her bullies hate her more than they already did. 
+I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories.
 
-I would never forget the mocking eyes. So the shameless teachers not only failed to see their moral failure but also informed my parents that I was making up things that weren't there.
-
-"Astrid, I understand you must have your reason to report to the teachers," said my mom's good friend, Mr. David Lysandra. 
+"Astrid, I understand you must have your reasons for reporting to the teachers," said my mom's good friend, Mr. David Lysandra.
 
 He was a professor from Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. But I could see he was a shrink and they asked for his diagnosis. They really thought I was making things up.
 
-"How long have you known the girl that was hurt?" Mr. David asked gently. 
+"How long have you known the girl who was hurt?" Mr. David asked gently.
 
-I genuinely had no clue how to explain to them. I didn't know the girl nor the bullies. I saw her scars and I saw their punchable eyes. 
+I genuinely had no idea how to explain to them. I didn't know the girl or the bullies. They weren't even from my class. I saw her scars and I saw their cruel punchable faces.
 
 "I met her the first time yesterday," I replied honestly.
 
 "Was she already hurt when you met her?" he asked. At least he was more patient than the teachers that dismissed me. I nodded.
 
-"Did she tell you how she got hurt?" he asked. He almost sounded like he cared about her. I shook my head. She didn't need to; the scars told the story themselves.
+"Did she tell you how she got hurt?" he asked, almost sounding like he genuinely cared. I shook my head. She didn't need to speak; her scars told the entire story.
 
-"How did you feel when you saw her hurt?" he asked very calmly. I hated his calm voice. I wasn't the one that had been bullied. She was. Why weren't he treating her instead? Or better yet, why weren't he treating the bullies?
+"How did you feel when you saw her hurt?" he asked calmly. I hated his measured tone. I wasn't the one who had been bullied—she was. Why wasn't he treating her instead? Or better yet, why wasn't he treating the bullies?
 
 "Spicy," I answered. Stupid answer for stupid question.
 
-"Elena often told me about your special talent. Have you ever heard of something called synesthesia?" 
+"Elena often told me about your special talent. Have you ever heard of something called synesthesia?"
 
-He was almost like he was trying to get on my nerves. Yes, I could hear colors and I could see songs. Did colorblind people treat normal people different because they saw colors they couldn't see? These attributes were all waves and my sense were simply strong enough to perceive those waves differently than most people do. I didn't think it had anything to do with my sense of justice.
+He seemed determined to get under my skin. Yes, I could hear colors and see songs. Did colorblind people treat others differently just because they perceived colors differently? These were all just waves, and my senses were simply strong enough to perceive them in ways most people couldn't. I didn't see how this had anything to do with my sense of justice.
 
-"Is it when I can smell skepticism in your voice?" I answered, trying to look as respectful as I could. He smiled.
+"Is it when I can smell skepticism in your voice?" I responded, attempting to look respectful. He smiled.
 
-"You have a beautiful mind that perceives the world differently than most people. I think your parents were unnecessarily worried about you," he began to almost make sense slowly.
+"You have a beautiful mind that perceives the world differently from most people. I think your parents were unnecessarily worried," he said, slowly beginning to make sense.
 
-"Why did you feel like you wanted to tell the teachers about the little girl?" 
+"Why did you feel like you wanted to tell the teachers about the little girl?"
 
-Now he was back to the beginning again. I always hated being interrogated. I always hated being diagnosed.
+Again, he was circling back to the start. I hated being interrogated. I hated being diagnosed.
 
-"It was my bad. I felt no sense of justice in the eyes of the teachers. But I told them about her anyway in case I was wrong. Unfortunately I wasn't wrong," I explained respectfully. His eyes brightened with curiosity.
+"It was my mistake. I saw no sense of justice in the teachers' eyes. But I reported what I saw anyway, in case I was mistaken. Unfortunately, I wasn't," I explained respectfully.
 
-"Were you saying you felt like you already knew the end result?" he made a good question. How nice it would have been if his voice didn't smell like skepticism. I nodded.
+His eyes brightened with curiosity.
 
-"How do you feel to know you weren't wrong?" Would he never get tired of questioning me.
+"Were you saying you felt like you already knew the end result?" It was a good question. If only his voice didn't smell of skepticism. I nodded.
 
-"Salty. I couldn't help ... you know, trying to help her. It was my fault I got the authority involved." I could see he found my use of the word authority interesting.
+"How do you feel knowing you weren't wrong?" He seemed endless in his questioning.
 
-"So you felt like the authority failed you?" again, he made a good question. If only I couldn't sense skepticism in his voice.
+"Salty. I couldn't help trying to help her. It was my fault I got the authorities involved." I noticed his interest in my choice of words.
 
-"I wouldn't care if they failed me. They failed her. They harrassed a victim. They tried to spin a narrative that I was complicating their job."
+"So you felt like the authorities failed you?" Another good question. If only I couldn't sense the skepticism in his voice.
 
-"Astrid, I understand how you feel. I understand you still sense some sort of skepticism in my voice. It's because I'm trying to understand you objectively." Well if I were to be honest, I found this shrink interesting finally. I realized where he got it wrong. He should've been trying to understand me subjectively. He should've forgot child psychology. He should've forgot his diagnosis tools.
+"I wouldn't care if they failed me. They failed her. They harassed a victim. They tried to spin a narrative that I was complicating their job."
 
-"I believe you're a kind kid. You understand your emotions really well. You only have a good intention. But the justice system we have is a little more complicated." If only complicated was a synonym of 'flawed', I whispered.
+"Astrid, I understand how you feel. I know you still sense skepticism in my voice. It's because I'm trying to understand you objectively." 
 
-"It's not just your school. The situation you encountered is very common. I'd be able to understand the context better if I could talk to the girl and the other children that you said were hurting her." 
+If I were to be honest, I finally found this shrink interesting. I realized where he was mistaken. He should have been trying to understand me subjectively. He should have forgotten child psychology. He should have forgotten his diagnostic tools.
 
-Exactly. You were looking for the missing ring at the place it wasn't lost. How nice would it be if I didn't see his intention. He wasn't searching for the missing ring. He was checking the place where the ring wasn't lost. I found whatever he was doing funny. I needed to give something funny to someone being funny.
+"I believe you're a kind kid. You understand your emotions well. You have good intentions. But the justice system is a little more complicated."
+
+If only 'complicated' were a synonym for 'flawed', I whispered.
+
+"It's not just your school. This situation is quite common. I'd understand the context better if I could talk to the girl and the other children you said were hurting her."
+
+Exactly. He wasn't looking for the missing ring in the wrong place. How nice it would be if I couldn't see through his intention. He wasn't searching for the missing ring in the first place; he was simply examining the wrong place for the wrong reason. I found his approach amusing. I needed to give something witty to someone so completely missing the point.
 
 "What's the difference between a therapist and a lawyer?" I asked him.
 
@@ -114,10 +118,10 @@ Exactly. You were looking for the missing ring at the place it wasn't lost. How 
 
 He was funny. I could've been friends with him if he weren't a therapist trying to diagnose me.
 
-"Exactly. Both of them listen to you and then convince you a version of the truth you can live with."
+"Exactly. Both of them listen to you and then convince you of a truth you can tolerate."
 
 "What's the version of the truth you can live with?" he asked instantly.
 
-"I don't settle with the version of the truth I can live with. I unmasked the justice failure of the authority. One layer of the truth at a time," I explained.
+"I don't settle for a palatable truth. I expose the failures of authority. One layer at a time," I explained.
 
-I was sure he was impressed. He admitted he admired my resilience. He went on to convince my parents that it didn't matter what happened at school. My sense of the reality was so strong that it could've been impossible to investigate through facts. I didn't know what exactly he told my parents but somehow they misinterpreted that I was struggling with Schizotypal Personality Disorder.
+I was certain he was impressed. He admitted to admiring my resilience. He went on to reassure my parents about what happened at school. My perception of reality was so intense that it might have been impossible to investigate through conventional facts. I didn't know exactly what he told my parents, but somehow they misinterpreted his words and concluded I was struggling with Schizotypal Personality Disorder.
