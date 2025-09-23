@@ -110,7 +110,7 @@ If only 'complicated' were a synonym for 'flawed', I whispered.
 
 "It's not just your school. This situation is quite common. I'd understand the context better if I could talk to the girl and the other children you said were hurting her."
 
-Exactly. He wasn't looking for the missing ring in the wrong place. How nice it would be if I couldn't see through his intention. He wasn't searching for the missing ring in the first place; he was simply examining the wrong place for the wrong reason. I found his approach amusing. I needed to give something witty to someone so completely missing the point.
+Exactly. He wasn't looking for the missing ring in the wrong place. How nice it would be if I couldn't see through his intention. He wasn't searching for the missing ring at all in the first place; he was simply examining the wrong place for the wrong reason. I found his approach amusing. I needed to give something witty to someone so completely missing the point.
 
 "What's the difference between a therapist and a lawyer?" I asked him.
 
@@ -120,7 +120,7 @@ He was funny. I could've been friends with him if he weren't a therapist trying 
 
 "Exactly. Both of them listen to you and then convince you of a truth you can tolerate."
 
-"What's the version of the truth you can live with?" he asked instantly.
+"What do you think is the version of the truth you can live with?" he asked instantly.
 
 "I don't settle for a palatable truth. I expose the failures of authority. One layer at a time," I explained.
 

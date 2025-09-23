@@ -1,3 +1,4 @@
+
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## chapter i (Science)
@@ -100,7 +101,7 @@ His eyes brightened with curiosity.
 
 "I wouldn't care if they failed me. They failed her. They harassed a victim. They tried to spin a narrative that I was complicating their job."
 
-"Astrid, I understand how you feel. I know you still sense skepticism in my voice. It's because I'm trying to understand you objectively." 
+"Astrid, I understand how you feel. I know you still sense skepticism in my voice. It's because I'm trying to understand you objectively."
 
 If I were to be honest, I finally found this shrink interesting. I realized where he was mistaken. He should have been trying to understand me subjectively. He should have forgotten child psychology. He should have forgotten his diagnostic tools.
 
@@ -110,7 +111,7 @@ If only 'complicated' were a synonym for 'flawed', I whispered.
 
 "It's not just your school. This situation is quite common. I'd understand the context better if I could talk to the girl and the other children you said were hurting her."
 
-Exactly. He wasn't looking for the missing ring in the wrong place. How nice it would be if I couldn't see through his intention. He wasn't searching for the missing ring in the first place; he was simply examining the wrong place for the wrong reason. I found his approach amusing. I needed to give something witty to someone so completely missing the point.
+Exactly. He wasn't looking for the missing ring in the wrong place. How nice it would be if I couldn't see through his intention. He wasn't searching for the missing ring at all in the first place; he was simply examining the wrong place for the wrong reason. I found his approach amusing. I needed to give something witty to someone so completely missing the point.
 
 "What's the difference between a therapist and a lawyer?" I asked him.
 
@@ -120,8 +121,12 @@ He was funny. I could've been friends with him if he weren't a therapist trying 
 
 "Exactly. Both of them listen to you and then convince you of a truth you can tolerate."
 
-"What's the version of the truth you can live with?" he asked instantly.
+"What do you think is the version of the truth you can live with?" he asked instantly.
 
 "I don't settle for a palatable truth. I expose the failures of authority. One layer at a time," I explained.
 
 I was certain he was impressed. He admitted to admiring my resilience. He went on to reassure my parents about what happened at school. My perception of reality was so intense that it might have been impossible to investigate through conventional facts. I didn't know exactly what he told my parents, but somehow they misinterpreted his words and concluded I was struggling with Schizotypal Personality Disorder.
+
+---
+
+## chapter iii (Love)
