@@ -1,3 +1,4 @@
+
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## chapter i (Science)
@@ -6,7 +7,7 @@
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
-I felt relieved. I got somewhere finally without getting entangled in specificalities. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; Mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I saw the beauty in the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
+I felt relieved. I got somewhere finally without getting entangled in specificalities. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; Mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
 
 "Will you have your dinner now, my baby Science? I made your favourite dish." I could never fully express how much I loved mom. She knew I wouldn't have dinner without getting somewhere. I almost forgot how hungry I was.
 
@@ -16,7 +17,7 @@ I had to bring a textbook to the dinner table. I couldn't wait to compare my der
 
 I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remember she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
 
-I always hated when mom had to travel to work with her physicist colleagues from Santandería. She often brought me to university conferences, but these foreign colleagues remained a mysterious presence, always kept at a distance from my little world. I never nagged her to take me with her though.
+I spent a few more weeks deriving all the other known physics principles from one universal principle I just rediscovered; that of stationary action. One day, I decided to send an email to Luna on mom's computer. Before I talked about Luna, I needed to talk about mom's secret work, or at least what I call her secret work. I always hated when mom had to travel to work with her physicist colleagues from Santandería. She often brought me to university conferences, but these foreign colleagues remained a mysterious presence, always kept at a distance from my little world. I never nagged her to take me with her though.
 
 "I'll only be away for four days, my baby Science. Luna will be here to look after you."
 
@@ -36,7 +37,7 @@ Mom laughed, holding Luna's hand. "Take care of my little scientist," she said, 
 
 Luna and I went back to my mom's room. I couldn't wait to open Darwin's book. Luna settled into mom's desk chair, her eyes sparkling with curiosity. "Hey little buddy, what changed your mind suddenly? You always demanded more rigorous equations in my homework than even Professor Alma did. Do you feel like you finished everything you wanted to do with physics?"
 
-I shook my head. "I'm afraid I won't be able to finish working with the secrets of the universe anytime soon. But isn't the fun more about exploring the secrets rather than actually finding them? I feel uncomfortable when I don't find something unrigorous. I'm sorry if I've sounded like I'm too demanding. I just don't know how to be comfortable without understanding something rigorously. Thank you for always being patient with me."
+I shook my head. "I'm afraid I won't be able to finish working with the secrets of the universe anytime soon. But isn't the fun more about exploring the secrets rather than actually finding them? I feel uncomfortable when I don't find something rigorous. I'm sorry if I've sounded like I'm too demanding. I just don't know how to be comfortable without understanding something rigorously. Thank you for always being patient with me."
 
 "You're welcome, little buddy. I hope you find a fantastic journey with biology. Just let me know whenever you want me to look for more books. Ah, I almost forgot, my friend from the Department of Biology said she's willing to help with anything you find confusing."
 
@@ -46,7 +47,7 @@ I nodded. I grabbed Darwin's book in my arms and went to my bedroom to start rea
 
 ## chapter ii (Art)
 
-I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
+I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat. The beauty of an engine lies in its mechanical nature while mine lies in organic nature that other organic creatures like my parents failed to grasp. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
 
 "Astrid, did you really see them hurting her?" the teacher asked. I was stunned by their question. How could they possibly doubt the victim? I've always been perceptive, but how blind did they have to be to suspect the victim might be lying? Couldn't they see the obvious scars?
 
@@ -76,7 +77,7 @@ I genuinely had no idea how to explain to them. I didn't know the girl or the bu
 
 "Elena often told me about your special talent. Have you ever heard of something called synesthesia?"
 
-He seemed determined to get under my skin. Yes, I could hear colors and see songs. Did colorblind people treat others differently just because they perceived colors differently? These were all just waves, and my senses were simply strong enough to perceive them in ways most people couldn't. I didn't see how this had anything to do with my sense of justice.
+He seemed determined to get under my skin. Yes, I could hear colors and see songs. Did colorblind people treat others differently just because they perceived colors differently? Basic senses, like touch, sight, hearing, smell and taste, were all just about perceiving waves, and my senses were simply strong enough to perceive them in ways most people couldn't. I didn't see how this had anything to do with my sense of justice.
 
 "Is it when I can smell skepticism in your voice?" I responded, attempting to look respectful. He smiled.
 
@@ -125,3 +126,7 @@ He was funny. I could've been friends with him if he weren't a therapist trying 
 "I don't settle for a palatable truth. I expose the failures of authority. One layer at a time," I explained.
 
 I was certain he was impressed. He admitted to admiring my resilience. He went on to reassure my parents about what happened at school. My perception of reality was so intense that it might have been impossible to investigate through conventional facts. I didn't know exactly what he told my parents, but somehow they misinterpreted his words and concluded I was struggling with Schizotypal Personality Disorder.
+
+---
+
+## chapter iii (Love)
