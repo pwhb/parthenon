@@ -1,3 +1,4 @@
+
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## chapter i (Science)
@@ -164,10 +165,12 @@ Mom and dad had always been a perfect match in every sense that mattered. They m
 
 "But Galvarino refused to become an agent of fear. Can you imagine what he did? He fastened knives to his mutilated wrists and continued fighting. Instead of being held back by fear, he inspired his comrades. He transformed his wounds into weapons of resistance."
 
-"Unfortunately," dad continued, his voice heavy with a pain that seemed to transcend time, "he was eventually caught and executed."
+"Unfortunately," dad continued, his voice heavy with a pain that seemed incurable, "he was eventually caught and executed."
 
-I saw my admiration for Galvarino reflected in my father's eyes. I knew he carried the same reverence for both the historical warrior and his namesake friend.
+I saw my admiration for Galvarino reflected in dad's eyes. I knew he carried the same reverence for both the historical warrior and his namesake friend.
 
 "The battlegrounds might have changed," dad said, "but the spirit of resistance remains the same. Politics is like a more complicated game of chess, Polis. To let fear control you is to trap your pieces yourself. But overcoming fear doesn't guarantee an advantage either. You must maneuver with precision and purpose. We don't speak out merely to endanger ourselves — our activism is both a shield and a sword. A move that's both attacking and defensive. Our visibility as known activists offers a form of protection. We forge connections with allies and, equally important, we identify those who stand against justice. Chess is just a simplified metaphor for the complex strategies of life. Polis, I always knew you hated chess. I needed you to be prepared with that mode of thinking. Understanding the purpose behind the moves is a necessary step in the fight for justice. I wished you wouldn't hate me for asking you to endure chess."
 
 I shook my head. Why would I hate him for that? Wasn't he the one who taught me to see the difference between the pieces, the hand moving the pieces and the meaning of the moves? Of course, I understood what he wanted me to see. Not that it made me hate chess any less, though.
+
+---
