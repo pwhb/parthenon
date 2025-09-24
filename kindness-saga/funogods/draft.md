@@ -17,11 +17,11 @@ I had to bring a textbook to the dinner table. I couldn't wait to compare my der
 
 I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remember she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
 
-I spent a few more weeks deriving all the other known physics principles from one universal principle I just rediscovered; that of stationary action. One day, I decided to send an email to Luna on mom's computer. Before I talked about Luna, I needed to talk about mom's secret work, or at least what I call her secret work. I always hated when mom had to travel to work with her physicist colleagues from Santandería. She often brought me to university conferences, but these foreign colleagues remained a mysterious presence, always kept at a distance from my little world. I never nagged her to take me with her though.
+I spent a few more weeks deriving all the other physics principles I knew from one universal principle I just rediscovered; that of stationary action. One day, I decided to send an email to Luna on mom's computer. Before I talked about Luna, I needed to talk about mom's secret work, or at least what I call her secret work. I always hated when mom had to travel to work with her physicist colleagues from Santandería. She often brought me to university conferences, but these foreign colleagues remained a mysterious presence, always kept at a distance from my little world. I never nagged her to take me with her though.
 
 "I'll only be away for four days, my baby Science. Luna will be here to look after you."
 
-She always asked Luna to babysit me. Luna was her graduate student. She was always very kind to me. Unlike other people, she never treated me like I was weird. It never looked like babysitting with her. It was more like a private lecture; except that neither of us would know who was supposed to be the lecturer. I used to ask her a lot of questions that I would've asked mom if she was with me. I thought she might've found them frustrating but she found it fun. It was how Luna realized she could offload her assignments to my little brain. Sometimes my skepticism could help her see something she missed because she took it for granted. She always appreciated my strong sense of rigour in everything.
+She always asked Luna to babysit me. Luna was her graduate student. She was always very kind to me. Unlike other people, she never treated me like I was weird. It never looked like babysitting with her. It was more like a private lecture; except that neither of us would know who was supposed to be the lecturer. I used to ask her a lot of questions that I would've asked mom if she was with me. I thought she might've found them frustrating but she found them fun. It was how Luna realized she could offload her assignments to my little brain. Sometimes my skepticism could help her see something she missed because she took it for granted. She always appreciated my strong sense of rigour in everything.
 
 "For the last time, my sweet Science, Luna is my graduate student. Not yours. Please don't help her with her homework," mom said laughingly. I nodded. I knew it was Luna when I heard the door knock. I ran to help her carry the bags to my mom's room where Luna would stay at. She brought two bags of textbooks.
 
@@ -59,7 +59,7 @@ I would never forget their mocking eyes. The shameless teachers not only failed 
 
 "Astrid, I understand you must have your reasons for reporting to the teachers," said my mom's good friend, Mr. David Lysandra.
 
-He was a professor from Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. But I could see he was a shrink and they asked for his diagnosis. They really thought I was making things up.
+He was a professor from Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. But I could see he was a shrink and they asked for his diagnosis. They really thought I was making things up. I didn't know why but I agreed to talk to him. I had no intention of proving I was sane. I just saw a faint luminous thread connected to him that apparently nobody else could see.
 
 "How long have you known the girl who was hurt?" Mr. David asked gently.
 
@@ -85,7 +85,7 @@ He seemed determined to get under my skin. Yes, I could hear colors and see song
 
 "Why did you feel like you wanted to tell the teachers about the little girl?"
 
-Again, he was circling back to the start. I hated being interrogated. I hated being diagnosed.
+Again, he was circling back to the start. I hated being interrogated. I hated being diagnosed. If I weren't intrigued by his luminous thread, I wouldn't even be tolerating this talk.
 
 "It was my mistake. I saw no sense of justice in the teachers' eyes. But I reported what I saw anyway, in case I was mistaken. Unfortunately, I wasn't," I explained respectfully.
 
@@ -125,7 +125,7 @@ He was funny. I could've been friends with him if he weren't a therapist trying 
 
 "I don't settle for a palatable truth. I expose the failures of authority. One layer at a time," I explained.
 
-I was certain he was impressed. He admitted to admiring my resilience. He went on to reassure my parents about what happened at school. My perception of reality was so intense that it might have been impossible to investigate through conventional facts. I didn't know exactly what he told my parents, but somehow they misinterpreted his words and concluded I was struggling with Schizotypal Personality Disorder.
+I was certain he was impressed. He admitted to admiring my resilience. He went on to reassure my parents about what happened at school. My perception of reality was so intense that it might have been impossible to investigate through conventional facts. I didn't even tell him I saw a luminous thread connected to him. In fact, I told nobody about it. Seeing that nobody seemed to notice it, I knew it was something I should've kept to myself. I never learned the exact details of his conversation with my parents, but somehow they misinterpreted his words, ultimately concluding I was struggling with Schizotypal Personality Disorder.
 
 ---
 
