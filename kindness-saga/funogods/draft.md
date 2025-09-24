@@ -1,4 +1,3 @@
-
 # (let me kiss you) at the funeral of the gods [funogods]
 
 ## chapter i (Science)
@@ -130,3 +129,10 @@ I was certain he was impressed. He admitted to admiring my resilience. He went o
 ---
 
 ## chapter iii (Love)
+
+
+---
+
+## chapter iv (Politics)
+
+I never told my parents I hated chess. Because I loved doing something with them. My dad often played chess with me for whole days. He was a political scientist. The knights are my favourite pieces. They're like ninjas. They can break in to a seemingly impregnable fortress.
