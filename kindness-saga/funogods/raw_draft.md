@@ -12,7 +12,7 @@ I felt relieved. I got somewhere finally without getting entangled in specifical
 
 Mom called me Science. It was what she loved most in the entire universe. I believed she never hesitated to name me Science; it must have been as if she never considered another word that could describe her love for me. I never knew who my dad was. Neither did my mom. One day, she realized she wanted to give birth to me and contacted her friend at the Faculty of Health and Medical Sciences. She had always known physical intimacy wasn't her way of connecting with others. Throughout her life, she'd had occasional relationships, but maintaining them without getting physical proved challenging. In the end, she chose a path of motherhood that was entirely her own. She ticked 'anonymous donor' in the form, despite her curious mind of a scientist. A mysterious donor giving me the other half of genes seemed more profound than someone she could contact. Who my father was never mattered to me or my mom. There were more than enough problems we could enjoy solving.
 
-I had to bring a textbook to the dinner table. I couldn't wait to compare my derivation with the textbooks. Mom mentioned the exact Chapter I needed to look up. I could swear these mathematical symbols danced with an ethereal luminescence before my eyes. I realized I had traced the same beautiful mathematical path others had walked before me. The joy wasn't in being first, but in understanding the universal language that explains the universe.
+I had to bring a textbook to the dinner table. I couldn't wait to compare my derivation with the textbooks. Mom mentioned the exact chapter I needed to look up. I could swear these mathematical symbols danced with an ethereal luminescence before my eyes. I realized I had traced the same beautiful mathematical path others had walked before me. The joy wasn't in being first, but in understanding the universal language that explains the universe.
 
 I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remember she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
 
@@ -158,15 +158,15 @@ Mom was tending to her lyre. I put my head on the little remaining area of her l
 
 "I wished I were as brave as you and your dad," she confessed with a heavy heart.
 
-I was a daughter of two warriors. While dad's weapon was a gun and mom's a pen, my weapon of choice would be a needle. Didn't the world have too much sufferings already? I never got a chance to see my dad. He was dead before I was born. Grew up as a fatherless child, all I ever longed for was a safe haven.
+I was a daughter of two warriors. While my dad's weapon was a gun and my mom's a pen, my weapon of choice would be a needle. Didn't the world have too much suffering already? I never got a chance to see my dad. He was dead before I was born. Grew up as a fatherless child, all I ever longed for was a safe haven.
 
 I never wanted mom to continue my dad's fight and yet I understood her mission; it was the least she could do in his name. All her life, she had worked hard for the preservation of indigenous languages in the Crescent where the borders of three countries met; one of which was Veridia, where my dad was born and died. Her life was destined to be doomed from the beginning. Perhaps so was mine. I always knew she wouldn't change a thing in her life even if she knew how it would end. I wouldn't change a thing in my life either despite the endless melancholy that followed me everywhere. What a tragedy it was that my two hands would never be enough to heal the world. What a tragedy it was that my two hands would never be enough to heal my mom.
 
-I never told her I could hear the words she never said. I wished there was something I could've done to ease her despair.
+I never told her I could hear the words she left unspoken. I wished I could find a way to ease her despair.
 
 "I'm scared, my Love. I told you I published a paper. But it wasn't just an academic paper. I'm scared, my baby Love. I had to do it. It was the least I could do for the brothers and sisters of your dad that I never met. For the blood of my Love. For the blood of the brave. For the blood of the forgotten. For the blood that still remained. For the blood that is still bleeding. I've put all my heart into my paper. My colleagues that reviewed it didn't have a clue. They helped me release a declaration of war. Of course, I know it wouldn't be enough. Those that took away Galvarino won't stop. I'm not strong enough. Why am I not strong enough? Lord, please spare some mercy for my innocent child if I can't be saved."
 
-She never shared her despair with me. She kept everything inside. As if it could've stopped what would come true eventually. As if it could've stopped me from feeling her heart.
+She kept her despair locked inside, as if silence could prevent the inevitable, as if it could shield me from feeling the weight of her heart.
 
 I closed my eyes on her lap while she repeated the tales of my dad that she would never get tired of telling.
 
@@ -178,7 +178,7 @@ I closed my eyes on her lap while she repeated the tales of my dad that she woul
 
 I nodded, without opening my eyes, trying to hide the tears. I knew what was coming. Not because I was a wise child. But because my mom was a wise woman. She knew what was coming. I knew everything she knew. All you needed to do was feel her heartbeat. Feeling everything who you love feel was the least I could do. If only I closed my eyes hard enough. If only I hugged her hard enough. If only I wished this moment of warmth could last for an eternity hard enough.
 
-She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could've taken, in memory of her.
+She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could take, in memory of her.
 
 ---
 
@@ -192,11 +192,11 @@ I never got as good at chess as my dad. I couldn't win a game against him if he 
 
 I remember the tender look in mom's eyes when I questioned the pawn's fate—condemned to a war where they seemed most vulnerable. Dad took it as an opportunity to explain the concept of promotion; which I never quite understood. What difference did it make to become a queen, rook, or knight if you were still trapped in the same war?
 
-What I found most interesting in chess is stalemate. I hated sacrificing pieces. I hated exchanging pieces as if there were a mysterious formula to calculate their values. I hated cornering someone. I hated being cornered. I hated checkmates more than the others.
+What I found most interesting in chess is stalemate. I hated sacrificing pieces. I hated exchanging pieces as if there were a mysterious formula to calculate their values. I hated cornering someone. I hated being cornered. I hated checkmates more than the others. A stalemate is something as bold as Diogenes telling Alexander to stand out of the sun.
 
 My dad used to hate it when I decided to resign too early until I explained to him how I knew I was already lost. Sometimes he was surprised that even he didn't see he was winning himself. I could never quite tell if his surprise was genuine or carefully calculated. He said even though I had very little knowledge of chess opening strategies, my tactical insight surpassed his already because I could see through his moves even better than himself. He must have made a lot of effort to hide it when he was intentionally making a suboptimal move. We kind of invented a new rule; I would win if I could tell he intentionally made a suboptimal move so we could finish dishonest games where he wanted to balance the odds fast and prolong honest exhausting games. Of course it would only work if he wouldn't lie. I never saw my parents lied to me; not just me, they never lied to anyone. But I noticed my dad often pretended to be clueless. I was too young to understand it was a tactical necessity sometimes.
 
-Mom would never pretend. She was the most innocent soul I'd ever known—until I would later meet her who matched mom's pure spirit. Mom was a computer scientist. She introduced me to programming long before I could fully learn to write in a natural language. Together, we programmed a simplified version of chess—a 6x6 board with just 5 pawns and 2 knights on each side. Oh, how much my dad hated that game. It was where I could beat him without him having to make subtle bad moves. He could try his best and I'd still either win or draw. Even though he never admitted it, I knew he found that very frustrating.
+Mom would never pretend. She was the most innocent soul I'd ever known—until I would later meet her who matched mom's pure spirit. Mom was a computer scientist. She introduced me to programming long before I could fully learn to write in a natural language. Together, we programmed a simplified version of chess—a 6x6 board with just 5 pawns, and 2 knights on each side. Oh, how much my dad hated that game. It was where I could beat him without him having to make subtle bad moves. He could try his best and I'd either win or draw. I was only trying to stalemate. He simply failed to avoid mistakes. Even though he never admitted it, I knew he found that very frustrating.
 
 Mom and dad had always been a perfect match in every sense that mattered. They met each other at the University of Vienna. Dad came from a South American country called the Republic of Veridia. He settled here in Vienna with mom. Though he continued fighting for his people through academic discourse, I could sense him drowning in the guilt, thinking he had turned his back on his homeland. Mom had always been a great help to him, providing not only emotional support but also critical data analysis for his research and activism work. They were always remarkably open about their activism. Their colleagues looked alarmed and frightened every time they mentioned it. I always found it so funny how they lowered their voices suddenly, as if someone trying to spy on them wouldn't notice it.
 
@@ -224,7 +224,7 @@ I shook my head. Why would I hate him for that? Wasn't he the one who taught me 
 
 ---
 
-## Chapter V - the girl in pink [Science]
+## Chapter V - The Girl in Pink [Science]
 
 Mom followed her hero, Marie Curie, when I was 13. You would've thought scientists would no longer be in such a risk with the advancement of technology and safety mesurements. Nonetheless, she got ill from her exposure to radiation. Even though I suspected it might not have been as simple, I kept it to myself.
 

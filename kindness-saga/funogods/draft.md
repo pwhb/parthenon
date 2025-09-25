@@ -1,6 +1,6 @@
 # (let me kiss you) at the funeral of the gods [funogods]
 
-## chapter i (Science)
+## Chapter I - Stationary Action [Science]
 
 "Oh my sweet Science, did you just derive Hamilton's Principle," mom said, looking at the whiteboard.
 
@@ -24,7 +24,7 @@ She always asked Luna to babysit me. Luna was her graduate student. She was alwa
 
 "For the last time, my sweet Science, Luna is my graduate student. Not yours. Please don't help her with her homework," mom said laughingly. I nodded. I knew it was Luna when I heard the door knock. I ran to help her carry the bags to my mom's room where Luna would stay at. She brought two bags of textbooks.
 
-"Luna, I'll fail your entire assignment if my son solves it for you — and I'll enjoy doing it," mom warned her with a straight face. Luna smiled sheepishly.
+"Luna, I'll fail your entire assignment if my son solves it for you—and I'll enjoy doing it," mom warned her with a straight face. Luna smiled sheepishly.
 
 "It's ok, mom. These books are for me. I'd like to start studying other sciences for a change," I defended Luna. Luna gestured towards a bag with a subtle nod of her chin, and I unzipped it to reveal the contents to mom. 'The Origin of Species' and a collection of biology texts Luna had borrowed from the university library sat inside. Mom's hand found its way to my head, rubbing it with a mixture of affection and pride. She turned to Luna, expressing her gratitude with a warmth that transcended words.
 
@@ -44,25 +44,41 @@ I nodded. I grabbed Darwin's book in my arms and went to my bedroom to start rea
 
 ---
 
-## chapter ii (Art)
+## Chapter II - Wavelength of Justice [Art]
 
 I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat. The beauty of an engine lies in its mechanical nature while mine lies in organic nature that other organic creatures like my parents failed to grasp. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
 
-"Astrid, did you really see them hurting her?" the teacher asked. I was stunned by their question. How could they possibly doubt the victim? I've always been perceptive, but how blind did they have to be to suspect the victim might be lying? Couldn't they see the obvious scars?
+"Aria, did you really see them hurting her?" the teacher asked.
+
+I was stunned by their question. How could they possibly doubt the victim? I've always been perceptive, but how blind did they have to be to suspect the victim might be lying? Couldn't they see the obvious scars?
 
 "Please don't tell me I'm the only one who can see the scars," I responded.
 
-The girl looked at me apologetically. She had convinced the teachers it was just an accident. I didn't blame her. It made perfect sense to not expect justice from such teachers. It was clever of her to avoid making her bullies hate her more than they already did.
+The girl looked at me apologetically. She had convinced the teachers it was just an accident. I didn't blame her. It made perfect sense to not expect justice from such teachers. It was clever of her to avoid making her bullies hate her more than they already did. If only it would stop them from bullying her again.
 
-I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories.
+I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories. I wished it was the end of the story but it wasn't.
 
-"Astrid, I understand you must have your reasons for reporting to the teachers," said my mom's good friend, Mr. David Lysandra.
+"Aria, what's your favourite on the bookshelf?" Mr. David Lysandra asked.
 
-He was a professor from Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. But I could see he was a shrink and they asked for his diagnosis. They really thought I was making things up. I didn't know why but I agreed to talk to him. I had no intention of proving I was sane. I just saw a faint luminous thread connected to him that apparently nobody else could see.
+Mr. David was my mom's friend. He was a professor at Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. He was taking a look at my books, as if I didn't know what he was doing.
 
-"How long have you known the girl who was hurt?" Mr. David asked gently.
+"Let me guess. Is it Homer?" he said, with his eyes almost begging me for a validation. I nodded since I knew nothing better to do. He was right anyway. He tried to hide his smirk.
 
-I genuinely had no idea how to explain to them. I didn't know the girl or the bullies. They weren't even from my class. I saw her scars and I saw their cruel punchable faces.
+"Aria, your mom told me what happened at your school."
+
+Of course, she had to tell her friend what happened. Her crazy little daughter obsessed with mythical tales, making up the tale where she was a hero. What upset me was something else.
+
+"Mr. David, could you call me Art instead, please? I don't like to be called Aria." I interrupted him, trying to sound as polite as I could.
+
+"Of course. Art, I can see that you have a good taste in literature. I admire your personality. I said your mom told me what happened but I don't believe she knew everything."
+
+Of course, he had to try to get inside my head. Of course, he was a shrink. Of course, they asked him for his diagnosis. Of course, I knew something was up. I didn't know why but I agreed to talk to him. I had no intention of proving I was sane. I just saw a faint luminous thread connected to him that apparently nobody else could see.
+
+"I understand you must have your reasons for reporting to the teachers," he continued.
+
+"How long have you known the girl who was hurt?"
+
+I genuinely had no idea how to explain to him. I didn't know the girl or the bullies. They weren't even from my class. I saw her scars and I saw their cruel punchable faces.
 
 "I met her the first time yesterday," I replied honestly.
 
@@ -70,7 +86,7 @@ I genuinely had no idea how to explain to them. I didn't know the girl or the bu
 
 "Did she tell you how she got hurt?" he asked, almost sounding like he genuinely cared. I shook my head. She didn't need to speak; her scars told the entire story.
 
-"How did you feel when you saw her hurt?" he asked calmly. I hated his measured tone. I wasn't the one who had been bullied—she was. Why wasn't he treating her instead? Or better yet, why wasn't he treating the bullies?
+"How did you feel when you saw her hurt, Art?" he asked calmly. I hated his measured tone. I wasn't the one who had been bullied—she was. Why wasn't he treating her instead? Or better yet, why wasn't he treating the bullies?
 
 "Spicy," I answered. Stupid answer for stupid question.
 
@@ -100,9 +116,9 @@ His eyes brightened with curiosity.
 
 "I wouldn't care if they failed me. They failed her. They harassed a victim. They tried to spin a narrative that I was complicating their job."
 
-"Astrid, I understand how you feel. I know you still sense skepticism in my voice. It's because I'm trying to understand you objectively."
+"Art, I understand how you feel. I know you still sense skepticism in my voice. It's because I'm trying to understand you objectively."
 
-If I were to be honest, I finally found this shrink interesting. I realized where he was mistaken. He should have been trying to understand me subjectively. He should have forgotten child psychology. He should have forgotten his diagnostic tools.
+If I were to be honest, I finally found this shrink interesting. I realized where he was mistaken. He should have been trying to understand me subjectively. He should have forgotten child psychology. He should have forgotten his diagnostic tools. He should have unlearned everything he learned.
 
 "I believe you're a kind kid. You understand your emotions well. You have good intentions. But the justice system is a little more complicated."
 
@@ -128,31 +144,65 @@ I was certain he was impressed. He admitted to admiring my resilience. He went o
 
 ---
 
-## chapter iii (Love)
+## Chapter III - Sappho's Lyre [Love]
+
+War had always been intimately close to me even when I was in my mom's womb. Ashes, blood and tears, I knew sufferings before I knew who I was. I was born tired of all the sufferings in the world.
+
+"How could I know my life would be changed when I interviewed him?" mom said, with a hint of tears in her eyes.
+
+Mom was tending to her lyre. I put my head on the little remaining area of her lap like I always did.
+
+"He had strong hands and sharp eyes. His calm voice shook my heart. My life was dull and lifeless before he came in to it. He gave me a purpose. He gave me Love. He gave me you," she went on. I listened to her with all the care in my heart, even though I've heard the same story more times than I could count. Wasn't I the only thing that was left of him for her?
+
+"Galvarino, your dad," she said softly—her heart gazing into abyss, "he was the bravest man I've ever met. Came from the wild blood of Veridia. The same blood that flows in you. No wonder you're so full of courage, Love." She called me Love, the same thing that she called him. Her soft fingers ran through my hair. I sensed so much love flowing from her fingers.
+
+"I wished I were as brave as you and your dad," she confessed with a heavy heart.
+
+I was a daughter of two warriors. While my dad's weapon was a gun and my mom's a pen, my weapon of choice would be a needle. Didn't the world have too much suffering already? I never got a chance to see my dad. He was dead before I was born. Grew up as a fatherless child, all I ever longed for was a safe haven.
+
+I never wanted mom to continue my dad's fight and yet I understood her mission; it was the least she could do in his name. All her life, she had worked hard for the preservation of indigenous languages in the Crescent where the borders of three countries met; one of which was Veridia, where my dad was born and died. Her life was destined to be doomed from the beginning. Perhaps so was mine. I always knew she wouldn't change a thing in her life even if she knew how it would end. I wouldn't change a thing in my life either despite the endless melancholy that followed me everywhere. What a tragedy it was that my two hands would never be enough to heal the world. What a tragedy it was that my two hands would never be enough to heal my mom.
+
+I never told her I could hear the words she left unspoken. I wished I could find a way to ease her despair.
+
+"I'm scared, my Love. I told you I published a paper. But it wasn't just an academic paper. I'm scared, my baby Love. I had to do it. It was the least I could do for the brothers and sisters of your dad that I never met. For the blood of my Love. For the blood of the brave. For the blood of the forgotten. For the blood that still remained. For the blood that is still bleeding. I've put all my heart into my paper. My colleagues that reviewed it didn't have a clue. They helped me release a declaration of war. Of course, I know it wouldn't be enough. Those that took away Galvarino won't stop. I'm not strong enough. Why am I not strong enough? Lord, please spare some mercy for my innocent child if I can't be saved."
+
+She kept her despair locked inside, as if silence could prevent the inevitable, as if it could shield me from feeling the weight of her heart.
+
+I closed my eyes on her lap while she repeated the tales of my dad that she would never get tired of telling.
+
+"Are you asleep, my Love?" she asked softly. I shook my head without opening my eyes.
+
+"Your dad had a strong mind. Nothing terrified him, except for one. It was hilarious. His only weakness was a gay man. He didn't know he was gay. He thought I was in love with him. It was my friend David," she started laughing, almost innocently. Until everything went back to her.
+
+"Love, I need to tell you something important," she continued with a sense of urgency that I hated, "please try to remember this friend's name. His name is David Lysandra. I think he's in Atlas City. In case I was to be assigned to take a work trip suddenly..." she continued, trying her best to hide her shaking voice, "David will look after you. He was there for me when I gave birth to you. He's always been the best, after your dad."
+
+I nodded, without opening my eyes, trying to hide the tears. I knew what was coming. Not because I was a wise child. But because my mom was a wise woman. She knew what was coming. I knew everything she knew. All you needed to do was feel her heartbeat. Feeling everything who you love feel was the least I could do. If only I closed my eyes hard enough. If only I hugged her hard enough. If only I wished this moment of warmth could last for an eternity hard enough.
+
+She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could take, in memory of her.
 
 ---
 
-## chapter iv (Politics)
+## Chapter IV - Barrel Gambit [Politics]
 
 I never told my parents I hated chess. Because I loved spending time with them. Dad would spend entire days playing chess with me. It might have been an escape from his career for him. He was a political scientist. He often said chess was the only truly fair game he knew.
 
-The knights were my favorite pieces — ninjas of the chessboard. They could penetrate seemingly impregnable fortresses, often with an intention of not coming back alive. Their mission is sometimes as subtle as supporting a frontline piece from the shadows. If it were up to me, I'd have wanted four knights instead of two knights and two bishops. Of course, it would drain your mental stamina more rapidly to keep track of four knights instead of two.
+The knights were my favorite pieces—ninjas of the chessboard. They could penetrate seemingly impregnable fortresses, often with an intention of not coming back alive. Their mission is sometimes as subtle as supporting a frontline piece from the shadows. If it were up to me, I'd have wanted four knights instead of two knights and two bishops. Of course, it would drain your mental stamina more rapidly to keep track of four knights instead of two.
 
 I never got as good at chess as my dad. I couldn't win a game against him if he weren't intentionally making suboptimal moves; he tried to hide his best but I saw through his act. Did he really think he could fool his son who inherited his tactical intuition?
 
-I remember the tender look in mom's eyes when I questioned the pawn's fate — condemned to a war where they seemed most vulnerable. Dad took it as an opportunity to explain the concept of promotion; which I never quite understood. What difference did it make to become a queen, rook, or knight if you were still trapped in the same war?
+I remember the tender look in mom's eyes when I questioned the pawn's fate—condemned to a war where they seemed most vulnerable. Dad took it as an opportunity to explain the concept of promotion; which I never quite understood. What difference did it make to become a queen, rook, or knight if you were still trapped in the same war?
 
-What I found most interesting in chess is stalemate. I hated sacrificing pieces. I hated exchanging pieces as if there were a mysterious formula to calculate their values. I hated cornering someone. I hated being cornered. I hated checkmates more than the others.
+What I found most interesting in chess is stalemate. I hated sacrificing pieces. I hated exchanging pieces as if there were a mysterious formula to calculate their values. I hated cornering someone. I hated being cornered. I hated checkmates more than the others. A stalemate is something as bold as Diogenes telling Alexander to stand out of the sun.
 
 My dad used to hate it when I decided to resign too early until I explained to him how I knew I was already lost. Sometimes he was surprised that even he didn't see he was winning himself. I could never quite tell if his surprise was genuine or carefully calculated. He said even though I had very little knowledge of chess opening strategies, my tactical insight surpassed his already because I could see through his moves even better than himself. He must have made a lot of effort to hide it when he was intentionally making a suboptimal move. We kind of invented a new rule; I would win if I could tell he intentionally made a suboptimal move so we could finish dishonest games where he wanted to balance the odds fast and prolong honest exhausting games. Of course it would only work if he wouldn't lie. I never saw my parents lied to me; not just me, they never lied to anyone. But I noticed my dad often pretended to be clueless. I was too young to understand it was a tactical necessity sometimes.
 
-Mom would never pretend. She was the most innocent soul I'd ever known — until I would later meet her who matched mom's pure spirit. Mom was a computer scientist. She introduced me to programming long before I could fully learn to write in a natural language. Together, we programmed a simplified version of chess — a 6x6 board with just 5 pawns and 2 knights on each side. Oh, how much my dad hated that game. It was where I could beat him without him having to make subtle bad moves. He could try his best and I'd still either win or draw. Even though he never admitted it, I knew he found that very frustrating.
+Mom would never pretend. She was the most innocent soul I'd ever known—until I would later meet her who matched mom's pure spirit. Mom was a computer scientist. She introduced me to programming long before I could fully learn to write in a natural language. Together, we programmed a simplified version of chess—a 6x6 board with just 5 pawns, and 2 knights on each side. Oh, how much my dad hated that game. It was where I could beat him without him having to make subtle bad moves. He could try his best and I'd either win or draw. I was only trying to stalemate. He simply failed to avoid mistakes. Even though he never admitted it, I knew he found that very frustrating.
 
 Mom and dad had always been a perfect match in every sense that mattered. They met each other at the University of Vienna. Dad came from a South American country called the Republic of Veridia. He settled here in Vienna with mom. Though he continued fighting for his people through academic discourse, I could sense him drowning in the guilt, thinking he had turned his back on his homeland. Mom had always been a great help to him, providing not only emotional support but also critical data analysis for his research and activism work. They were always remarkably open about their activism. Their colleagues looked alarmed and frightened every time they mentioned it. I always found it so funny how they lowered their voices suddenly, as if someone trying to spy on them wouldn't notice it.
 
 "Why do your friends look so weird everytime you mention politics?" I asked dad once.
 
-"Polis," he said — my parents called me Polis for Politics in short — "it's because they fear being in danger. Many people lost their jobs when they spoke out. Some were even sentenced on political charges. Their fear isn't irrational. But I wouldn't call them my friends. What I'm doing isn't even politics in the traditional sense. I wouldn't even call what I'm doing politics.
+"Polis," he said—my parents called me Polis for Politics in short—"it's because they fear being in danger. Many people lost their jobs when they spoke out. Some were even sentenced on political charges. Their fear isn't irrational. But I wouldn't call them my friends. What I'm doing isn't even politics in the traditional sense. I wouldn't even call what I'm doing politics.
 
 "I've told you about my friend Galvarino, right? He was like a brother to me. We protested together, drank together, studied together. He returned to our homeland while I remained here, like a coward. He lost his life fighting for what he believed in Veridia.
 
@@ -160,7 +210,7 @@ Mom and dad had always been a perfect match in every sense that mattered. They m
 
 "How do you know the risk you're taking is safe enough?" I asked.
 
-"I don't. I'm not immune to fear. I know the danger better than my colleagues do. But I understand the danger of fear even more profoundly. Let me tell you about Galvarino. The original Galvarino — the warrior my friend was named after. He was a Mapuche warrior who fought against Spanish colonists in South America, during a time when Europeans were ruthlessly colonizing indigenous lands. They captured Galvarino and cut off his hands as a brutal punishment, then released him alongside other prisoners to spread terror. Fear, they believed, was the most effective tool of oppression.
+"I don't. I'm not immune to fear. I know the danger better than my colleagues do. But I understand the danger of fear even more profoundly. Let me tell you about Galvarino. The original Galvarino—the warrior my friend was named after. He was a Mapuche warrior who fought against Spanish colonists in South America, during a time when Europeans were ruthlessly colonizing indigenous lands. They captured Galvarino and cut off his hands as a brutal punishment, then released him alongside other prisoners to spread terror. Fear, they believed, was the most effective tool of oppression.
 
 "But Galvarino refused to become an agent of fear. Can you imagine what he did? He fastened knives to his mutilated wrists and continued fighting. Instead of being held back by fear, he inspired his comrades. He transformed his wounds into weapons of resistance."
 
@@ -168,6 +218,8 @@ Mom and dad had always been a perfect match in every sense that mattered. They m
 
 I saw my admiration for Galvarino reflected in dad's eyes. I knew he carried the same reverence for both the historical warrior and his namesake friend.
 
-"The battlegrounds might have changed," dad said, "but the spirit of resistance remains the same. Politics is like a more complicated game of chess, Polis. To let fear control you is to trap your pieces yourself. But overcoming fear doesn't guarantee an advantage either. You must maneuver with precision and purpose. We don't speak out merely to endanger ourselves — our activism is both a shield and a sword. A move that's both attacking and defensive. Our visibility as known activists offers a form of protection. We forge connections with allies and, equally important, we identify those who stand against justice. Chess is just a simplified metaphor for the complex strategies of life. Polis, I always knew you hated chess. I needed you to be prepared with that mode of thinking. Understanding the purpose behind the moves is a necessary step in the fight for justice. I wished you wouldn't hate me for asking you to endure chess."
+"The battlegrounds might have changed," dad said, "but the spirit of resistance remains the same. Politics is like a more complicated game of chess, Polis. To let fear control you is to trap your pieces yourself. But overcoming fear doesn't guarantee an advantage either. You must maneuver with precision and purpose. We don't speak out merely to endanger ourselves—our activism is both a shield and a sword. A move that's both attacking and defensive. Our visibility as known activists offers a form of protection. We forge connections with allies and, equally important, we identify those who stand against justice. Chess is just a simplified metaphor for the complex strategies of life. Polis, I always knew you hated chess. I needed you to be prepared with that mode of thinking. Understanding the purpose behind the moves is a necessary step in the fight for justice. I wished you wouldn't hate me for asking you to endure chess."
 
 I shook my head. Why would I hate him for that? Wasn't he the one who taught me to see the difference between the pieces, the hand moving the pieces and the meaning of the moves? Of course, I understood what he wanted me to see. Not that it made me hate chess any less, though.
+
+---
