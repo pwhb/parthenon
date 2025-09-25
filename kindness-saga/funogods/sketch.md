@@ -35,26 +35,54 @@ I'll use Miss Marple for the polymath's drink. why are suggesting so much throat
 
 ---
 
-
-
 ### The Fictional Nations of South America
 
 This setup creates a clear dynamic: a fragile, resource-rich region threatened by external powers and defended by a regional hegemon on the rise.
 
 #### 1. The Rare Earth Crescent (REC)
 
-This is not a single country but a  **geopolitical region** , akin to the "Guiana Shield" but with defined borders. It's a loose economic alliance of three small, developing nations, bound together by their shared mineral wealth and shared vulnerability.
+This is not a single country but a **geopolitical region** , akin to the "Guiana Shield" but with defined borders. It's a loose economic alliance of three small, developing nations, bound together by their shared mineral wealth and shared vulnerability.
 
-* **The Republic of Veridia:** Located on the coast. The most developed of the three, with a capital city that is a bustling, chaotic port. Home to the administrative headquarters of foreign mining corporations. Patient Zero is likely found in a remote mining outpost in Veridia's interior jungle.
-* **The Sovereign State of Patuá:** Landlocked and dominated by dense rainforest and massive, ancient tabletop mountains (tepuis). The most mineral-rich but least accessible country. Largely inhabited by indigenous communities. The heart of the "Crescent."
-* **The Free Territory of Esmeralda:** A small nation on the Atlantic, known for its river systems. Struggles with illegal logging and mining. Serves as a primary conduit for the virus to spread into the wider region.
+- **The Republic of Veridia:** Located on the coast. The most developed of the three, with a capital city that is a bustling, chaotic port. Home to the administrative headquarters of foreign mining corporations. Patient Zero is likely found in a remote mining outpost in Veridia's interior jungle.
+- **The Sovereign State of Patuá:** Landlocked and dominated by dense rainforest and massive, ancient tabletop mountains (tepuis). The most mineral-rich but least accessible country. Largely inhabited by indigenous communities. The heart of the "Crescent."
+- **The Free Territory of Esmeralda:** A small nation on the Atlantic, known for its river systems. Struggles with illegal logging and mining. Serves as a primary conduit for the virus to spread into the wider region.
 
 **Their Collective Challenge:** They possess over 60% of the world's known deposits of **Tantalum-X** (a fictional quantum-critical mineral), but lack the capital and technology to extract it themselves, making them dependent on and vulnerable to foreign multinationals.
 
 ---
 
+**Veridian Liberation Army (VLA)** is the rebel group Galvarino
 
+In my novel is a region called **The Rare Earth Crescent (REC)**. It's an area near the equator line in South America, composed of three countries;
 
-* **Servizio Informazioni Nazionale (SIN)** - National Intelligence Service
-* **Agência de Inteligência de Santandería **
-*
+- **The Republic of Veridia**
+- **The Sovereign State of Patuá**
+- **The Free Territory of Esmeralda**
+
+REC lies in the border of three countries and it's rich in rare earth minerals that can be found only there of all places in the world. With the rapid advancement of technology, these minerals were eyed by the most powerful countries in the world. **The Democratic Federation of Santandería** is a large developed country in South America. While Veridia is under the influence of US, Patuá is under the influence of Santandería.
+
+The core plot device of the novel is the parents of the protagonists worked for the independence of REC. Two of them were from Veridia; one of them was in Veridian Liberation Army (VLA), the rebel group, fighting against the puppeteer Veridian government under the control of US. The lover of the Veridian freedom fighter is a linguist who will work for the preservation of REC, in the lens of indigenous languages threatened by cultural suppression, systematic marginalization and the genocide of endangered ethnic groups. She will be assasinated by those that want to control REC.
+
+| Group      | Role   | Name                      | Race                      | Occupation          |
+| ---------- | ------ | ------------------------- | ------------------------- | ------------------- |
+| Copenhagen | Father | Unknown                   | Unknown                   | Unknown             |
+|            | Mother | Alma Kristensen           | Germanic/Scandinavian     | Nuclear Physicist   |
+|            | Child  | Soren Socrates            | Germanic/Scandinavian     | Polymath            |
+|            |        |                           |                           |                     |
+| Athens     | Father | Dimitris Selas            | Mediterranean             | Virologist          |
+|            | Mother | Elena Selas               | Mediterranean             | Virologist          |
+|            | Child  | Aria Selas (Aria Antonia) | Mediterranean             | Alchemist           |
+|            |        |                           |                           |                     |
+| Vienna     | Father | Rafael                    | South American/Indigenous | Political Scientist |
+|            | Mother | Sophie Weber              | Germanic/Scandinavian     | Computer Scientist  |
+|            | Child  | Pallas Palamedes          | Mixed                     | Strategist          |
+|            |        |                           |                           |                     |
+| Bogotá     | Father | Galvarino                 | South American/Indigenous | Political Scientist |
+|            | Mother | Liliana García            | Latin American/Andean     | Linguist            |
+|            | Child  | Leila Lysandra            | Mixed                     | Healer              |
+
+---
+
+- **Servizio Informazioni Nazionale (SIN)** - National Intelligence Service
+- **Agência de Inteligência de Santandería **
+-
