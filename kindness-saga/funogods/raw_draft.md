@@ -6,7 +6,7 @@
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
-I felt relieved. I got somewhere finally without getting entangled in specificalities. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; Mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
+I felt relieved. I got somewhere finally without getting entangled in specificalities. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
 
 "Will you have your dinner now, my baby Science? I made your favourite dish." I could never fully express how much I loved mom. She knew I wouldn't have dinner without getting somewhere. I almost forgot how hungry I was.
 
@@ -146,7 +146,7 @@ I was certain he was impressed. He admitted to admiring my resilience. He went o
 
 ## Chapter III - Sappho's Lyre [Love]
 
-War had always been intimately close to me even when I was in my mom's womb. Ashes, blood and tears, I knew sufferings before I knew who I was. I was born tired of all the sufferings in the world.
+War had always been intimately close to me even when I was in my mom's womb. Ashes, blood and tears, I knew sufferings before I knew my name. I was born tired of all the sufferings in the world.
 
 "How could I know my life would be changed when I interviewed him?" mom said, with a hint of tears in her eyes.
 
@@ -176,9 +176,9 @@ I closed my eyes on her lap while she repeated the tales of my dad that she woul
 
 "Love, I need to tell you something important," she continued with a sense of urgency that I hated, "please try to remember this friend's name. His name is David Lysandra. I think he's in Atlas City. In case I was to be assigned to take a work trip suddenly..." she continued, trying her best to hide her shaking voice, "David will look after you. He was there for me when I gave birth to you. He's always been the best, after your dad."
 
-I nodded, without opening my eyes, trying to hide the tears. I knew what was coming. Not because I was a wise child. But because my mom was a wise woman. She knew what was coming. I knew everything she knew. All you needed to do was feel her heartbeat. Feeling everything who you love feel was the least I could do. If only I closed my eyes hard enough. If only I hugged her hard enough. If only I wished this moment of warmth could last for an eternity hard enough.
+I nodded, without opening my eyes, trying to hide the tears. I knew what was coming. Not because I was a wise child. But because my mom was a wise woman. She knew what was coming. I knew everything she knew. All you needed to do was feel her heartbeat. Feeling everything who you love feel was the least I could do. If only I closed my eyes hard enough. If only I hugged her hard enough. If only I wished hard enough this moment of warmth could last for an eternity.
 
-She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could take, in memory of her.
+She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood, in Bogotá. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could take, in memory of her.
 
 ---
 
@@ -212,7 +212,7 @@ Mom and dad had always been a perfect match in every sense that mattered. They m
 
 "I don't. I'm not immune to fear. I know the danger better than my colleagues do. But I understand the danger of fear even more profoundly. Let me tell you about Galvarino. The original Galvarino—the warrior my friend was named after. He was a Mapuche warrior who fought against Spanish colonists in South America, during a time when Europeans were ruthlessly colonizing indigenous lands. They captured Galvarino and cut off his hands as a brutal punishment, then released him alongside other prisoners to spread terror. Fear, they believed, was the most effective tool of oppression.
 
-"But Galvarino refused to become an agent of fear. Can you imagine what he did? He fastened knives to his mutilated wrists and continued fighting. Instead of being held back by fear, he inspired his comrades. He transformed his wounds into weapons of resistance."
+"But Galvarino refused to become an agent of fear. Can you imagine what he did? He fastened knives to his mutilated wrists and continued fighting. Instead of being held back by fear, he inspired his comrades. He transformed his wounds into weapons of resistance.
 
 "Unfortunately," dad continued, his voice heavy with a pain that seemed incurable, "he was eventually caught and executed."
 
@@ -224,18 +224,32 @@ I shook my head. Why would I hate him for that? Wasn't he the one who taught me 
 
 ---
 
-## Chapter V - The Girl in Pink [Science]
+## Chapter V - New Steps [Science]
 
-Mom followed her hero, Marie Curie, when I was 13. You would've thought scientists would no longer be in such a risk with the advancement of technology and safety mesurements. Nonetheless, she got ill from her exposure to radiation. Even though I suspected it might not have been as simple, I kept it to myself.
+Mom followed her hero, Marie Curie, when I was 13. You would've thought scientists would no longer be in such a risk with the advancement of technology and safety mesurements. Nonetheless, she got ill from her exposure to radiation. Even though I suspected it might not have been as simple, I kept it to myself. Mom kept it to herself. Luna kept it to herself.
 
-Luna promised mom, on her dying bed, she would take care of me. Luna's family took me in as her foster brother. They gave me her brother's old room. It was a cozy place in the attic. It took me months to get used to the new place; everytime I woke up I wished I was still in my old bedroom.
+Luna promised mom, on her dying bed, she would take care of me.
+
+Luna's family took me in as her foster brother, into their farmhouse on the outskirts of Copenhagen. They gave me her brother's old room in the attic—a cozy, trapezium-shaped space under the slant of the red brick roof. The wooden floorboards creaked a familiar path from the bed to the small window, which looked out over a yellowish-green field that seemed to stretch forever. For months, I’d wake up each morning disoriented, my hand reaching for a light switch that wasn't on the right wall and my heart aching for the familiar crack in the ceiling of my old bedroom. Euclid's Elements was the only relic I brought from the past.
 
 They found it weird that my name was Science. They preferred to call me Alma's child. Apart from Luna, I could barely talk to anyone. Luna continued to homeschool me just like my mom did. We still didn't know who was teaching whom though. The more I spent my time burying my face in books, the less I knew how to communicate with other people.
 
-I would always be grateful to Luna for bringing me hundreds of books from the library. At least I didn't need to send her an email anymore. Not knowing how to cope with the loss of my mom, I punished myself by studying the fields I would never wanted to before, such as Computer Science, Data Science, and Forensic Science. I wasn't even trying to find an evidence that mom's death was orchestrated. In fact, I was very afraid to find out the truth. It was a puzzle I never wanted to solve. If mom had been in danger, was Luna also in danger? How could I protect her if I couldn't even talk to a stranger? I often locked myself in the room, pretending I was a plant; hoping in case of a further tragedy, nothing would hold me accountable.
+I would always be grateful to Luna for bringing me hundreds of books from the library. At least I didn't need to send her an email anymore. Not knowing how to cope with the loss of my mom, I punished myself by studying the fields I would never wanted to before, such as Computer Science, Data Science, and Forensic Science. I wasn't even trying to find an evidence that mom's death was orchestrated. In fact, I was very afraid to find out the answer. It was a puzzle I never wanted to solve. If mom had been in danger, was Luna also in danger? How could I protect her if I couldn't even talk to a stranger? I often locked myself in the room, pretending I was a plant; hoping in case of a further tragedy, nothing would hold me accountable. The deeper I dived into unfamiliar subjects, the more I could forget my life.
 
-Luna often offered to take me when she went out with her friends but I always declined after the first time. Her friends were really nice and friendly and didn't even bother me. I just felt uncomfortable with new people. I still felt uncomfortable with Luna's parents whom I shared the home with. While they treated me as their own child, all I did was eat, sleep, read books and ignore them. I never stopped feeling guilty for not knowing how to talk to them.
+Luna often offered to take me when she went out with her friends for a change of scenery. I always declined except for the first time. Her friends were really nice and friendly and didn't even bother me. I just felt uncomfortable with new people. I still felt uncomfortable with Luna's parents whom I shared the home with. While they treated me as their own child, all I did was eat, sleep, read books and ignore them. I never stopped feeling guilty for not knowing how to talk to them.
 
-Luna helped me contact with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one.
+Luna helped me contact with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one. One day, I realized it might have been a mistake to contact the professors in the first place. As much as I hated it, I had to keep myself detached from the name Alma Kristensen; the nuclear physicist that gave me life. I had to keep myself detached from Luna. I realized how fortunate it was that I hid in the shadows for years.
 
-One day, I realized it might have been a mistake to contact the professors. I took
+Luna came to my room to give me some books as usual. It had been 7 years since I got here. She'd already started working as an assistant professor at mom's department. She had to know this conversation was coming.
+
+"Luna, I know you still think of me as an innocent brother. I appreciate everything you did for me. I'm 20 now. I think I should go to a university and explore the world myself."
+
+It wasn't hard to convince her. She agreed. She wondered if I would like to join the academic path she took. I shook my head. I wanted to walk my own path that was different from mom's and Luna's. Luna tried to convince me she could pull some strings and got me enrolled to her class. I refused. For her own safety, Alma Kristensen's son shouldn't have anything to do with Luna. I explained to her that I didn't want a trail of paperwork to trace where I went. It was wise that I lived in the attic like someone that never existed. I needed to remained as a ghost.
+
+"Can I use mom's retirement funds?"
+
+"Of course, it's yours. I don't think you need to worry about financial things. I'm worried that you find it difficult to talk to people. I could do the talking for you, here, at my department."
+
+"Luna, trust me. I'll be ok. The less I talk, the easier I can be a ghost. It's meant to be my protection."
+
+I didn't know how to explain what I truly feared without sounding like a paranoid lunatic. I thanked God for Luna understanding me. Didn't she take me into her family because she could imagine the danger? Even though I could see her worries, she accepted my new journey. She came up with reasonable explanations to give her parents. They wished the best for me. I spent my last days enjoying their warmth. I didn't know how sad it would be to leave my second home.
