@@ -6,7 +6,7 @@
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
-I felt relieved. I got somewhere finally without getting entangled in specificalities. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; Mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
+I felt relieved. I got somewhere finally without getting entangled in specific details. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
 
 "Will you have your dinner now, my baby Science? I made your favourite dish." I could never fully express how much I loved mom. She knew I wouldn't have dinner without getting somewhere. I almost forgot how hungry I was.
 
@@ -26,7 +26,7 @@ She always asked Luna to babysit me. Luna was her graduate student. She was alwa
 
 "Luna, I'll fail your entire assignment if my son solves it for you—and I'll enjoy doing it," mom warned her with a straight face. Luna smiled sheepishly.
 
-"It's ok, mom. These books are for me. I'd like to start studying other sciences for a change," I defended Luna. Luna gestured towards a bag with a subtle nod of her chin, and I unzipped it to reveal the contents to mom. 'The Origin of Species' and a collection of biology texts Luna had borrowed from the university library sat inside. Mom's hand found its way to my head, rubbing it with a mixture of affection and pride. She turned to Luna, expressing her gratitude with a warmth that transcended words.
+"It's okay, mom. These books are for me. I'd like to start studying other sciences for a change," I defended Luna. Luna gestured towards a bag with a subtle nod of her chin, and I unzipped it to reveal the contents to mom. 'The Origin of Species' and a collection of biology texts Luna had borrowed from the university library sat inside. Mom's hand found its way to my head, rubbing it with a mixture of affection and pride. She turned to Luna, expressing her gratitude with a warmth that transcended words.
 
 When her colleagues' car pulled up outside, she bid us both farewell. Luna and I walked her to the car, helping her load her luggage for the trip.
 
@@ -146,7 +146,7 @@ I was certain he was impressed. He admitted to admiring my resilience. He went o
 
 ## Chapter III - Sappho's Lyre [Love]
 
-War had always been intimately close to me even when I was in my mom's womb. Ashes, blood and tears, I knew sufferings before I knew who I was. I was born tired of all the sufferings in the world.
+War had always been intimately close to me even when I was in my mom's womb. Ashes, blood and tears, I knew sufferings before I knew my name. I was born tired of all the sufferings in the world.
 
 "How could I know my life would be changed when I interviewed him?" mom said, with a hint of tears in her eyes.
 
@@ -176,9 +176,9 @@ I closed my eyes on her lap while she repeated the tales of my dad that she woul
 
 "Love, I need to tell you something important," she continued with a sense of urgency that I hated, "please try to remember this friend's name. His name is David Lysandra. I think he's in Atlas City. In case I was to be assigned to take a work trip suddenly..." she continued, trying her best to hide her shaking voice, "David will look after you. He was there for me when I gave birth to you. He's always been the best, after your dad."
 
-I nodded, without opening my eyes, trying to hide the tears. I knew what was coming. Not because I was a wise child. But because my mom was a wise woman. She knew what was coming. I knew everything she knew. All you needed to do was feel her heartbeat. Feeling everything who you love feel was the least I could do. If only I closed my eyes hard enough. If only I hugged her hard enough. If only I wished this moment of warmth could last for an eternity hard enough.
+I nodded, without opening my eyes, trying to hide the tears. I knew what was coming. Not because I was a wise child. But because my mom was a wise woman. She knew what was coming. I knew everything she knew. All you needed to do was feel her heartbeat. Feeling everything who you love feel was the least I could do. If only I closed my eyes hard enough. If only I hugged her hard enough. If only I wished hard enough this moment of warmth could last for an eternity.
 
-She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could take, in memory of her.
+She faced Death the exact same way the love of her life did. It was said that it was an accident. A stray bullet from a gang war in the neighborhood, in Bogotá. I wished I didn't know better. Why did she arrange everything to move me to Atlas City after her funeral if it was just an accident? Why did she have to live in fear without sharing it with me? Her lyre was the only thing I could take, in memory of her.
 
 ---
 
@@ -212,7 +212,7 @@ Mom and dad had always been a perfect match in every sense that mattered. They m
 
 "I don't. I'm not immune to fear. I know the danger better than my colleagues do. But I understand the danger of fear even more profoundly. Let me tell you about Galvarino. The original Galvarino—the warrior my friend was named after. He was a Mapuche warrior who fought against Spanish colonists in South America, during a time when Europeans were ruthlessly colonizing indigenous lands. They captured Galvarino and cut off his hands as a brutal punishment, then released him alongside other prisoners to spread terror. Fear, they believed, was the most effective tool of oppression.
 
-"But Galvarino refused to become an agent of fear. Can you imagine what he did? He fastened knives to his mutilated wrists and continued fighting. Instead of being held back by fear, he inspired his comrades. He transformed his wounds into weapons of resistance."
+"But Galvarino refused to become an agent of fear. Can you imagine what he did? He fastened knives to his mutilated wrists and continued fighting. Instead of being held back by fear, he inspired his comrades. He transformed his wounds into weapons of resistance.
 
 "Unfortunately," dad continued, his voice heavy with a pain that seemed incurable, "he was eventually caught and executed."
 
@@ -221,5 +221,41 @@ I saw my admiration for Galvarino reflected in dad's eyes. I knew he carried the
 "The battlegrounds might have changed," dad said, "but the spirit of resistance remains the same. Politics is like a more complicated game of chess, Polis. To let fear control you is to trap your pieces yourself. But overcoming fear doesn't guarantee an advantage either. You must maneuver with precision and purpose. We don't speak out merely to endanger ourselves—our activism is both a shield and a sword. A move that's both attacking and defensive. Our visibility as known activists offers a form of protection. We forge connections with allies and, equally important, we identify those who stand against justice. Chess is just a simplified metaphor for the complex strategies of life. Polis, I always knew you hated chess. I needed you to be prepared with that mode of thinking. Understanding the purpose behind the moves is a necessary step in the fight for justice. I wished you wouldn't hate me for asking you to endure chess."
 
 I shook my head. Why would I hate him for that? Wasn't he the one who taught me to see the difference between the pieces, the hand moving the pieces and the meaning of the moves? Of course, I understood what he wanted me to see. Not that it made me hate chess any less, though.
+
+---
+
+## Chapter V - New Journey [Science]
+
+Mom followed her hero, Marie Curie, in more ways than one. I was 12 when she was first diagnosed with radiation sickness. It got worse and worse since then. You would've thought scientists would no longer be in such a risk with the advancement of technology and safety measurements. Despite knowing something lurked beneath the surface, the silence between us—mom, Luna, and I—was heavy. What if my worst fears wouldn't come true if I pretended it wasn't real?
+
+Luna promised mom, on her dying bed, she would take care of me.
+
+Luna's family took me in as her foster brother, into their farmhouse on the outskirts of Copenhagen. They gave me her brother's old room in the attic—a cozy, trapezium-shaped space under the slant of the red brick roof. The wooden floorboards creaked a familiar path from the bed to the small window, which looked out over a yellowish-green field that seemed to stretch forever. For months, I’d wake up each morning disoriented, my hand reaching for a light switch that wasn't on the right wall and my heart aching for the familiar crack in the ceiling of my old bedroom. Euclid's Elements was the only relic from the past that I brought to my new home.
+
+Luna's family found it weird that my name was Science—a constant reminder of an identity that no longer felt like myself. They preferred to call me Alma's child. Apart from Luna, I could barely talk to anyone. Luna continued to homeschool me just like my mom did, though we still didn't know who was teaching whom. The more I buried my face in books, the more foreign the world of human interaction.
+
+I would always be grateful to Luna for bringing me hundreds of books from the library. At least I didn't need to send her an email anymore. Not knowing how to cope with the loss of my mom, I punished myself by studying fields I would never have considered before. Computer Science, Data Science, Forensic Science—each discipline became a shield, a way to keep me at a distance from my grief. I wasn't trying to find evidence of my mom's death being orchestrated. In truth, I was terrified of what such evidence might reveal. It was a puzzle I never wanted to solve. If mom had been in danger, was Luna also in danger? How could I protect her if I couldn't even talk to a stranger? I often locked myself in the room, pretending I was a plant; hoping in case of a further tragedy, nothing would hold me accountable. The deeper I dived into unfamiliar subjects, the more I could forget my life.
+
+Luna often offered to take me when she went out with her friends for a change of scenery. I always declined except for the first time. Her friends were really kind, their friendliness creating no pressure, demanding no expectation. Still, I felt perpetually uncomfortable around new people. Luna's parents, despite treating me as their own child, remained strangers to me. I would eat, sleep, read, and retreat—a parasitic ghost inhabiting their home. The guilt of my silence never left me, a constant reminder of my inability to connect.
+
+Luna helped me connect with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one. One day, I realized contacting professors might have been a mistake. As much as it pained me, I had to detach myself from Alma Kristensen's legacy—the nuclear physicist who gave me life. I needed to protect Luna. Invisibility became my shield, the shadows my sanctuary.
+
+Luna came to my room to give me some books, a routine we'd maintained for years. Seven years had passed since I first arrived at their farmhouse. She was now an assistant professor at my mother's former department. Before I opened my mouth, I sensed she knew this conversation was long coming.
+
+"Luna," I said softly, "I know you still see me as your innocent little brother. I'm grateful for everything you've done for me. But I'm 20 now. I think it's time I explore the world on my own."
+
+After a moment's hesitation, she agreed.
+
+"Can I use mom's retirement funds?" I asked reluctantly.
+
+Luna nodded without hesitation. "Of course, it's yours. I'm not worried about the money," she said, her concern evident. "I'm worried about something else. You know... it's hard to talk to people. I could help you, speak for you at my department."
+
+Luna hoped I would follow her academic path, but I was determined to forge my own. When she offered to pull strings and enroll me in her class, I refused firmly. My reasons ran deeper than a simple desire to try something new—I needed to protect her. Alma Kristensen's legacy was a potential danger, and the less connection Luna had to me, the safer she would be. I explained my need for anonymity, to leave no traceable paperwork. The attic had been my sanctuary, and now the indifferent world would become my refuge.
+
+"Trust me, Luna" I pleaded softly. "You've taught me everything I need to know. I'll be okay. The less I talk, the easier I can remain a ghost. It's meant to be my protection."
+
+I couldn't be more explicit than this. The words for my deepest fears remained trapped behind my lips—to voice them would only sound like madness. We just looked at each other in silence. I thanked God Luna understood without words. She'd seen the same shadows I had, felt the same hidden danger that ran beneath the surface of my mother's illness. Wasn't our silence itself a form of mutual protection?
+
+Despite her irrepressible worries, she eventually accepted my new journey. She crafted reasonable explanations for her parents, who wished me the best. I spent my final days basking in their warmth, unaware of how deeply I would miss this second home.
 
 ---
