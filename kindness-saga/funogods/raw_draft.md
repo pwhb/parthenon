@@ -224,7 +224,7 @@ I shook my head. Why would I hate him for that? Wasn't he the one who taught me 
 
 ---
 
-## Chapter V - New Journey [Science] (raw)
+## Chapter V - New Journey [Science] (smooth)
 
 Mom followed her hero, Marie Curie, in more ways than one. I was 12 when she was first diagnosed with radiation sickness. It got worse and worse since then. You would've thought scientists would no longer be in such a risk with the advancement of technology and safety measurements. Despite knowing something lurked beneath the surface, the silence between us—mom, Luna, and I—was heavy. What if my worst fears wouldn't come true if I pretended it wasn't real?
 
@@ -259,3 +259,97 @@ I couldn't be more explicit than this. The words for my deepest fears remained t
 Despite her irrepressible worries, she eventually accepted my new journey. She crafted reasonable explanations for her parents, who wished me the best. I spent my final days basking in their warmth, unaware of how deeply I would miss this second home.
 
 ---
+
+## Chapter VI - Renegades [Art] (raw)
+
+Ever since Mr. David diagnosed me, it was almost like my parents had a justifiable excuse to treat me like I was mad. Not that I wanted to accuse them of irrational prejudice. They worked as pathologists, after all. Identifying labels and acting accordingly was a part of their job. I knew it would happened. That's why I hated it when Mr. David talked to me. He might not necessarily be an awful therapist. But he gave my parents what they wanted; an excuse to mistreat me.
+
+I always wanted to run away from my home. I couldn't tolerate my dad's lame jokes. I couldn't tolerate how they acted like they were educated parents that knew how to parent a troubled child. Guys, you had a kind child that only meant to be good and you had to make it so weird. I found my escape when there was a magic tour in my neighborhood.
+
+"She's already living in a magical realm. Are you sure it's okay to take her to a magic show?" dad complained to mom, in a cowardly quiet tone, that he thought I couldn't hear. Mom explained it was just a show and I wasn't even that pathologically ill. Dad just never failed to insult me without a fair reason. I pretended to not hear them. When mom got dad's permission to take me to the magic show, I refused to go; I had another magic trick up my sleeve that they didn't expect. I told her I prefered reading in my bed. I did it to make dad feel bad but I didn't know I'd be the one to ultimately feel bad about it the rest of my life. On the last day of the magic show, I packed Homer's books and a couple of sets of clothes, and got out of the house through the window before dawn. I looked back to my room for the last time and then ran to the camps of the magic tour.
+
+I went to the market the other day as a part of my running errands. I noticed the shopkeeper at the flower shop was an old woman I never met before. She seemed really warm and sweet. I went on shopping the groceries and met him in the street with the other crew members. He was around my age. He looked different from everyone else. And the same luminous thread that was connected to Mr. David was connected to him.
+
+"Hey, are you with the crew?" I asked him because I couldn't help.
+
+He looked at me from head to toes. He nodded.
+
+"I'm Art. What's your name?" I introduced myself.
+
+"My name is Polis." he replied in English with a shy Germanic accent. Of course, the crew had foreigners.
+
+"How long has you been with the crew?" I asked in English.
+
+"Just a couple of months. Excuse me, why are you asking?"
+
+"If I want to join your crew, what do I need to do?"
+
+"You don't look like an orphan."
+
+He should've known I hated being judged.
+
+"What does it have anything to do with it?"
+
+"Well, you would need to have a talent that Kaspar find impressive. I believe you must have one. But it's a little complicated if you're not an orphan. This isn't a part-time job. You would have to train with us and join our tour."
+
+"That's exactly what I want to be a part of."
+
+"Will your parents be okay with it?"
+
+"It's my decision."
+
+"Art, it's not that simple. I'm an orphan myself. The crew visited my orphanage once. I impressed Kaspar with my chess skill. I still had to ask for the permission from the sister Cecelia. She was my guardian at the church."
+
+"Can you please arrange me a meeting with Kaspar?"
+
+"I think Kaspar is free right now."
+
+"Good," I said. I remembered something suddenly, "wait, can Kaspar understand Greek?"
+
+The boy shook his head.
+
+"But he can understand English, right?"
+
+He nodded. He arranged some sort of audition with Kaspar. He looked like a funny lean man with a mustache. I explained to him I was good at reading poems and singing songs. I sang my favorite Greek songs. He found my singing good enough to be in his crew.
+
+"What is your name, little girl?" Kaspar asked in English with a rough Germanic accent.
+
+"Acanthia. Acanthia Andriades," I gave myself a new name. That boy looked confused; you said your name was Art. I didn't think this through completely when I told him his name. I would have to explain it afterward.
+
+"So, who do you live with?"
+
+"I live with my elder."
+
+"Will they be okay with you joining the crew? It might take a year or more."
+
+"Yia-yia would love me to gain new experiences. I think she might have explored the world with a crew when she was young too."
+
+"Can I meet your Yia-yia?"
+
+"Sure, I'll ask her to meet you. Can you wait for 10 minutes?"
+
+He nodded. And then I went back to the flower shop.
+
+"Hello, Yia-yia. My name is Acanthia. Have you seen the magician crew in town? I just came from them. I'm an Athenian and this is my hometown. I was talking to the foreigner in the crew about Acanthus that my own name originated from, keep the buildings safe from evil spirits but he was skeptical about it. Yia-yia, you look like a wise lady that he would listen to. Can you help me explain them about Acanthus flower?"
+
+"Oh, little child, I couldn't speak a word in the foreigner's language."
+
+"It's okay, Yia-yia. I can translate it. I'm just not as good as explaining in detail myself."
+
+The old lady agreed to help me. She asked for her neighbor shopkeeper to keep a watch on her stall and followed me.
+
+"Yia-yia, you look like you know everything about flowers. How long have you been selling flowers here?" I tried to make a conversation with her walking.
+
+"Oh, my little grandchild, I restarted selling at the market just today. I left my hometown to live with my son. But he passed away last week. My daughter-in-law is a great lady but it was too sad for an old woman to be constantly reminded of her son's absence. So I came back to my hometown. I restarted what I did before he found his wife."
+
+I comforted her on the walk as much as I could. I felt bad I was taking advantage of a clueless old woman. I learned that her son left two daughters.
+
+When we reached the tents, I introduced her to Kaspar and he asked how I was related to her. I told him she had two granddaughters and I was the younger one.
+
+"Were the flower engraving in the columns of the building Acanthus?" I asked her. She nodded again and again passionately. She went on to explain the tales of Acanthus. Kaspar nodded politely as he had no idea what the old woman was saying. The little boy had some clue that I was tricking them but he kept it to himself. Kaspar was convinced in the end that my old grandma wanted me to join his crew. He went on to discuss my salary. I asked the old grandma how much flowers she sold today. All I had to do was to ask her about something related to flowers and she would speak with her heart.
+
+Kaspar requested a signed approval from the old grandma and some documents about my ID. I thanked her for her help because he was convinced now. I saw radiating happiness in her eyes. I told her I got some paperwork now so I would take her back to her shop. I bought a lot of Acanthus flowers from her instead of the groceries my mom wanted. She thanked me a lot. I told her to thank the foreigner instead.
+
+When I got home, I signed the approval letter myself in the handwriting of an old person. Then I edited my own national ID card. Since these foreigners weren't used to seeing a Greek ID every day, it didn't have to be perfect. I went back to Kaspar with these documents. I even took him to the old grandma's flower shop once to show him around my hometown. She was so genuinely happy to thank the foreigner that I felt bad tricking her.
+
+Anyway it was how I tricked the magician crew to take me in. Since it was a crew made up of European people touring around European countries, there was no difficulty with crossing borders. Of course, Greek law enforcement was looking for the missing child of Elena Selas and Dimitris Selas, named Aria Selas. How could they possibly know Aria Selas was transformed into Acanthia Andriades?
