@@ -36,3 +36,7 @@ It's ok if you think what I wrote is ok so far. Please try to act like a casual 
 What I shared below is the first two chapters I'm satisfied with for now. It's only as a reference for what I'm aiming for in the next chapters.
 
 ---
+
+my goal is to introduce four protagonists in four chapters. I understand since they all share the same spirit of understanding the world deeply and a similar fate, there's a risk of kind of getting repeatitive or duplicate. did I do I good job of introducing four unique characters? then in the next three chapters, I give the backstory for the four except for Love whose story was already self-contained in the introduction. I know, again, there's a risk of the backstories being similar to each other or even unbalanced. but is the narrative I chose so far convincing and organic?
+
+---

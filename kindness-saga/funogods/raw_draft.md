@@ -404,7 +404,7 @@ The old lady agreed to help me. She asked her neighbor shopkeeper to keep watch 
 
 I comforted her as much as I could. A part of me felt bad for taking advantage of her kindness, but another part knew this was my only way out. I learned that her son had left two daughters.
 
-When we reached the tents, I introduced her to Kaspar. He asked how we were related, and I told him she had two granddaughters and I wasn't the elder one obviously.
+When we reached the tents, I introduced her to Kaspar. He asked how we were related, and I told him she had two granddaughters and I wasn't the elder one as if I didn't know how to say younger in English. Yia-yia did the rest.
 
 "Were the flower engravings in the columns of the building Acanthus?" I asked her. She nodded passionately, launching into tales about the flower. Kaspar nodded politely, understanding nothing. Polis gave me a knowing look but kept silent. Kaspar was convinced that my grandmother wanted me to join the crew. He began discussing my potential salary.
 
