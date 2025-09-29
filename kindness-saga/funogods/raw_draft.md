@@ -102,7 +102,7 @@ He seemed determined to get under my skin. Yes, I could hear colors and see song
 
 Again, he was circling back to the start. I hated being interrogated. I hated being diagnosed. If I weren't intrigued by his luminous thread, I wouldn't even be tolerating this talk.
 
-"It was my mistake. I saw no sense of justice in the teachers' eyes. But I reported what I saw anyway, in case I was mistaken. Unfortunately, I wasn't," I explained respectfully.
+"It was my mistake. I saw no trace of justice in the teachers' eyes. But I reported what I saw anyway, in case I was mistaken. Unfortunately, I wasn't," I explained respectfully.
 
 His eyes brightened with curiosity.
 
@@ -154,7 +154,7 @@ Mom was tending to her lyre. I put my head on the little remaining area of her l
 
 "He had strong hands and sharp eyes. His calm voice shook my heart. My life was dull and lifeless before he came in to it. He gave me a purpose. He gave me Love. He gave me you," she went on. I listened to her with all the care in my heart, even though I've heard the same story more times than I could count. Wasn't I the only thing that was left of him for her?
 
-"Galvarino, your dad," she said softly—her heart gazing into the abyss, "he was the bravest man I've ever met. Came from the wild blood of Veridia. The same blood that flows in you. No wonder you're so full of courage, Love." She called me Love, the same thing that she called him. Her soft fingers ran through my hair. I sensed so much love flowing from her fingers.
+"Galvarino, your dad," she said softly—her gaze drifting into the abyss, "he was the bravest man I've ever met. Came from the wild blood of Veridia. The same blood that flows in you. No wonder you're so full of courage, Love." She called me Love, the same thing that she called him. Her soft fingers ran through my hair. I sensed so much love flowing from her fingers.
 
 "I wished I were as brave as you and your dad," she confessed with a heavy heart.
 
@@ -234,7 +234,7 @@ Luna's family took me in as her foster brother, into their farmhouse on the outs
 
 Luna's family found it weird that my name was Science—a constant reminder of an identity that no longer felt like myself. They preferred to call me Alma's child. Apart from Luna, I could barely talk to anyone. Luna continued to homeschool me just like my mom did, though we still didn't know who was teaching whom. The more I buried my face in books, the more foreign the world of human interaction.
 
-I would always be grateful to Luna for bringing me hundreds of books from the library. At least I didn't need to send her an email anymore. Not knowing how to cope with the loss of my mom, I punished myself by studying fields I would never have considered before. Computer Science, Data Science, Forensic Science—each discipline became a shield, a way to keep me at a distance from my grief. I wasn't trying to find evidence of my mom's death being orchestrated. In truth, I was terrified of what such evidence might reveal. It was a puzzle I never wanted to solve. If mom had been in danger, was Luna also in danger? How could I protect her if I couldn't even talk to a stranger? I often locked myself in the room, pretending I was a plant; hoping in case of a further tragedy, nothing would hold me accountable. The deeper I dived into unfamiliar subjects, the more I could forget my life.
+I would always be grateful to Luna for bringing me hundreds of books from the library. At least I didn't need to send her an email anymore. Not knowing how to cope with the loss of my mom, I punished myself by studying the fields I would never have considered before. Computer Science, Data Science, Forensic Science—each discipline became a shield, a way to keep me at a distance from my grief. I wasn't trying to find evidence of my mom's death being orchestrated. In truth, I was terrified of what such evidence might reveal. It was a puzzle I never wanted to solve. If mom had been in danger, was Luna also in danger? How could I protect her if I couldn't even talk to a stranger? I often locked myself in the room, pretending I was a plant; hoping in case of a further tragedy, nothing would hold me accountable. The deeper I dived into unfamiliar subjects, the more I could forget my life.
 
 Luna often offered to take me when she went out with her friends for a change of scenery. I always declined except for the first time. Her friends were really kind, their friendliness creating no pressure, demanding no expectation. Still, I felt perpetually uncomfortable around new people. Luna's parents, despite treating me as their own child, remained strangers to me. I would eat, sleep, read, and retreat—a parasitic ghost inhabiting their home. The guilt of my silence never left me, a constant reminder of my inability to connect.
 
@@ -260,45 +260,51 @@ Despite her irrepressible worries, she eventually accepted my new journey. She c
 
 ---
 
-## Chapter VI - Red Horse [Politics] (raw)
+## Chapter VI - Red Horse [Politics] (smooth)
 
-"Why did you fight again?" Sister Cecilia asked, in a worried voice, tending to the wounds in my face.
+"Why did you fight again?" Sister Cecilia asked, tending to the wounds in my face. Her voice was trembling with worry and maternal concern.
 
-I kept silent as usual. Despite the cold sting of rubbing alcohol, I found comfort in the softness of her fingers on my face. She was a pale old Sister that had raised hundreds of children like me, serving the duty of God. She was the only face I found warm at St. Matthew. I didn't get along with Father Gabriel; we had theological differences.
+I kept silent as usual. Despite the cold sting of rubbing alcohol, I found comfort in the softness of her fingers—gentle against my bruised skin. She was a pale, weathered Sister who had mothered hundreds of children like me, her life dedicated to serving what she believed was God's duty. She was the only face I found warm at St. Matthew. I didn't get along with Father Gabriel; we had theological differences.
 
-"I told you to let me know when they bully you again," Sister Cecilia complained. I nodded. I wanted to apologize. I couldn't open my mouth. How does one apologize when they don't even know what they did wrong?
+"Polis, I told you to let me know when they bully you again," Sister Cecilia complained. I felt a mixture of frustration and concern in her exhausted voice. I nodded as a silent acknowledgment of my failure. I wanted to apologize, but the words caught in my throat. How does one apologize when they don't even understand what they did wrong?
 
-Once the fight started, the fight started. They always called me gay because I was weak and feminine. They said my parents died because I was a disgrace. There was no place for sinful gays in the realm of God, they said. They were annoyed by my mere existence. As if I wasn't annoyed by my own existence either. Why couldn't they be satisfied with senseless insults? They had to take away the Bible I was reading. It wasn't even mine. I politely asked them to give it back; God's words were the only thing I had to distract me from my own existence. They wanted me to take it back from them and when I tried, they pushed me. They had to physically torment me when I was willing to forgive their verbal bullying. When I pushed them back, they assumed they were granted a divine right to start hitting me. I knew I wouldn't stand a chance. But I was thinking of Galvarino when I fought them back. How do I explain it to Sister Cecilia. I already lost everything. Why would I mind some more scars on my face? To let fear rule me would be a betrayal to my parents.
+Once the fight started, the fight started. They had always harassed me—calling me gay because I was weak and feminine, because I failed to fit their definition of masculinity. "Your parents died because you're a disgrace," they'd sneer. As if my own grief wasn't terrible enough. There was no place for me in their realm of God, they said. They were annoyed by my mere existence. As if I wasn't annoyed by my own existence either.
 
-"I scolded them. I told them to be kind or they will see my wrath," Sister Cecilia comforted me, "please take care of yourself. Don't let your anger control you. I know you're a good kid, Polis"
+Why couldn't they be satisfied with their senseless insults? Instead, they had to violate even my smallest comfort. They snatched the Bible from my hands, a book that wasn't even mine. I would've let them get away with it if it wasn't my only sanctuary—God's words were the only thing that could momentarily distract me from the weight of my own existence. When I politely pleaded to return it, they taunted me to take it back from them. When I did exactly what they wanted me to do, they responded with the only language they knew—violence. They pushed me, as if my willingness to forgive was an invitation to bully. When I pushed back, they assumed it was a divine permission to beat me. I knew I couldn't win. But in that moment, I thought of Galvarino—the warrior who transformed his wounds into weapons of resistance. How could I explain this to Sister Cecilia? I had already lost everything. Why would I mind a few more scars on my face? To let fear rule me would be the ultimate betrayal to my parents.
 
-"Thank you for your kindness, Sister. I won't let it happen again," I promised her, and then I remembered something. "Can I get another Bible, Sister?"
+"I scolded them," Sister Cecilia said, her voice balancing between solace and vigilance. "I told them to be kind, or they will see my wrath." She looked at me, her eyes softening. "Please take care of yourself. Don't let anger consume you. I know you're a good kid, Polis."
 
-"Of course." She went to the library and got me another Bible. The old one was torn during the fight.
+"Thank you for your kindness, Sister," I responded, my voice quiet but sincere. "I won't let it happen again." A sudden thought struck me. "Can I get another Bible, Sister?" How would I survive here without the soothing verses?
 
-I went back to the dorm, hugging the book in my arms. I could feel their angry eyes on my back. Why were they still mad at me? I couldn't even gift them a wound; would they never stop tormenting me until I could land a blow on their face? Why were they upset that they were scolded for the bullying they did out of their own will? They were laughing at me for some reason I didn't comprehend. I heard them say I didn't know it. I didn't know what I didn't know.
+"Of course," she replied, her movements gentle as she walked to the library. Moments later, she returned with another Bible. I felt bad about the torn remnants of the previous one.
 
-Ever since my parents died in an accident, fears never left me alone. St. Matthew never felt like a home. I never felt safe here. I knew Sister Cecilia would be there for me but even she couldn't see everything all the time. Father Gabriel could have been a good ally but I made the foolish mistake of arguing with him. The bullies feared Father Gabriel more than Sister Cecilia.
+I returned to the dormitory, hugging the book close to my chest. I felt their angry eyes still burned into my back, a never-ending weight of unresolved malice. Why were they still furious? I was the one that got beaten. I failed to land a real blow on their shameless faces. Weren't they scolded for what they did out of their own will? What satisfaction could they possibly get from endless anger?
 
-When I got to my bed, I started reading the book of Revelations again. The Horsemen gave me countless nightmares and sleepless nights. Facing my worst nightmares was the only way I knew how to fight. Weren't my bullies the worshipers of the Horsemen after all? Unlike the other children that submitted to them, I never accepted them as the rightful rulers of the ward. I never accepted their Conquest, the white horse. War, the red horse, was the one where I failed to overcome. They always succeeded in provoking me. I was always the one that got beaten. But I never submitted. For it would be a betrayal to the spirit of Galvarino. I fell asleep reading the book of Revelations.
+They laughed behind my back. "He doesn't know," I heard them mutter. I didn't know what I didn't know. There is no new thing under the sun.
 
-A piece of rook that hit my head woke me up. Not this again. I couldn't care about the pain in my forehead. I couldn't care about their laugh. I was ready to explode. They stole my dad's chess set again. Of course, that's what I didn't know. Just when I decided I wouldn't let them provoke me again. The chess set was the only thing I brought from my home; the only thing that reminded me of my happy days. They knew there was nothing I hated more than losing my chess set. I tried to calm myself. I put the Bible on the pillow carefully. Do I wake up Sister Cecilia, in the middle of the night? What if they lost some pieces before Sister Cecilia could resolve this? I always felt like I lost everything again when they stole the chess set.
+Ever since my parents died in an accident, fear had become my constant companion. St. Matthew was never a home—just a place of perpetual unease. Sister Cecilia remained my sole comfort, but even her vigilance couldn't shield me from everything. Father Gabriel could have been an ally, but I made the foolish mistake of arguing with him. The bullies feared Father Gabriel more than Sister Cecilia.
 
-I had a panic attack again. I prayed for the souls of my parents to guide me. I promised Sister Cecilia I wouldn't let it happen again. A piece of pawn hit the corner of my bed. My vision was blurred by overwhelming anxiety. I tried to breathe. I got off the bed to find the chess pieces and collect as many as I could. I should've submitted. I should've let them win. They would never stop until I gave in. I should've let them become the masters of the ward. It was a cost too large to lose my dad's chess pieces; the only things that connected me to the happy days. I wished it was just a nightmare.
+When I reached my bed, I started reading the Book of Revelations again. The Horsemen gave me countless nightmares and sleepless nights. Confronting these spectral fears was my only known strategy of survival. Weren't my tormentors the true worshipers of the Horsemen after all? Unlike the other children who surrendered, I refused to acknowledge their dominion. I rejected Conquest's White Horse. War, on the Red Horse, was my weakness. They always succeeded in provoking me. I was always the one that got beaten. But I never submitted. For it would be a betrayal to the spirit of Galvarino. I drifted into an uneasy sleep with the Bible verses floating around me.
 
-"Please, I'll let you hit me if you give them back," I begged, despite knowing it wouldn't work. They laughed and threw one piece at me after another. I put myself on the floor and grabbed each piece tightly in my fists. They were having fun playing me. I wished everything was just a nightmare and I was still in my bed at my home. I knew it wasn't a nightmare. Another piece hit my head. I could feel bleeding on my forehead. "Please," I begged again, rubbing the blood with my hand.
+A rook piece striking my head disrupted my sleep. Not again. The pain in my forehead meant nothing; their mocking laughter even less. They had stolen my dad's chess set—the only thing I brought from my home, my sole reminder of the happy days. Just when I decided not to be provoked, they struck at my most vulnerable point. They knew there was nothing I hated more than losing my chess set. I tried to calm myself. I put the Bible on the pillow carefully. Should I wake up Sister Cecilia, in the middle of the night? What if they lost some pieces before Sister Cecilia could resolve this? I always felt like I lost everything again when they stole the chess set.
 
-It got louder and louder. They were throwing the pieces harder and harder. Some other kids woke up but they didn't do anything because they feared them. I grabbed one piece after another, ignoring the blood on my face. I wished they would throw every piece eventually. I would give the chess set to Sister Cecilia for safekeeping. I told myself everything would be okay. They got what they wanted when the knight piece hit the wall. I knew the sound was different. I ran to find the piece under the bed; the nose of the knight broken. The white horse piece looked dark and bloody in my hand. I knew I promised Sister Cecilia it wouldn't happen again. I knew I would be beaten again if I fought them. I knew it wouldn't fix the chess piece.
+I had a panic attack again. I prayed for guidance from the souls of my parents. I promised Sister Cecilia I wouldn't let it happen again. A pawn piece landed near my bed, each impact blurring my vision. Overwhelming anxiety was blocking my throat. I scrambled to collect the pieces, each one a fragment of a life now lost. I should've submitted. I should've let them win. They would never stop until I gave in. I should've let them become the masters of the ward. It was a cost too high—these chess pieces were my last connection to moments of joy. I wished it was just a nightmare.
 
-I lost my temper. I let War, the Red horse, win that day again. I ran towards the worshipers of the War, with my bloody fists locking to their faces.
+"Please," I begged, "I'll let you hit me if you give them back." My words dissolved into their cruel laughter. They threw piece after piece, treating me like a game, enjoying my desperation. I wished everything was just a nightmare and I was still in my bed at my home. I knew it wasn't a nightmare. Another piece hit my head. I could feel bleeding on my forehead. "Please," I begged again, rubbing the blood with the back of my hand.
+
+It got louder and louder. They were throwing the pieces harder and harder. Other children stirred but remained in their beds, paralyzed by fear. I gathered each piece, ignoring the blood, hoping they would exhaust their malice eventually. I told myself everything would be okay. All I had to do was to give the chess set to Sister Cecilia afterward for safekeeping. It would be over soon.
+
+They got what they wanted when the knight piece struck the wall. I knew the sound was different. I ran to find the piece under the bed; the nose of the knight broken. The white horse piece looked dark and bloody in my hand. I knew I promised Sister Cecilia it wouldn't happen again. I knew I would be beaten again if I fought back. I knew it wouldn't fix the broken chess piece.
+
+But in that moment, War on his Red Horse, consumed me completely. I ran towards them, keeping my bloody fists tight in a declaration of resistance.
 
 ---
 
-## Chapter VII - Flower Wand [Art] (smooth)
+## Chapter VII - Vanishing Wand [Art] (smooth)
 
 Ever since Mr. David's diagnosis, my parents seemed to have found their justification for treating me like I was unstable. I didn't want to accuse them of irrational prejudice—they were pathologists, after all. Identifying and categorizing was literally their professional language. I knew this would happen the moment Mr. David started talking to me. He might not have been a bad therapist, but he'd handed my parents exactly what they wanted: a convenient label. I saw the relief in their eyes. Not the relief of understanding, but the relief of having a convenient explanation for everything they couldn't comprehend about me. A label that would absolve them from truly listening, from seeing me as I am.
 
-"She has Schizotypal Personality Disorder," they would whisper to relatives, their voices a mixture of concern and a strange pride - as if diagnosing me proved their medical expertise more than their parental understanding. They thought they were educated, progressive people who could "parent" a troubled child. They tended to use big words to mask they failed to comprehend their own daughter. They had a kind child who only wanted to do good, and somehow, they managed to make everything complicated.
+"She has Schizotypal Personality Disorder," they would whisper to relatives, their voices carrying hints of concern and a strange pride - as if diagnosing me proved their medical expertise more than their parental understanding. They thought they were educated, progressive people who could "parent" a troubled child. They tended to use big words to mask they failed to comprehend their own daughter. They had a kind child who only wanted to do good, and somehow, they managed to make everything complicated.
 
 I felt like an outsider in my own home. Dad's jokes weren't just lame; they were cheap weapons of dismissal. Each time he made a comment about my "magical thinking," I could see he wasn't trying to connect - he was trying to categorize, to normalize me into the narrow box of his understanding. Mom would smile sympathetically, believing her gentle tone masked her fundamental lack of comprehension. "We just want to help you understand the world, Aria" she'd say, not realizing I understood the world far more deeply than they ever could.
 
@@ -306,7 +312,7 @@ When the magic tour, "Kaspar's Traveling Illusions", arrived in our neighborhood
 
 Dad's whispered comments didn't escape me, even when he thought they did.
 
-"She's already living in a magical realm," he muttered to mom, his voice a mix of concern and mockery that he found clever. "Are you sure it's okay to take her to a magic show?"
+"She's already living in a magical realm," he muttered to mom, with a mix of concern and mockery that he found clever. "Are you sure it's okay to take her to a magic show?"
 
 "It's just a show. Can you be a little easy on Aria... She's just an innocent child that has a little trouble with different realities," mom explained. She might have thought she was being considerate.
 
@@ -324,11 +330,11 @@ I was gathering groceries when I spotted him: a boy around my age, standing with
 
 "Are you with the crew?" The words tumbled out before I could stop myself.
 
-He looked me up and down, sizing me up, then gave a slight nod.
+He looked me up and down, sizing me up, then gave a slight nod, slowly. Why did it take him so long?
 
 "I'm Art. What's your name?" I said, extending my hand in a gesture of introduction.
 
-"Polis," he replied in English, a shy Germanic accent coloring his words. Of course—the crew was international.
+"My name is Polis," he replied in English, a shy Germanic accent coloring his words. Of course—the crew was international.
 
 "How long have you been with the crew?" I asked in English.
 
@@ -348,11 +354,11 @@ Polis explained patiently, "Kaspar would love to welcome new talents. But someti
 
 "It's my decision," I countered, leaving no room for argument.
 
-He softened slightly, sharing his own story. "I'm an orphan. The crew visited my orphanage once. I impressed Kaspar with my chess skills. But I still needed permission from my guardian, Sister Cecilia."
+He softened slightly, sharing his own story. "I'm an orphan. The crew visited St. Matthew—my orphanage—once. I impressed Kaspar with my chess skills. But I still needed permission from Sister Cecilia."
 
 I saw my opening. "Can you please arrange a meeting with Kaspar?"
 
-"He's free now," Polis said, a mixture of curiosity and reluctance in his voice.
+"He's free now," Polis said, with a mixture of curiosity and reluctance in his voice.
 
 I paused. "Wait—does he understand Greek?"
 
@@ -360,9 +366,9 @@ A shake of the head.
 
 "But English?"
 
-He nodded. He then led me to a weathered tent at the edge of the crew's camp, its canvas faded but still sturdy.
+He nodded. I gestured I was ready. He then led me to a weathered tent at the edge of the crew's camp, its canvas faded but still sturdy.
 
-Kaspar was exactly as I'd imagined—a lean man with a distinctive mustache who looked more like a character from an old traveling circus than a modern performer. I knew I had to impress him quickly. I chose my strongest talents: poetry and song. Clearing my throat, I began to sing a traditional Greek lullaby, its melody soft and haunting—the same one I'd heard the old florist woman singing earlier that day.
+Kaspar was exactly as I'd imagined—a lean man with a distinctive mustache who looked more like a character from an old traveling circus than a modern performer. I knew I had to impress him quickly. I chose my strongest talent. Clearing my throat, I began to sing a traditional Greek lullaby, its melody soft and haunting—the same one I'd heard the old florist woman singing earlier that day.
 
 "What is your name, little girl?" Kaspar asked, his English rough with a thick Germanic accent.
 
@@ -370,7 +376,7 @@ I didn't hesitate. "Acanthia. Acanthia Andriades."
 
 "Who do you live with?" Kaspar probed.
 
-"With my elders," I replied smoothly.
+"With my elders," I replied smoothly. Weren't my parents my elders after all?
 
 "Will they be okay with you joining? This could take a year or more."
 
@@ -382,7 +388,7 @@ I had to paint a picture of a supportive grandmother. "Yia-yia would love for me
 
 The walk back to the flower shop was a careful game of manipulation and genuine connection in my head. I wove my story with the precision of a clever hero in a tale, each word calculated yet seemingly spontaneous.
 
-"Hello, Yia-yia. My name is Acanthia. Have you seen the magician crew in town? I just came from them. I'm an Athenian and this is my hometown. I was talking to the foreigner in the crew about Acanthus that my own name originated from, keep the buildings safe from evil spirits but he was skeptical about it. Yia-yia, you look like a wise lady that he would listen to. Can you help me explain them about Acanthus flower?"
+"Hello, Yia-yia. My name is Acanthia. Have you seen the magician crew in town? I just came from them. I'm an Athenian and this is my hometown. I was talking to the foreigner in the crew about Acanthus. The one that my own name originated from. I said Acanthus kept the buildings safe from evil spirits but he was skeptical about it. Yia-yia, you look like a wise lady that he would listen to. Can you help me explain them about Acanthus flower?"
 
 The old woman's eyes sparkled with the kind of wisdom that comes from generations of storytelling.
 
@@ -398,7 +404,7 @@ The old lady agreed to help me. She asked her neighbor shopkeeper to keep watch 
 
 I comforted her as much as I could. A part of me felt bad for taking advantage of her kindness, but another part knew this was my only way out. I learned that her son had left two daughters.
 
-When we reached the tents, I introduced her to Kaspar. He asked how we were related, and I told him she had two granddaughters and I was the younger one.
+When we reached the tents, I introduced her to Kaspar. He asked how we were related, and I told him she had two granddaughters and I wasn't the elder one obviously.
 
 "Were the flower engravings in the columns of the building Acanthus?" I asked her. She nodded passionately, launching into tales about the flower. Kaspar nodded politely, understanding nothing. Polis gave me a knowing look but kept silent. Kaspar was convinced that my grandmother wanted me to join the crew. He began discussing my potential salary.
 
@@ -406,9 +412,9 @@ I knew exactly how to keep her talking—I simply asked about her flowers. All I
 
 Finally convinced, Kaspar requested a signed approval and some ID documents. I thanked her, seeing the radiating happiness in her eyes. I told her I had paperwork to complete and would take her back to her shop. Instead of the groceries my mom wanted, I bought a lot of Acanthus flowers. She thanked me endlessly. I told her to thank the foreigner instead.
 
-Back home, Acanthia became a master forger. I signed the approval letter in an imitation of an elderly handwriting. I edited my national ID card—these foreigners weren't used to seeing a Greek ID every day, so it didn't need to be perfect. I returned to Kaspar with my documents. I even took him to the old grandma's flower shop to show him my hometown. She was so genuinely happy to thank the foreigner that I felt guilty for my trick.
+Back home, mom was surprised to see Acanthus flowers and a lot of missing items from the groceries list. In my bedroom, Acanthia became a master forger. I signed the approval letter in an imitation of an elderly handwriting. I edited my national ID card—these foreigners weren't used to seeing a Greek ID every day, so it didn't need to be perfect. I returned to Kaspar with my documents. I even took him to the old grandma's flower shop to show him my hometown. She was so genuinely happy to thank the foreigner that I felt guilty for my trick.
 
-And that was how I tricked the great magician Kaspar into taking me in. A crew of European travelers touring around European countries—border crossings would be simple. Greek law enforcement was looking for Aria Selas, the missing child of Elena and Dimitris Selas. How could they possibly know that Aria had transformed into Acanthia Andriades in a magic trick?
+And that was how I tricked the great magician Kaspar into taking me in. With a crew of European travelers touring around European countries, border crossings would be simple. Greek law enforcement was looking for Aria Selas, the missing child of Elena and Dimitris Selas. How could they possibly know that Aria had transformed into Acanthia Andriades like a vanishing wand turning into a flower?
 
 ---
 
