@@ -224,7 +224,7 @@ I shook my head. Why would I hate him for that? Wasn't he the one who taught me 
 
 ---
 
-## Chapter V - New Journey [Science]
+## Chapter V - Silence as Shield [Science]
 
 Mom followed her hero, Marie Curie, in more ways than one. I was 12 when she was first diagnosed with radiation sickness. It got worse and worse since then. You would've thought scientists would no longer be in such a risk with the advancement of technology and safety measurements. Despite knowing something lurked beneath the surface, the silence between us—mom, Luna, and I—was heavy. What if my worst fears wouldn't come true if I pretended it wasn't real?
 
@@ -257,5 +257,123 @@ Luna hoped I would follow her academic path, but I was determined to forge my ow
 I couldn't be more explicit than this. The words for my deepest fears remained trapped behind my lips—to voice them would only sound like madness. We just looked at each other in silence. I thanked God Luna understood without words. She'd seen the same shadows I had, felt the same hidden danger that ran beneath the surface of my mother's illness. Wasn't our silence itself a form of mutual protection?
 
 Despite her irrepressible worries, she eventually accepted my new journey. She crafted reasonable explanations for her parents, who wished me the best. I spent my final days basking in their warmth, unaware of how deeply I would miss this second home.
+
+---
+
+## Chapter VI - Flower Wand [Art]
+
+Ever since Mr. David's diagnosis, my parents seemed to have found their justification for treating me like I was unstable. I didn't want to accuse them of irrational prejudice—they were pathologists, after all. Identifying and categorizing was literally their professional language. I knew this would happen the moment Mr. David started talking to me. He might not have been a bad therapist, but he'd handed my parents exactly what they wanted: a convenient label. I saw the relief in their eyes. Not the relief of understanding, but the relief of having a convenient explanation for everything they couldn't comprehend about me. A label that would absolve them from truly listening, from seeing me as I am.
+
+"She has Schizotypal Personality Disorder," they would whisper to relatives, their voices a mixture of concern and a strange pride - as if diagnosing me proved their medical expertise more than their parental understanding. They thought they were educated, progressive people who could "parent" a troubled child. They tended to use big words to mask they failed to comprehend their own daughter. They had a kind child who only wanted to do good, and somehow, they managed to make everything complicated.
+
+I felt like an outsider in my own home. Dad's jokes weren't just lame; they were cheap weapons of dismissal. Each time he made a comment about my "magical thinking," I could see he wasn't trying to connect - he was trying to categorize, to normalize me into the narrow box of his understanding. Mom would smile sympathetically, believing her gentle tone masked her fundamental lack of comprehension. "We just want to help you understand the world, Aria" she'd say, not realizing I understood the world far more deeply than they ever could.
+
+When the magic tour arrived in our neighborhood, I saw my chance—to refuse to be defined by their limited perception. Every adult who looked at me and saw a "problem" to be solved was another brick in the wall I was determined to break through. I saw my home in those who they called freaks. For the first time, I knew what I had to do.
+
+Dad's whispered comments didn't escape me, even when he thought they did.
+
+"She's already living in a magical realm," he muttered to mom, his voice a mix of concern and mockery that he found clever. "Are you sure it's okay to take her to a magic show?"
+
+"It's just a show. Can you be a little easy on Aria... She's just an innocent child that has a little trouble with different realities," mom explained. She might have thought she was being considerate.
+
+"Exactly. When she sees these freaks, she'll believe everything they show is real and we'll have to deal with a whole series of her 'imaginations' later."
+
+It went on and on. When mom finally got permission to take me to the show, I surprised them both. "I'd rather stay home and read," I said, a small act of defiance that I would regret the rest of my life. While dad looked more relieved that I declined, mom still tried to persuade me to see the show with her. In that moment, I saw her genuine excitement, her hope of sharing something magical with me—and I shut her down. How much I wished I just listened to her instead of what I ended up doing—a hidden card up my sleeve.
+
+On the last day of the magic tour, before dawn could break, I packed my possessions—Homer's books and a change of clothes—and slipped out the window. One last look at my room, a space that had never truly felt like mine. I wasn't running from home. I was running towards the first opportunity to prove that my way of seeing the world wasn't a disorder - it was my strength.
+
+The magic tour's camp was my destination. My new life was about to begin.
+
+That day, I found two people who felt more like family than my own parents ever had. I was running errands at the market when I first noticed her—an old woman tending a flower shop, someone I'd never seen before. There was something about her, a warmth that seemed to radiate beyond the buckets of colorful blooms. She was singing a lullaby that pulled me into its gentle current, its melody so whimsical that I momentarily forgot my mundane chores.
+
+I was gathering groceries when I spotted him: a boy around my age, standing with the traveling crew. He looked different—not just in appearance, but in a way that made my senses tingle. The same luminous thread I'd seen connected to Mr. David now connected to him, invisible to everyone but me.
+
+"Are you with the crew?" The words tumbled out before I could stop myself.
+
+He looked me up and down, sizing me up, then gave a slight nod.
+
+"I'm Art. What's your name?" I said, extending my hand in a gesture of introduction.
+
+"Polis," he replied in English, a shy Germanic accent coloring his words. Of course—the crew was international.
+
+"How long have you been with the crew?" I asked in English.
+
+"Just a couple of months," he replied, then quickly turned the conversation. "Excuse me, why are you asking?"
+
+I didn't miss a beat. "I want to join your crew."
+
+A flicker of judgment crossed his face. "You don't look like an orphan."
+
+It annoyed me. "What does that have to do with anything?"
+
+Polis explained patiently, "Kaspar would love to welcome new talents. But sometimes it can be complicated for someone who isn't an orphan. This isn't a part-time job—you'd have to fully commit to the tour."
+
+"That's exactly what I want," I said, my determination cutting through his concerns.
+
+"Will your parents approve?" he challenged.
+
+"It's my decision," I countered, leaving no room for argument.
+
+He softened slightly, sharing his own story. "I'm an orphan. The crew visited my orphanage once. I impressed Kaspar with my chess skills. But I still needed permission from my guardian, Sister Cecelia."
+
+I saw my opening. "Can you please arrange a meeting with Kaspar?"
+
+"He's free now," Polis said, a mixture of curiosity and reluctance in his voice.
+
+I paused. "Wait—does he understand Greek?"
+
+A shake of the head.
+
+"But English?"
+
+He nodded. He then led me to a weathered tent at the edge of the crew's camp, its canvas faded but still sturdy.
+
+Kaspar was exactly as I'd imagined—a lean man with a distinctive mustache who looked more like a character from an old traveling circus than a modern performer. I knew I had to impress him quickly. I chose my strongest talents: poetry and song. Clearing my throat, I began to sing a traditional Greek lullaby, its melody soft and haunting—the same one I'd heard the old florist woman singing earlier that day.
+
+"What is your name, little girl?" Kaspar asked, his English rough with a thick Germanic accent.
+
+I didn't hesitate. "Acanthia. Acanthia Andriades."
+
+"Who do you live with?" Kaspar probed.
+
+"With my elders," I replied smoothly.
+
+"Will they be okay with you joining? This could take a year or more."
+
+I had to paint a picture of a supportive grandmother. "Yia-yia would love for me to gain new experiences. I think she might have explored the world with a crew when she was young."
+
+"Can I meet her?" he asked.
+
+"Yes. Can you please give me twenty minutes?" I said, already formulating my plan.
+
+The walk back to the flower shop was a careful game of manipulation and genuine connection in my head. I wove my story with the precision of a clever hero in a tale, each word calculated yet seemingly spontaneous.
+
+"Hello, Yia-yia. My name is Acanthia. Have you seen the magician crew in town? I just came from them. I'm an Athenian and this is my hometown. I was talking to the foreigner in the crew about Acanthus that my own name originated from, keep the buildings safe from evil spirits but he was skeptical about it. Yia-yia, you look like a wise lady that he would listen to. Can you help me explain them about Acanthus flower?"
+
+The old woman's eyes sparkled with the kind of wisdom that comes from generations of storytelling.
+
+"Oh, little child," she said, in her warm voice stained with an unnecessary sorriness, "I couldn't speak a word in the foreigner's tongue."
+
+"It's okay, Yia-yia," I reassured her. "I'll translate.I'm just not as good as explaining in detail myself."
+
+The old lady agreed to help me. She asked her neighbor shopkeeper to keep watch on her stall and followed me. I could sense her eagerness to share her knowledge, her loneliness finding a momentary companion in me.
+
+"Yia-yia, you look like you know everything about flowers. How long have you been selling flowers here?" I tried to make a conversation while walking.
+
+"Oh, my little grandchild," she started with a voice covered by grief, "I restarted selling at the market just today. I left my hometown decades ago to live with my son. But he passed away last week. My daughter-in-law is a great lady but it was too sad for an old woman to be constantly reminded of her son's absence. So I decided to come back to my hometown. I restarted what I did before he found his wife."
+
+I comforted her as much as I could. A part of me felt bad for taking advantage of her kindness, but another part knew this was my only way out. I learned that her son had left two daughters.
+
+When we reached the tents, I introduced her to Kaspar. He asked how we were related, and I told him she had two granddaughters and I was the younger one.
+
+"Were the flower engravings in the columns of the building Acanthus?" I asked her. She nodded passionately, launching into tales about the flower. Kaspar nodded politely, understanding nothing. Polis gave me a knowing look but kept silent. Kaspar was convinced that my grandmother wanted me to join the crew. He began discussing my potential salary.
+
+I knew exactly how to keep her talking—I simply asked about her flowers. All I had to do was mention flowers, and she would speak from her heart.
+
+Finally convinced, Kaspar requested a signed approval and some ID documents. I thanked her, seeing the radiating happiness in her eyes. I told her I had paperwork to complete and would take her back to her shop. Instead of the groceries my mom wanted, I bought a lot of Acanthus flowers. She thanked me endlessly. I told her to thank the foreigner instead.
+
+Back home, Acanthia became a master forger. I signed the approval letter in an imitation of an elderly handwriting. I edited my national ID card—these foreigners weren't used to seeing a Greek ID every day, so it didn't need to be perfect. I returned to Kaspar with my documents. I even took him to the old grandma's flower shop to show him my hometown. She was so genuinely happy to thank the foreigner that I felt guilty for my trick.
+
+And that was how I tricked the great magician Kaspar into taking me in. A crew of European travelers touring around European countries—border crossings would be simple. Greek law enforcement was looking for Aria Selas, the missing child of Elena and Dimitris Selas. How could they possibly know that Aria had transformed into Acanthia Andriades in a magic trick?
 
 ---
