@@ -6,7 +6,7 @@
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
-I felt relieved. I got somewhere finally without getting entangled in specific details. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
+I felt relieved. I got somewhere finally without getting entangled in specific details. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But weren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
 
 "Will you have your dinner now, my baby Science? I made your favourite dish." I could never fully express how much I loved mom. She knew I wouldn't have dinner without getting somewhere. I almost forgot how hungry I was.
 
@@ -14,7 +14,7 @@ Mom called me Science. It was what she loved most in the entire universe. I beli
 
 I had to bring a textbook to the dinner table. I couldn't wait to compare my derivation with the textbooks. Mom mentioned the exact chapter I needed to look up. I could swear these mathematical symbols danced with an ethereal luminescence before my eyes. I realized I had traced the same beautiful mathematical path others had walked before me. The joy wasn't in being first, but in understanding the universal language that explains the universe.
 
-I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remember she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
+I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remembered she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
 
 I spent a few more weeks deriving all the other physics principles I knew from one universal principle I just rediscovered; that of stationary action. One day, I decided to send an email to Luna on mom's computer. Before I talked about Luna, I needed to talk about mom's secret work, or at least what I call her secret work. I always hated when mom had to travel to work with her physicist colleagues from Santandería. She often brought me to university conferences, but these foreign colleagues remained a mysterious presence, always kept at a distance from my little world. I never nagged her to take me with her though.
 
@@ -56,7 +56,7 @@ I was stunned by their question. How could they possibly doubt the victim? I've 
 
 The girl looked at me apologetically. She had convinced the teachers it was just an accident. I didn't blame her. It made perfect sense to not expect justice from such teachers. It was clever of her to avoid making her bullies hate her more than they already did. If only it would stop them from bullying her again.
 
-I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories. I wished it was the end of the story but it wasn't.
+I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories. I wished that were the end of the story, but it wasn't.
 
 "Aria, what's your favourite on the bookshelf?" Mr. David Lysandra asked.
 
@@ -194,7 +194,7 @@ I remember the tender look in mom's eyes when I questioned the pawn's fate—con
 
 What I found most interesting in chess is stalemate. I hated sacrificing pieces. I hated exchanging pieces as if there were a mysterious formula to calculate their values. I hated cornering someone. I hated being cornered. I hated checkmates more than the others. A stalemate is something as bold as Diogenes telling Alexander to stand out of the sun.
 
-My dad used to hate it when I decided to resign too early until I explained to him how I knew I was already lost. Sometimes he was surprised that even he didn't see he was winning himself. I could never quite tell if his surprise was genuine or carefully calculated. He said even though I had very little knowledge of chess opening strategies, my tactical insight surpassed his already because I could see through his moves even better than himself. He must have made a lot of effort to hide it when he was intentionally making a suboptimal move. We kind of invented a new rule; I would win if I could tell he intentionally made a suboptimal move so we could finish dishonest games where he wanted to balance the odds fast and prolong honest exhausting games. Of course it would only work if he wouldn't lie. I never saw my parents lied to me; not just me, they never lied to anyone. But I noticed my dad often pretended to be clueless. I was too young to understand it was a tactical necessity sometimes.
+My dad used to hate it when I decided to resign too early until I explained to him how I knew I was already lost. Sometimes he was surprised that even he didn't see he was winning himself. I could never quite tell if his surprise was genuine or carefully calculated. He said even though I had very little knowledge of chess opening strategies, my tactical insight surpassed his already because I could see through his moves even better than himself. He must have made a lot of effort to hide it when he was intentionally making a suboptimal move. We kind of invented a new rule; I would win if I could tell he intentionally made a suboptimal move so we could finish dishonest games where he wanted to balance the odds fast and prolong honest exhausting games. Of course it would only work if he wouldn't lie. I never saw my parents lie to me; not just me, they never lied to anyone. But I noticed my dad often pretended to be clueless. I was too young to understand it was a tactical necessity sometimes.
 
 Mom would never pretend. She was the most innocent soul I'd ever known—until I would later meet her who matched mom's pure spirit. Mom was a computer scientist. She introduced me to programming long before I could fully learn to write in a natural language. Together, we programmed a simplified version of chess—a 6x6 board with just 5 pawns, and 2 knights on each side. Oh, how much my dad hated that game. It was where I could beat him without him having to make subtle bad moves. He could try his best and I'd either win or draw. I was only trying to stalemate. He simply failed to avoid mistakes. Even though he never admitted it, I knew he found that very frustrating.
 
@@ -294,7 +294,7 @@ I had a panic attack again. I prayed for guidance from the souls of my parents. 
 
 It got louder and louder. They were throwing the pieces harder and harder. Other children stirred but remained in their beds, paralyzed by fear. I gathered each piece, ignoring the blood, hoping they would exhaust their malice eventually. I told myself everything would be okay. All I had to do was to give the chess set to Sister Cecilia afterward for safekeeping. It would be over soon.
 
-They got what they wanted when the knight piece struck the wall. I knew the sound was different. I ran to find the piece under the bed; the nose of the knight broken. The white horse piece looked dark and bloody in my hand. I knew I promised Sister Cecilia it wouldn't happen again. I knew I would be beaten again if I fought back. I knew it wouldn't fix the broken chess piece.
+They got what they wanted when the knight piece struck the wall. I knew the sound was different. I ran to find the piece under the bed; the tip of the knight broken. The white horse piece looked dark and bloody in my hand. I knew I promised Sister Cecilia it wouldn't happen again. I knew I would be beaten again if I fought back. I knew it wouldn't fix the broken chess piece.
 
 But in that moment, War on his Red Horse, consumed me completely. I ran towards them, keeping my bloody fists tight in a declaration of resistance.
 
@@ -418,6 +418,58 @@ And that was how I tricked the great magician Kaspar into taking me in. With a c
 
 ---
 
-## Chapter VIII - Renegades [Politics]
+## Chapter VIII - Renegades [Politics] (raw)
 
-"Kaspar's Traveling Illusions" became more like a home since Art joined us. She was like a family to me. My parents might not have lost their lives if they were half as clever as her. Mom would have loved her. Dad would haved feared her. As the blood of both, I loved her and feared her simultaneously. I was the only one that called her Art; everyone else called her Acanthia. Nobody saw through her magic tricks the way I did. She was just a singer after all. Her voice was her magic. While I worked as an assistant to Kasper's eingineer, she worked as a backup singer.
+"Why do you keep reading the Bible?" Art asked without a hint of worry in her voice. If it were back in St. Matthew, I would have thought of it as a trap move as an invitation to an unnecessary fight. But I knew she didn't mean anything condescending; she was genuinely curious.
+
+"The same reason why you brought Homer," I answered—sharing the good faith of Sister Cecilia. She nodded.
+
+"Why do you think I brought Homer?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
+
+"Certain items can work as a connection to something we cherish," I answered patiently.
+
+"Like a magical thread," she muttered. I nodded.
+
+I never asked her why she ran away from home—something I could no longer afford no matter how hard I wished. She explained it to me anyway—perhaps she felt like she owed me an explanation. She knew what she had to do when she saw a luminous thread connected to me. I admired her intuitive understanding that I wouldn't find it strange or skeptical.
+
+She had become the most magical part of "Kaspar's Traveling Illusions". The crew had been more like a home to me since she joined us. She was a family to me, even more than Sister Cecilia was. My parents might not have lost their lives if they were half as clever as her. Mom would have loved her. Dad would have feared her. As the blood of both, I loved her and feared her simultaneously. 
+
+I was the only one that called her Art; everyone else called her Acanthia. Nobody saw through her magic tricks the way I did. She was just a singer after all. Her voice was her magic to everyone. While I worked as an apprentice to the Engineer, she worked as an apprentice to the Soubrette, Kaspar's partner. A part of me knew she'd be a better apprentice to the Engineer than I was. How effortlessly she could forge documents never failed to surprise me. She was a even better magician than Kaspar, seeing how she pulled documents proving she was Acanthia Andriades out of nowhere.
+
+"Grrraaaaawwwwrrrr," she roared, wearing the Tiger mask of Tingxuan. Tingxuan was the Chinese acrobat that joined us recently. I've been learning basic acrobatic skills from her.
+
+I smiled and patted her like a little cat. She acted like a cat with her hands. We laughed. On the tent canvas was the shadow of the Tiger mask. I suddenly recognized the serious look on her face.
+
+"Polis, do you think my parents was right? How they interpreted Mr. David's diagnosis..." she asked. I always knew it wasn't without regrets that she left her home.
+
+"Father Gabriel said the same truth could manifest in more than one interpretation," I explained, "you can see different shadows of the same mask depending on the angle of light."
+
+"Did you just explained Plato's cave to an Athenian?" she said. I smiled, admitting she got me.
+
+"You would see the same shadow from different forms like a cone and a coin if you put them in a specific angle," I elaborated. She nodded.
+
+"So I might really suffer from the mental condition my parents think I do. It just doesn't mean my sense of perception isn't reliable," she went on. I nodded.
+
+"Shadows are sometimes the only things we get to witness," I continued. I saw a biblical imagery in my mind again. Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+
+"Why I keep reading the Bible," I started a new thread of thoughts, "is more than as a connection to the memory of Sister Cecilia. It was something far more dark and devious. I saw those that took my parents away in the Bible. Not exactly the specific people responsible for my parents' death. Rather the true entities whose casted shadows were the puppets that caused the accident. I recognized their original forms in the Horsemen. The ones that bullied me in St. Matthew worshipped the same Horsemen. I'd suspect your parents' mistreatment was also rooted in the shadows of the Horsemen."
+
+"I'll join in your crusade," Art promised. She knew she was my family. She was as much my comrade as my parents were. I could see she was trying to come up with something.
+
+"The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box. I still had all the pieces; the broken knight was glued. He healeth the broken in heart, and bindeth up their wounds.
+
+"Did the Bible foretell our coming, the coming of the Knights of Kindness?" she said, looking at me. I wasn't sure if it was a rhetorical question. I shook my head.
+
+"Knighthood didn't exist by the time the Bible was written." I explained.
+
+She remarked, "that's why I read Homer instead."
+
+"Did Homer foretell our coming?" I poked her back.
+
+"No. Homer didn't foretell anything. Homer isn't the beginning and the end. Homer came up with the epics to show us the true forms of the shadows. Homer was a better therapist than Mr. David. Homer explained the nature of humanity better than the Bible writers do." For someone that was swiming in whimsical realm, she could be very realistic sometimes. I nodded.
+
+"I want to read Homer in the original language. Teach me Greek," I requested again. I only knew a few Greek words. She shook her head.
+
+"You chose Tingxuan to be your master. Learn acrobat first. Don't disappoint many teachers at the same time." I knew she never got over the fact that I decided to learn from a newcomer rather than her. How could one be so mature and immature simultaneously? I knew begging her wouldn't work. I recalled the violent children at St. Matthew. Begging never worked with them either. Fists did. If only I knew some acrobatic back then.
+
+I wondered if Fate took my parents away from me so I'd be at St. Matthew when Kaspar's crew visited there so I'd be in Athens when Art wanted to run away from her home. Were we meant to be the renegades.
