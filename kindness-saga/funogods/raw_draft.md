@@ -458,9 +458,11 @@ I smiled and patted her like a playful kitten. She mimicked a cat's movements wi
 
 "The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box—I collected them all back, the broken knight painstakingly glued back together. The verse echoed in my mind. He healeth the broken in heart, and bindeth up their wounds.
 
-"Let me show you something," I invited her to look at the inside of my box. I showed her a collection of cropped newspaper pieces and printed documents; it started with the accident of a couple in Vienna; Rafael and Sophie Weber, my parents. Anything related to the driver who caused the accident. Anything related to the police officers who worked on the case. Anything related to the forensic doctors who worked on the autopsy. A tree of information spanned from the accident. If only I had more information. Art seperated some of them.
+"Let me show you something," I said, opening the box to reveal its hidden contents; a sprawling web of cropped newspaper clippings and printed documents laid before her, tracing back to the tragic accident in Vienna—the deaths of Rafael and Sophie Weber, my parents. Every scrap was meticulously collected: details about the driver, police reports, forensic autopsy notes. An intricate information tree branched out from that single devastating event. If only I had more information.
 
-"I saw a sort of very faint luminance in them," she explained. Pure intuition was her strength. She didn't require any justification. I nodded. She was truly onto something. I knew some information were more important than the others. But I had to keep them all in case I missed something. If only I had access to a computer and internet. I knew I was far from uncovering the truth. Yet with Art on my side, I knew whoever was behind my parents' death stood no chance against us. 
+Art began sorting through the papers, her fingers moving with a purpose. "I see a faint luminance in these documents," she explained, her intuition cutting through the chaos without needing any justification. I nodded, recognizing her unique perception.
+
+She was onto something—I could feel it. While I knew some pieces of information held more weight than others, I couldn't risk discarding anything. If only I had access to a computer, to the internet. I knew I was far from uncovering the truth. Yet with Art on my side, I knew whoever was behind my parents' death stood no chance against us.
 
 "Did the Bible foretell our coming, the coming of the Knights of Kindness?" she asked, her eyes emitting a blend of playfulness and genuine curiosity. I wasn't entirely sure if it was a rhetorical question.
 
@@ -470,10 +472,24 @@ She remarked with a wry smile, "That's why I read Homer instead."
 
 "Did Homer foretell our coming?" I poked her back.
 
-"No," she responded. "Homer didn't foretell anything. Homer isn't the beginning and the end. He created epics to reveal the true forms of shadows. Homer was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers ever could." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
+"No," she responded. "Homer didn't foretell anything. Homer isn't the beginning and the end. He created epics to reveal the true forms of shadows. Homer was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers did." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
 
 "I want to read Homer in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
 
 "You chose Tingxuan to be your master. Learn acrobatics first. Don't disappoint multiple teachers at once." I knew she was still nursing a slight grudge that I'd selected a newcomer as my instructor instead of her. How could someone be simultaneously so mature and so childish? I knew begging would be futile. Just like at St. Matthew, where begging never worked—only fists did. If only I'd known some acrobatic skills back then.
 
 I found myself pondering the intricate threads of Fate. Had some grand design orchestrated my loss, ensuring I was at St. Matthew when Kaspar's crew arrived? That I would be in Athens precisely when Art needed to escape her home? Were we truly meant to be the renegades?
+
+---
+
+## Chapter IX - Strawberry Song [Science]
+
+I never stayed at a place more than a semester. I didn't know what I was looking for. I knew I didn't find anything I was looking for. I made a couple of colleagues in different universities. I jumped from one exchange student program to another. I could join a doctorate program and do research on something anytime but didn't Dr. Alma Kristensen get beaten by radiation anyway? Leaving a trail of breadcrumbs that led nowhere was my intention. If I couldn't identify them, I would distract them despite not knowing who they were.
+
+Atlas University was a beautiful campus in Atlas City, Altaria. I found many interesting trees and plants in the campus. I found my home in Altarian people. They were exactly as friendly as I wanted. Their smiles were warm and everyone was helpful. Nobody cared about my history. For someone who wasn't comfortable with sharing and simulating feelings, I had a feeling that my path to Atlas University was convergent. No matter which different turns I took, I knew I would always ended up here.
+
+Professor Alexei Volkov was a strange man. In fact, wasn't his class, "PL 420: The Ontology of Social Systems" the very reason why I decided to join Atlas University? To be honest, I expected more from his lectures. I always ended up having an argument with him in his class. He was always onto something but never quite right. Yet I genuinely enjoyed being in his class. His awkward gestures made me feel belonged. I knew mom would've liked him. Luna would've liked him, too. Wasn't he the very reason why I found my friend.
+
+I didn't know her name for the first couple weeks. She was the enigamatic girl that was obsessed with strawberry pink; her shirt, her pants, her bag, her umbrella, her books, her pens and her phone cover were all pink. She was even taller than me. She was stronger than me. You would've thought such a masculine girl wouldn't be obsessed with such a soft color if you were used to stereotypes. Since my first glance at her, I knew she was special. If only I knew how to get to know someone.
+
+Everytime I argued with Professor Alexei, she was there to defend him, as if he was incapable of defending himself. I always despised those who defended the authority but I never despised her. Eventually I realized I was the closest to the authority in PL 420 since I was the one who demanded too much philosophical rigor in a normal final year undergrad class.
