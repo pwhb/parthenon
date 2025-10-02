@@ -482,14 +482,44 @@ I found myself pondering the intricate threads of Fate. Had some grand design or
 
 ---
 
-## Chapter IX - Strawberry Song [Science]
+## Chapter IX - Strawberry Song [Science] (raw)
 
-I never stayed at a place more than a semester. I didn't know what I was looking for. I knew I didn't find anything I was looking for. I made a couple of colleagues in different universities. I jumped from one exchange student program to another. I could join a doctorate program and do research on something anytime but didn't Dr. Alma Kristensen get beaten by radiation anyway? Leaving a trail of breadcrumbs that led nowhere was my intention. If I couldn't identify them, I would distract them despite not knowing who they were.
+I never stayed at a place more than a semester. It was something deliberate: a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant research? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
 
-Atlas University was a beautiful campus in Atlas City, Altaria. I found many interesting trees and plants in the campus. I found my home in Altarian people. They were exactly as friendly as I wanted. Their smiles were warm and everyone was helpful. Nobody cared about my history. For someone who wasn't comfortable with sharing and simulating feelings, I had a feeling that my path to Atlas University was convergent. No matter which different turns I took, I knew I would always ended up here.
+Of many different universities I've been to, Atlas University campus, located on the beach of Lago Iluna, was the only where I felt like I belong. Atlas City, the capital of the Serene Republic of Altaria, was a home to an intriguing ecosystem of flora—dendrology was always more predictable than human interactions. Altarian people provided a perfect environment for someone like me. Their smiles were warm yet withered; I never felt comfortable around energetic people. They maintained a balance of detachment and helpfulness—neither intrusive nor indifferent. For someone who struggled to simulate feelings, I sensed this city was in harmony with my emotional frequency. No matter which different turns I took, I knew I would always end up here.
 
-Professor Alexei Volkov was a strange man. In fact, wasn't his class, "PL 420: The Ontology of Social Systems" the very reason why I decided to join Atlas University? To be honest, I expected more from his lectures. I always ended up having an argument with him in his class. He was always onto something but never quite right. Yet I genuinely enjoyed being in his class. His awkward gestures made me feel belonged. I knew mom would've liked him. Luna would've liked him, too. Wasn't he the very reason why I found my friend.
+Professor Alexei Volkov was a strange man. In fact, wasn't his class, "PL 420: The Ontology of Social Systems," the very reason why I decided to join Atlas University? Perhaps I expected too much. His lectures never quite met my rigorous standards. I always ended up having an argument with him in his class. His insight was always onto something but never quite right. Yet I genuinely enjoyed attending his class. His awkward gestures made me feel belonged. I knew mom would've liked him. Luna would've liked him, too. Wasn't he the catalyst that led me to her?
 
-I didn't know her name for the first couple weeks. She was the enigamatic girl that was obsessed with strawberry pink; her shirt, her pants, her bag, her umbrella, her books, her pens and her phone cover were all pink. She was even taller than me. She was stronger than me. You would've thought such a masculine girl wouldn't be obsessed with such a soft color if you were used to stereotypes. Since my first glance at her, I knew she was special. If only I knew how to get to know someone.
+I didn't know her name for the first couple of weeks. She was the enigmatic girl who was apparently obsessed with strawberry pink—every item she owned, from her shirt to her umbrella, from her books to her phone cover, emitting this specific range of wavelengths of light. She was even taller and stronger than me. Even someone as socially clueless as me could notice how people found such a girl with a masculine physique, surrounded by such a soft color, a contradiction to stereotypes. From the first moment I saw her, I sensed she was extraordinary. If only social interactions came as easily to me as analytical thinking.
 
-Everytime I argued with Professor Alexei, she was there to defend him, as if he was incapable of defending himself. I always despised those who defended the authority but I never despised her. Eventually I realized I was the closest to the authority in PL 420 since I was the one who demanded too much philosophical rigor in a normal final year undergrad class.
+Every time I argued with Professor Alexei, she was there to defend him, as if he were incapable of defending himself. I always despised those who defended authority, but I never despised her. Eventually, I realized I was closest to being the authority in PL 420, since I was the one who demanded an unprecedented level of philosophical rigor in a typical final-year undergraduate class.
+
+I found her sitting at the bar on the side of Lago Iluna. Behind her was the golden hour magic of the bleeding sun and its reflection in the lake. Usually I would be studying something in my dorm. I felt like walking that day. I sensed a melancholic dread in her eyes gazing at the waves on the horizon. My social anxiety was pulling me from approaching her. I genuinely had no idea how to start a conversation with her. I knew I wasn't romantically into her no matter how romantic the scene was. I just wanted her to be my friend. I walked towards her slowly. She was lost in her thoughts.
+
+"Hi! Can I take this seat?" I asked awkwardly. It took her a few second to summon her mind. She looked at me and then nodded. I took the seat awkwardly, smiling at her like an idiot. How should I tell her I had no intention to hit on her without sounding like a creep? Should I tell her I wasn't stalking her? My kneels were unnecessarily shaking. It was so awkward. She was gazing at the waves again.
+
+The waitress saved me from this situation I put myself into. I ordered a lemon tea. Sunset in the lake Iluna was beautiful. More beautiful was she who was gazing at the sunset. I felt so embarrassed when she realized I was looking at her.
+
+"What do you want?" she asked bluntly.
+
+"I'm sorry," I apologized, awkwardly, "I'm sorry for acting like a jerk in the class." She nodded in agreement, almost heartlessly.
+
+"I'm sorry... for bothering you if you wanted to enjoy your solitude," I had to continue. She nodded again. I wanted her to tell me it was okay but she didn't. We had a silent moment of pure awkwardness until the waitress brought me a glass of lemon tea. I thanked the waitress.
+
+"I don't know what is wrong with me," I confessed. She nodded again. I wished she didn't. I wished I hadn't been such a jerk in the class.
+
+"My name is Science," I introduced myself. I heard myself screaming in my mind—why did you have to make everything so awkward? I thought I was already used to painful embarrassments. It would have been so nice if she introduced herself but she didn't. She just kept looking at the moving waves. 
+
+"Historically, pink was actually considered a masculine color, a watered-down red—which was, of course, the color of war. Baby boys wore pink. It wasn't until the mid-20th century that marketing folks assigned it to girls," my autism spoke for itself. Why did I say it? I already sounded like a creep, didn't I? I hoped, at least, this clarified that I wasn't trying to hit on her. I had no wit required to save myself from this pit.
+
+"I never wanted to be masculine," she replied, softly, still gazing at the waves. "I hated my body. I hated my look. I just wanted to be a beautiful princess," she continued, "I surrond myself with the color pink because girls look so beautiful in pink. Apparently, I'm not one of them."
+
+"You look beautiful in pink," I replied, without thinking. Yes, I just officially labelled myself as a creep, didn't I? I knew she wouldn't be grateful for it. She must have thought either I was lying or I was trying to make her feel better. How should I explain I meant it genuinely without sounding more like a creep? The awkward silence came back. It lasted for half an hour. The sun eventually drowned in the lake Iluna. Darkness took over the atmosphere. The lamps on the wall were turned on. There was no moon in the sky. I wished Luna was here. She could have helped me escaped this.
+
+"I suppose you wouldn't really want to be a jerk either—just like I never wanted to be a manly girl," she broke the silence. It was my turn to nod.
+
+"I didn't want to do anything with you. I just couldn't help defending someone being humiliated. Professor Alexei is obviously on the spectrum," she explained. So was I. Why didn't she see it?
+
+"I never mean to humiliate anyone. I just couldn't help putting my head where it doesn't belong when I find something unrigorous. I'm on the spectrum myself," I explained.
+
+"Yes. No shit sherlock," she replied. She chugged her pink drink.
