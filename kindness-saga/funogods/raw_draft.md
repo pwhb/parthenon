@@ -238,7 +238,7 @@ I would always be grateful to Luna for bringing me hundreds of books from the li
 
 Luna often offered to take me when she went out with her friends for a change of scenery. I always declined except for the first time. Her friends were really kind, their friendliness creating no pressure, demanding no expectation. Still, I felt perpetually uncomfortable around new people. Luna's parents, despite treating me as their own child, remained strangers to me. I would eat, sleep, read, and retreat—a parasitic ghost inhabiting their home. The guilt of my silence never left me, a constant reminder of my inability to connect.
 
-Luna helped me connect with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one. One day, I realized contacting professors might have been a mistake. As much as it pained me, I had to detach myself from Alma Kristensen's legacy—the nuclear physicist who gave me life. I needed to protect Luna. Invisibility became my shield, the shadows my sanctuary.
+Luna helped me connect with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one. One day, I realized contacting professors might have been a mistake. As much as it pained me, I had to detach myself from Alma Kristensen—the nuclear physicist who gave me life. I needed to protect Luna. Invisibility became my shield, the shadows my sanctuary.
 
 Luna came to my room to give me some books, a routine we'd maintained for years. Seven years had passed since I first arrived at their farmhouse. She was now an assistant professor at my mother's former department. Before I opened my mouth, I sensed she knew this conversation was long coming.
 
@@ -527,3 +527,41 @@ So was I. Why did she have to be so kind to one and so cruel to another?
 "I never mean to humiliate anyone," I replied, "Sometimes I just can't help diving into discussions when something feels intellectually incomplete. I'm also on the spectrum myself."
 
 "No shit, Sherlock," she muttered, but this time the words felt more like a connection than a dismissal. Her pink drink vanished in one swift gulp.
+
+"I'm not the one who you confront with in the class," she said, recalling something, "Why did you apologize to me instead of Professor Alexei?" I supposed she was right.
+
+"I think Professor Alexei wouldn't want me to apologize. The dialogues were Socratic in essence and I believe he appreciates them," I explained.
+
+"Are you saying I was unnecessarily sensitive?" she returned a question.
+
+"Of course, not," I replied immediately, "I'd love someone to help me refine my words, too. Actually were there someone to improve my arguments, our dialogues wouldn't have been that awkward."
+
+"I can't imagine how annoying you would be, hadn't you struggled with social anxiety," she complained. I deserved it.
+
+"Well, welcome to my world. I have to hear my unfiltered thoughts, not restrained by social anxiety, all the time," I confessed.
+
+"I suppose it must be awful," she sounded sympathetic.
+
+"It's."
+
+"My name is Seraphine," she introduced herself, "in case you didn't know already. What kind of a name is Science? I mean no offense but who name their child Science?"
+
+"A scientist mother," I replied, thinking of mom's warm smiles, "She just loves Science so much."
+
+"I'm sorry," she apologized, "I mean it's just weird. Don't you hear the same comment frequently?"
+
+"Actually, no. I'm too socially anxious to introduce myself," I explained, "People rarely get to know my name. At least, apart from those that deal with paperwork. Well, I have my ID to convince them and they don't want to have anything to do with someone like me either."
+
+"I'm sorry for having been rude," she replied, taking back her words, "I mean I chose to do something with you every time I decided to defend Professor Alexei. I understand you never meant to be annoying. I think I was projecting my own self-hatred onto you unnecessarily. I'm sorry about it, too."
+
+"No, it's okay. You don't have to be sorry."
+
+"Do you have a last name?"
+
+"Yes, Science Kristensen. My mom was Alma Kristensen."
+
+"That's why I noticed you had a Scandinavian accent. My name is Seraphine Arthur Clair. My dad was Arthur Arthur Clair. He used to be Professor Alexei' professor. They worked together for a decade."
+
+"It explains why you wanted to defend Professor Alexei," I replied, understanding her intent finally.
+
+"I suppose it does."
