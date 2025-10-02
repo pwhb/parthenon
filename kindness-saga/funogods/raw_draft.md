@@ -420,56 +420,60 @@ And that was how I tricked the great magician Kaspar into taking me in. With a c
 
 ## Chapter VIII - Renegades [Politics] (raw)
 
-"Why do you keep reading the Bible?" Art asked without a hint of worry in her voice. If it were back in St. Matthew, I would have thought of it as a trap move as an invitation to an unnecessary fight. But I knew she didn't mean anything condescending; she was genuinely curious.
+"Why do you keep reading the Bible?" Art asked, without a hint of worry in her voice. In St. Matthew, such a question would have felt like a trap, an invitation to an unnecessary fight. But I knew her now—her curiosity was genuine, free of any hidden malice.
 
-"The same reason why you brought Homer," I answered—sharing the good faith of Sister Cecilia. She nodded.
+"The same reason you brought Homer," I answered—recalling the good faith of Sister Cecilia. She nodded.
 
 "Why do you think I brought Homer?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
 
 "Certain items can work as a connection to something we cherish," I answered patiently.
 
-"Like a magical thread," she muttered. I nodded.
+"Like a magical thread," she muttered. I nodded in silent acknowledgment.
 
-I never asked her why she ran away from home—something I could no longer afford no matter how hard I wished. She explained it to me anyway—perhaps she felt like she owed me an explanation. She knew what she had to do when she saw a luminous thread connected to me. I admired her intuitive understanding that I wouldn't find it strange or skeptical.
+I never asked her why she ran away from her home—a luxury I could no longer afford, no matter how desperately I wished. Yet she explained it to me anyway—perhaps she felt like she owed me an explanation. She knew exactly what she had to do once she saw a luminous thread connected to me. I admired her intuitive understanding, how she knew I wouldn't find her perception strange or meet it with skepticism.
 
-She had become the most magical part of "Kaspar's Traveling Illusions". The crew had been more like a home to me since she joined us. She was a family to me, even more than Sister Cecilia was. My parents might not have lost their lives if they were half as clever as her. Mom would have loved her. Dad would have feared her. As the blood of both, I loved her and feared her simultaneously. 
+She had become the most magical element of "Kaspar's Traveling Illusions". Since her arrival, the crew felt more like home than ever before. She was family to me—more so than even Sister Cecilia. My parents might have survived if they possessed half her cleverness. Mom would have adored her; Dad would have feared her. Inheriting both their spirits, I simultaneously loved and feared her.
 
-I was the only one that called her Art; everyone else called her Acanthia. Nobody saw through her magic tricks the way I did. She was just a singer after all. Her voice was her magic to everyone. While I worked as an apprentice to the Engineer, she worked as an apprentice to the Soubrette, Kaspar's partner. A part of me knew she'd be a better apprentice to the Engineer than I was. How effortlessly she could forge documents never failed to surprise me. She was a even better magician than Kaspar, seeing how she pulled documents proving she was Acanthia Andriades out of nowhere.
+I was the only one who called her Art; to everyone else, she was Acanthia. Nobody could see through her magic tricks as I could. To the world, she was just a singer, her voice her sole magical instrument. While I worked as an apprentice to the Engineer, she worked alongside the Soubrette, Kaspar's partner. A part of me knew she would have been a superior apprentice to the Engineer. Her ability to forge documents effortlessly never failed to amaze me. She was even a greater magician than Kaspar—how else could she summon documents proving her identity as Acanthia Andriades out of thin air?
 
-"Grrraaaaawwwwrrrr," she roared, wearing the Tiger mask of Tingxuan. Tingxuan was the Chinese acrobat that joined us recently. I've been learning basic acrobatic skills from her.
+"Grrraaaaawwwwrrrr," she roared, wearing the Tiger mask of Tingxuan. Tingxuan, the Chinese acrobat who had recently joined our crew, had been teaching me basic acrobatic skills.
 
-I smiled and patted her like a little cat. She acted like a cat with her hands. We laughed. On the tent canvas was the shadow of the Tiger mask. I suddenly recognized the serious look on her face.
+I smiled and patted her like a playful kitten. She mimicked a cat's movements with her hands, and we dissolved into laughter. The shadow of the Tiger mask was cast on the tent canvas. Suddenly, her playful demeanor shifted, and I recognized the serious look that replaced her earlier worry-free eyes.
 
-"Polis, do you think my parents was right? How they interpreted Mr. David's diagnosis..." she asked. I always knew it wasn't without regrets that she left her home.
+"Polis, do you think my parents were right? How they interpreted Mr. David's diagnosis..." she asked. I always knew it wasn't without regrets that she left her home.
 
 "Father Gabriel said the same truth could manifest in more than one interpretation," I explained, "you can see different shadows of the same mask depending on the angle of light."
 
-"Did you just explained Plato's cave to an Athenian?" she said. I smiled, admitting she got me.
+"Did you just explained Plato's cave to an Athenian?" she replied. I smiled, admitting she got me.
 
-"You would see the same shadow from different forms like a cone and a coin if you put them in a specific angle," I elaborated. She nodded.
+"You would see the same shadow from different forms—like a cone and a coin—when placed at a specific angle," I elaborated. She nodded.
 
-"So I might really suffer from the mental condition my parents think I do. It just doesn't mean my sense of perception isn't reliable," she went on. I nodded.
+"So I might actually have the mental condition my parents diagnosed. But that doesn't mean my perception isn't reliable," she continued. I nodded in agreement.
 
-"Shadows are sometimes the only things we get to witness," I continued. I saw a biblical imagery in my mind again. Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+"Shadows are sometimes the only glimpse of truth we're allowed to witness," I responded. A biblical imagery flickered in my mind. Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
 
-"Why I keep reading the Bible," I started a new thread of thoughts, "is more than as a connection to the memory of Sister Cecilia. It was something far more dark and devious. I saw those that took my parents away in the Bible. Not exactly the specific people responsible for my parents' death. Rather the true entities whose casted shadows were the puppets that caused the accident. I recognized their original forms in the Horsemen. The ones that bullied me in St. Matthew worshipped the same Horsemen. I'd suspect your parents' mistreatment was also rooted in the shadows of the Horsemen."
+"Why I keep reading the Bible," I started a new thread of thoughts, "is more than a connection to Sister Cecilia's memory. It's something darker and more dubious. In its pages, I saw those that took my parents away. Not exactly the specific people responsible, but the entities whose shadows were the puppets that pulled the strings connected to the accident. I recognized their true forms in the Horsemen. The bullies at St. Matthew seemed to worship these same spectral forces. I suspect even your parents' misunderstanding was rooted in these shadowy influences."
 
-"I'll join in your crusade," Art promised. She knew she was my family. She was as much my comrade as my parents were. I could see she was trying to come up with something.
+"I'll join in your crusade," Art promised. Her declaration was an act of acknowledging our shared bond. She knew she was my family now, as much a comrade as my parents had ever been. I could see her mind already in progress of crafting something meaningful.
 
-"The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box. I still had all the pieces; the broken knight was glued. He healeth the broken in heart, and bindeth up their wounds.
+"The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box—I collected them all back, the broken knight painstakingly glued back together. The verse echoed in my mind. He healeth the broken in heart, and bindeth up their wounds.
 
-"Did the Bible foretell our coming, the coming of the Knights of Kindness?" she said, looking at me. I wasn't sure if it was a rhetorical question. I shook my head.
+"Let me show you something," I invited her to look at the inside of my box. I showed her a collection of cropped newspaper pieces and printed documents; it started with the accident of a couple in Vienna; Rafael and Sophie Weber, my parents. Anything related to the driver who caused the accident. Anything related to the police officers who worked on the case. Anything related to the forensic doctors who worked on the autopsy. A tree of information spanned from the accident. If only I had more information. Art seperated some of them.
 
-"Knighthood didn't exist by the time the Bible was written." I explained.
+"I saw a sort of very faint luminance in them," she explained. Pure intuition was her strength. She didn't require any justification. I nodded. She was truly onto something. I knew some information were more important than the others. But I had to keep them all in case I missed something. If only I had access to a computer and internet. I knew I was far from uncovering the truth. Yet with Art on my side, I knew whoever was behind my parents' death stood no chance against us. 
 
-She remarked, "that's why I read Homer instead."
+"Did the Bible foretell our coming, the coming of the Knights of Kindness?" she asked, her eyes emitting a blend of playfulness and genuine curiosity. I wasn't entirely sure if it was a rhetorical question.
+
+I shook my head. "Knighthood didn't exist by the time the Bible was written."
+
+She remarked with a wry smile, "That's why I read Homer instead."
 
 "Did Homer foretell our coming?" I poked her back.
 
-"No. Homer didn't foretell anything. Homer isn't the beginning and the end. Homer came up with the epics to show us the true forms of the shadows. Homer was a better therapist than Mr. David. Homer explained the nature of humanity better than the Bible writers do." For someone that was swiming in whimsical realm, she could be very realistic sometimes. I nodded.
+"No," she responded. "Homer didn't foretell anything. Homer isn't the beginning and the end. He created epics to reveal the true forms of shadows. Homer was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers ever could." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
 
-"I want to read Homer in the original language. Teach me Greek," I requested again. I only knew a few Greek words. She shook her head.
+"I want to read Homer in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
 
-"You chose Tingxuan to be your master. Learn acrobat first. Don't disappoint many teachers at the same time." I knew she never got over the fact that I decided to learn from a newcomer rather than her. How could one be so mature and immature simultaneously? I knew begging her wouldn't work. I recalled the violent children at St. Matthew. Begging never worked with them either. Fists did. If only I knew some acrobatic back then.
+"You chose Tingxuan to be your master. Learn acrobatics first. Don't disappoint multiple teachers at once." I knew she was still nursing a slight grudge that I'd selected a newcomer as my instructor instead of her. How could someone be simultaneously so mature and so childish? I knew begging would be futile. Just like at St. Matthew, where begging never worked—only fists did. If only I'd known some acrobatic skills back then.
 
-I wondered if Fate took my parents away from me so I'd be at St. Matthew when Kaspar's crew visited there so I'd be in Athens when Art wanted to run away from her home. Were we meant to be the renegades.
+I found myself pondering the intricate threads of Fate. Had some grand design orchestrated my loss, ensuring I was at St. Matthew when Kaspar's crew arrived? That I would be in Athens precisely when Art needed to escape her home? Were we truly meant to be the renegades?
