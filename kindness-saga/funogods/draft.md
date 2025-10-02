@@ -2,11 +2,11 @@
 
 ## Chapter I - Stationary Action [Science]
 
-"Oh my sweet Science, did you just derive Hamilton's Principle," mom said, looking at the whiteboard.
+"Oh my precious Science, did you just derive Hamilton's Principle," mom said, looking at the whiteboard.
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
-I felt relieved. I got somewhere finally without getting entangled in specific details. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But aren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
+I felt relieved. I got somewhere finally without getting entangled in specific details. I wasn't pursuing physics like mom; she was a nuclear physicist working at the University of Copenhagen. I was more drawn to the pure beauty of mathematical abstraction. Physics was her passion; mathematics was mine. While she saw the beauty in theoretical predictions and experimental verifications, I was captivated by the elegant magic of describing the universe through pure abstraction. But weren't we approaching the same truth from different sides? Isn't it the beauty of Science, anyway?
 
 "Will you have your dinner now, my baby Science? I made your favourite dish." I could never fully express how much I loved mom. She knew I wouldn't have dinner without getting somewhere. I almost forgot how hungry I was.
 
@@ -14,7 +14,7 @@ Mom called me Science. It was what she loved most in the entire universe. I beli
 
 I had to bring a textbook to the dinner table. I couldn't wait to compare my derivation with the textbooks. Mom mentioned the exact chapter I needed to look up. I could swear these mathematical symbols danced with an ethereal luminescence before my eyes. I realized I had traced the same beautiful mathematical path others had walked before me. The joy wasn't in being first, but in understanding the universal language that explains the universe.
 
-I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remember she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
+I remembered how happy mom was when I was more curious about how the ball moved when you threw it rather than playing with it. "Mom, does that boy know how to catch the ball because he can predict its route from the initial configuration?" I remembered she laughed. She gave me Euclid's Elements for my 7th birthday. It was still my favorite book of all time. She taught me physics before I knew who I was. But there was always this skepticism that made me hesitant to intuitively accept physical laws for granted. Why was light refracted this way instead of all the other possible paths? I realized now I understood these phenomena in the most abstract sense human science can explain.
 
 I spent a few more weeks deriving all the other physics principles I knew from one universal principle I just rediscovered; that of stationary action. One day, I decided to send an email to Luna on mom's computer. Before I talked about Luna, I needed to talk about mom's secret work, or at least what I call her secret work. I always hated when mom had to travel to work with her physicist colleagues from Santandería. She often brought me to university conferences, but these foreign colleagues remained a mysterious presence, always kept at a distance from my little world. I never nagged her to take me with her though.
 
@@ -56,7 +56,7 @@ I was stunned by their question. How could they possibly doubt the victim? I've 
 
 The girl looked at me apologetically. She had convinced the teachers it was just an accident. I didn't blame her. It made perfect sense to not expect justice from such teachers. It was clever of her to avoid making her bullies hate her more than they already did. If only it would stop them from bullying her again.
 
-I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories. I wished it was the end of the story but it wasn't.
+I would never forget their mocking eyes. The shameless teachers not only failed to recognize their moral bankruptcy but also told my parents I was fabricating stories. I wished that were the end of the story, but it wasn't.
 
 "Aria, what's your favourite on the bookshelf?" Mr. David Lysandra asked.
 
@@ -194,7 +194,7 @@ I remember the tender look in mom's eyes when I questioned the pawn's fate—con
 
 What I found most interesting in chess is stalemate. I hated sacrificing pieces. I hated exchanging pieces as if there were a mysterious formula to calculate their values. I hated cornering someone. I hated being cornered. I hated checkmates more than the others. A stalemate is something as bold as Diogenes telling Alexander to stand out of the sun.
 
-My dad used to hate it when I decided to resign too early until I explained to him how I knew I was already lost. Sometimes he was surprised that even he didn't see he was winning himself. I could never quite tell if his surprise was genuine or carefully calculated. He said even though I had very little knowledge of chess opening strategies, my tactical insight surpassed his already because I could see through his moves even better than himself. He must have made a lot of effort to hide it when he was intentionally making a suboptimal move. We kind of invented a new rule; I would win if I could tell he intentionally made a suboptimal move so we could finish dishonest games where he wanted to balance the odds fast and prolong honest exhausting games. Of course it would only work if he wouldn't lie. I never saw my parents lied to me; not just me, they never lied to anyone. But I noticed my dad often pretended to be clueless. I was too young to understand it was a tactical necessity sometimes.
+My dad used to hate it when I decided to resign too early until I explained to him how I knew I was already lost. Sometimes he was surprised that even he didn't see he was winning himself. I could never quite tell if his surprise was genuine or carefully calculated. He said even though I had very little knowledge of chess opening strategies, my tactical insight surpassed his already because I could see through his moves even better than himself. He must have made a lot of effort to hide it when he was intentionally making a suboptimal move. We kind of invented a new rule; I would win if I could tell he intentionally made a suboptimal move so we could finish dishonest games where he wanted to balance the odds fast and prolong honest exhausting games. Of course it would only work if he wouldn't lie. I never saw my parents lie to me; not just me, they never lied to anyone. But I noticed my dad often pretended to be clueless. I was too young to understand it was a tactical necessity sometimes.
 
 Mom would never pretend. She was the most innocent soul I'd ever known—until I would later meet her who matched mom's pure spirit. Mom was a computer scientist. She introduced me to programming long before I could fully learn to write in a natural language. Together, we programmed a simplified version of chess—a 6x6 board with just 5 pawns, and 2 knights on each side. Oh, how much my dad hated that game. It was where I could beat him without him having to make subtle bad moves. He could try his best and I'd either win or draw. I was only trying to stalemate. He simply failed to avoid mistakes. Even though he never admitted it, I knew he found that very frustrating.
 
@@ -238,7 +238,7 @@ I would always be grateful to Luna for bringing me hundreds of books from the li
 
 Luna often offered to take me when she went out with her friends for a change of scenery. I always declined except for the first time. Her friends were really kind, their friendliness creating no pressure, demanding no expectation. Still, I felt perpetually uncomfortable around new people. Luna's parents, despite treating me as their own child, remained strangers to me. I would eat, sleep, read, and retreat—a parasitic ghost inhabiting their home. The guilt of my silence never left me, a constant reminder of my inability to connect.
 
-Luna helped me connect with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one. One day, I realized contacting professors might have been a mistake. As much as it pained me, I had to detach myself from Alma Kristensen's legacy—the nuclear physicist who gave me life. I needed to protect Luna. Invisibility became my shield, the shadows my sanctuary.
+Luna helped me connect with incredible professors from universities worldwide. Scholarships were just an application away. I didn't know why I never submitted one. One day, I realized contacting professors might have been a mistake. As much as it pained me, I had to detach myself from Alma Kristensen—the nuclear physicist who gave me life. I needed to protect Luna. Invisibility became my shield, the shadows my sanctuary.
 
 Luna came to my room to give me some books, a routine we'd maintained for years. Seven years had passed since I first arrived at their farmhouse. She was now an assistant professor at my mother's former department. Before I opened my mouth, I sensed she knew this conversation was long coming.
 
@@ -294,7 +294,7 @@ I had a panic attack again. I prayed for guidance from the souls of my parents. 
 
 It got louder and louder. They were throwing the pieces harder and harder. Other children stirred but remained in their beds, paralyzed by fear. I gathered each piece, ignoring the blood, hoping they would exhaust their malice eventually. I told myself everything would be okay. All I had to do was to give the chess set to Sister Cecilia afterward for safekeeping. It would be over soon.
 
-They got what they wanted when the knight piece struck the wall. I knew the sound was different. I ran to find the piece under the bed; the nose of the knight broken. The white horse piece looked dark and bloody in my hand. I knew I promised Sister Cecilia it wouldn't happen again. I knew I would be beaten again if I fought back. I knew it wouldn't fix the broken chess piece.
+They got what they wanted when the knight piece struck the wall. I knew the sound was different. I ran to find the piece under the bed; the tip of the knight broken. The white horse piece looked dark and bloody in my hand. I knew I promised Sister Cecilia it wouldn't happen again. I knew I would be beaten again if I fought back. I knew it wouldn't fix the broken chess piece.
 
 But in that moment, War on his Red Horse, consumed me completely. I ran towards them, keeping my bloody fists tight in a declaration of resistance.
 
@@ -419,3 +419,151 @@ And that was how I tricked the great magician Kaspar into taking me in. With a c
 ---
 
 ## Chapter VIII - Renegades [Politics]
+
+"Why do you keep reading the Bible?" Art asked, without a hint of worry in her voice. In St. Matthew, such a question would have felt like a trap, an invitation to an unnecessary fight. But I knew her now—her curiosity was genuine, free of any hidden malice.
+
+"The same reason you brought Homer," I answered—recalling the good faith of Sister Cecilia. She nodded.
+
+"Why do you think I brought Homer?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
+
+"Certain items can work as a connection to something we cherish," I answered patiently.
+
+"Like a magical thread," she muttered. I nodded in silent acknowledgment.
+
+I never asked her why she ran away from her home—a luxury I could no longer afford, no matter how desperately I wished. Yet she explained it to me anyway—perhaps she felt like she owed me an explanation. She knew exactly what she had to do once she saw a luminous thread connected to me. I admired her intuitive understanding, how she knew I wouldn't find her perception strange or meet it with skepticism.
+
+She had become the most magical element of "Kaspar's Traveling Illusions". Since her arrival, the crew felt more like home than ever before. She was family to me—more so than even Sister Cecilia. My parents might have survived if they possessed half her cleverness. Mom would have adored her; Dad would have feared her. Inheriting both their spirits, I simultaneously loved and feared her.
+
+I was the only one who called her Art; to everyone else, she was Acanthia. Nobody could see through her magic tricks as I could. To the world, she was just a singer, her voice her sole magical instrument. While I worked as an apprentice to the Engineer, she worked alongside the Soubrette, Kaspar's partner. A part of me knew she would have been a superior apprentice to the Engineer. Her ability to forge documents effortlessly never failed to amaze me. She was even a greater magician than Kaspar—how else could she summon documents proving her identity as Acanthia Andriades out of thin air?
+
+"Grrraaaaawwwwrrrr," she roared, wearing the Tiger mask of Tingxuan. Tingxuan, the Chinese acrobat who had recently joined our crew, had been teaching me basic acrobatic skills.
+
+I smiled and patted her like a playful kitten. She mimicked a cat's movements with her hands, and we dissolved into laughter. The shadow of the Tiger mask was cast on the tent canvas. Suddenly, her playful demeanor shifted, and I recognized the serious look that replaced her earlier worry-free eyes.
+
+"Polis, do you think my parents were right? How they interpreted Mr. David's diagnosis..." she asked. I always knew it wasn't without regrets that she left her home.
+
+"Father Gabriel said the same truth could manifest in more than one interpretation," I explained, "you can see different shadows of the same mask depending on the angle of light."
+
+"Did you just explained Plato's cave to an Athenian?" she replied. I smiled, admitting she got me.
+
+"You would see the same shadow from different forms—like a cone and a coin—when placed at a specific angle," I elaborated. She nodded.
+
+"So I might actually have the mental condition my parents diagnosed. But that doesn't mean my perception isn't reliable," she continued. I nodded in agreement.
+
+"Shadows are sometimes the only glimpse of truth we're allowed to witness," I responded. A biblical imagery flickered in my mind. Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+
+"Why I keep reading the Bible," I started a new thread of thoughts, "is more than a connection to Sister Cecilia's memory. It's something darker and more dubious. In its pages, I saw those that took my parents away. Not exactly the specific people responsible, but the entities whose shadows were the puppets that pulled the strings connected to the accident. I recognized their true forms in the Horsemen. The bullies at St. Matthew seemed to worship these same spectral forces. I suspect even your parents' misunderstanding was rooted in these shadowy influences."
+
+"I'll join in your crusade," Art promised. Her declaration was an act of acknowledging our shared bond. She knew she was my family now, as much a comrade as my parents had ever been. I could see her mind already in progress of crafting something meaningful.
+
+"The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box—I collected them all back, the broken knight painstakingly glued back together. The verse echoed in my mind. He healeth the broken in heart, and bindeth up their wounds.
+
+"Let me show you something," I said, opening the box to reveal its hidden contents; a sprawling web of cropped newspaper clippings and printed documents laid before her, tracing back to the tragic accident in Vienna—the deaths of Rafael and Sophie Weber, my parents. Every scrap was meticulously collected: details about the driver, police reports, forensic autopsy notes. An intricate information tree branched out from that single devastating event. If only I had more information.
+
+Art began sorting through the papers, her fingers moving with a purpose. "I see a faint luminance in these documents," she explained, her intuition cutting through the chaos without needing any justification. I nodded, recognizing her unique perception.
+
+She was onto something—I could feel it. While I knew some pieces of information held more weight than others, I couldn't risk discarding anything. If only I had access to a computer, to the internet. I knew I was far from uncovering the truth. Yet with Art on my side, I knew whoever was behind my parents' death stood no chance against us.
+
+"Did the Bible foretell our coming, the coming of the Knights of Kindness?" she asked, her eyes emitting a blend of playfulness and genuine curiosity. I wasn't entirely sure if it was a rhetorical question.
+
+I shook my head. "Knighthood didn't exist by the time the Bible was written."
+
+She remarked with a wry smile, "That's why I read Homer instead."
+
+"Did Homer foretell our coming?" I poked her back.
+
+"No," she responded. "Homer didn't foretell anything. Homer isn't the beginning and the end. He created epics to reveal the true forms of shadows. Homer was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers did." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
+
+"I want to read Homer in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
+
+"You chose Tingxuan to be your master. Learn acrobatics first. Don't disappoint multiple teachers at once." I knew she was still nursing a slight grudge that I'd selected a newcomer as my instructor instead of her. How could someone be simultaneously so mature and so childish? I knew begging would be futile. Just like at St. Matthew, where begging never worked—only fists did. If only I'd known some acrobatic skills back then.
+
+I found myself pondering the intricate threads of Fate. Had some grand design orchestrated my loss, ensuring I was at St. Matthew when Kaspar's crew arrived? That I would be in Athens precisely when Art needed to escape her home? Were we truly meant to be the renegades?
+
+---
+
+## Chapter IX - Strawberry Song [Science] (raw)
+
+I never stayed at a place more than a semester. It was something deliberate; a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant work? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
+
+Of many different universities I've been to, Atlas University campus, located on the western beach of Lago Iluna, was the only where I felt like I belong. Atlas City, the capital of the Serene Republic of Altaria, was a home to an intriguing ecosystem of flora—dendrology was always more predictable than human interactions. Altarian people provided a perfect environment for someone like me. Their smiles were warm yet withered; I never felt comfortable around energetic people. They maintained a sweet balance of detachment and helpfulness—neither intrusive nor indifferent. For someone who struggled to simulate feelings, I sensed this city was in harmony with my emotional frequency. No matter which different turns I took, I knew I would always end up here.
+
+Professor Alexei Volkov was a strange man. In fact, wasn't his class, "PL 420: The Ontology of Social Systems," the very reason why I decided to join Atlas University? Perhaps I expected too much. His lectures never quite met my rigorous standards. I always ended up having an argument with him in his class. His insight was always onto something but never quite right. Yet I genuinely enjoyed attending his class. His awkward gestures made me feel belonged. I knew mom would've liked him. Luna would've liked him, too. Wasn't he the catalyst that led me to her?
+
+I didn't know her name for the first couple of weeks. She was the enigmatic girl who was apparently obsessed with strawberry pink—every item she owned, from her shirt to her umbrella, from her books to her phone cover, emitting this specific range of wavelengths of light, that we called pink. She was even taller and stronger than me. Even someone as socially clueless as me could notice how people found such a girl with a masculine physique, surrounded by such a soft color, a contradiction to stereotypes. From the first moment I saw her, I sensed she was extraordinary. If only social interactions came as easily to me as analytical thinking.
+
+Every time I argued with Professor Alexei, she was there to defend him, as if he were incapable of defending himself. I always despised those who defended authority, but I never despised her. Eventually, I realized I was closest to being the authority in PL 420, since I was the one who demanded an unprecedented level of philosophical rigor in a typical final-year undergraduate class.
+
+Walking around Lake Iluna, I found her sitting at the bar overlooking the lake. Behind her, the golden hour magic painted the sky, the bleeding sun casting its reflection across the lake's surface. Typically, I would have been studying in my dorm, but something—perhaps an inexplicable impulse—had drawn me out that day. In her eyes, fixed on the distant horizon, I sensed a melancholic dread that mirrored my own.
+
+My social anxiety threatened to paralyze me again, creating an invisible field of barrier. I genuinely had no idea how to start a conversation. Despite the cinematically romantic scene, I knew my intentions were purely platonic—I simply wanted to be a friend. Cautiously, I approached the table, fully aware of my shy and clumsy steps. The sunset transformed Lake Iluna into a canvas of molten gold, but my focus was entirely on not tripping. She remained absorbed in her thoughts, seemingly unaware of my approach.
+
+"This seat taken?" The words came out more abrupt than intended.
+
+A few seconds passed before she glanced up. I noticed her pink umbrella casting a soft glow. A brief nod—invitation or dismissal, I couldn't tell. I sat, acutely aware of my friendly smile likely appearing more like a grimace. Internally, I was spiraling—how could I explain my purely platonic intentions without sounding predatory? My knees trembled while my heart was pumping fast. Mercifully, she returned her attention to the waves, sparing me from my own awkwardness.
+
+The waitress arrived like a savior, temporarily giving a break to my anxiety. I ordered a lemon tea, grateful for the momentary distraction. The sunset over Lake Iluna was breathtaking—a canvas of gold and crimson. Yet, somehow, her silhouette against that backdrop seemed more pleasantly breathtaking. The moment our eyes met, my embarrassment peaked.
+
+"What do you want?" she asked bluntly.
+
+"I'm sorry," I apologized, in a trembling voice , "I'm sorry for acting like a jerk in the class." She nodded in agreement, almost heartlessly.
+
+"I'm sorry... if I'm interrupting your moment of solitude," I added, my fingers nervously tracing the table corner. She nodded again. I wanted her to tell me it was okay but she didn't. We had a silent moment of pure awkwardness until the waitress brought me a glass of lemon tea. I thanked the waitress.
+
+"I don't know what's wrong with me," I muttered, more to myself than to her. She nodded again. I wished she didn't. I wished I hadn't been such a jerk in the class.
+
+"My name is Science," I introduced myself, then immediately regretted the abruptness. Why did I have to make everything so awkward? I thought I was already used to painful embarrassments. It would have been so nice if she introduced herself but she didn't. She just kept looking at the moving waves.
+
+Desperate to fill the silence, the historical trivia bubbled up before I could stop myself. "Did you know pink was originally a masculine color? It was considered a watered-down red—the color of war. Baby boys used to wear pink before marketing changed everything," my autism spoke for itself. Why did I say it? I already sounded like a creep, didn't I? I hoped, at least, this clarified that I wasn't trying to hit on her. I had no wit required to save myself from this pit.
+
+"I never wanted to be masculine," she said softly, her gaze still fixed on the waves. "I hated my body. I hated how I looked. I just wanted to be a beautiful princess." A pause. "I surround myself with pink because girls look so beautiful in it. But apparently, I'm not one of them."
+
+"You look beautiful in pink," slipped out before I could filter my thoughts. Immediately, I wanted to disappear. Yes, I just officially labelled myself as a creep, didn't I? I knew she wouldn't be grateful for it. She must have thought either I was lying or I assumed she was baiting for a compliment. How should I explain I meant it genuinely without sounding more like a creep? The awkward silence came back. The sun sank into Lake Iluna, darkness spreading like ink. Streetlamps flickered to life, casting soft shadows. There was no moon in the sky. I wished Luna was here to navigate this social minefield.
+
+"I suppose you wouldn't really want to be a jerk either—just like I never wanted to be a manly girl," she said, breaking the silence with an unexpected note of vulnerability. It was my turn to nod.
+
+"I didn't want to do anything with you," she continued. "I just couldn't help defending Professor Alexei. He's obviously on the spectrum—someone needed to stand up for him."
+
+So was I. Why did she have to be so kind to one and so cruel to another?
+
+"I never mean to humiliate anyone," I replied, "Sometimes I just can't help diving into discussions when something feels intellectually incomplete. I'm also on the spectrum myself."
+
+"No shit, Sherlock," she muttered, but this time the words felt more like a connection than a dismissal. Her pink drink vanished in one swift gulp.
+
+"I'm not the one you confronted in class," she said, with a hint of recollection in her voice. "Why did you apologize to me instead of Professor Alexei?"
+
+"I believe Professor Alexei would appreciate our dialogues," I explained. "They were Socratic in essence"
+
+"Are you saying I was unnecessarily sensitive?" she challenged. Even I wouldn't miss her eyebrows.
+
+"Not at all," I replied immediately. "I'd welcome someone helping me refine my arguments. In fact, constructive feedback made our dialogues less... awkward."
+
+"I can't imagine how insufferable you'd be without social anxiety," she complained. I deserved it.
+
+"Welcome to my internal monologue," I confessed with a slight, self-deprecating smile. "Unfiltered thoughts, unrestrained by social frictions."
+
+"I suppose it must be exhausting," she said, her tone softening with an unexpected sympathy. I nodded.
+
+"My name is Seraphine," she introduced herself, and then continued with a hint of challenge in her tone. "What kind of name is Science? I mean no offense, but who names their child Science?"
+
+"A scientist who loved her work more than anything else," I replied, a memory of my mother's heart-warming smile crossing my mind.
+
+"I'm sorry," she backtracked, "I didn't mean to be insensitive. It's just... unusual."
+
+"Actually, most people never learn my name," I explained. "Social anxiety ensures I rarely introduce myself. Even paperwork interactions are minimal—I have my ID anyway, don't I? Nobody usually want anything to do with someone like me either."
+
+"I'm sorry for being rude," she apologized. I felt her earlier defensiveness melting away. "I suppose I was projecting my own insecurities onto you. I understand you never meant to be difficult."
+
+"It's okay," I assured her, sensing a tender shift in our interaction.
+
+"Do you have a last name?" she asked, with a hint of invitation for a genuine friendship.
+
+"Science Kristensen," I replied. "My mother was Alma Kristensen."
+
+"Ah, that explains the Scandinavian accent," she nodded. "I'm Seraphine Clair. My father, Arthur Clair, used to be Professor Alexei's mentor. They worked together for a decade."
+
+"That explains your dedication to defending him," I said, finally understanding the deeper context.
+
+"I suppose it does," she agreed, with a subtle smile that finally made me feel comfortable.
+
+I realized sometimes you would have to touch the grass for the beginning of a beautiful friendship, that no books could offer. I believed the stars in the moonless sky smiled upon us.

@@ -2,7 +2,7 @@
 
 ## Chapter I - Stationary Action [Science] (smooth)
 
-"Oh my sweet Science, did you just derive Hamilton's Principle," mom said, looking at the whiteboard.
+"Oh my precious Science, did you just derive Hamilton's Principle," mom said, looking at the whiteboard.
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
@@ -484,27 +484,29 @@ I found myself pondering the intricate threads of Fate. Had some grand design or
 
 ## Chapter IX - Strawberry Song [Science] (raw)
 
-I never stayed at a place more than a semester. It was something deliberate: a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant research? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
+I never stayed at a place more than a semester. It was something deliberate; a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant work? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
 
-Of many different universities I've been to, Atlas University campus, located on the beach of Lago Iluna, was the only where I felt like I belong. Atlas City, the capital of the Serene Republic of Altaria, was a home to an intriguing ecosystem of flora—dendrology was always more predictable than human interactions. Altarian people provided a perfect environment for someone like me. Their smiles were warm yet withered; I never felt comfortable around energetic people. They maintained a balance of detachment and helpfulness—neither intrusive nor indifferent. For someone who struggled to simulate feelings, I sensed this city was in harmony with my emotional frequency. No matter which different turns I took, I knew I would always end up here.
+Of many different universities I've been to, Atlas University campus, located on the western beach of Lago Iluna, was the only where I felt like I belong. Atlas City, the capital of the Serene Republic of Altaria, was a home to an intriguing ecosystem of flora—dendrology was always more predictable than human interactions. Altarian people provided a perfect environment for someone like me. Their smiles were warm yet withered; I never felt comfortable around energetic people. They maintained a sweet balance of detachment and helpfulness—neither intrusive nor indifferent. For someone who struggled to simulate feelings, I sensed this city was in harmony with my emotional frequency. No matter which different turns I took, I knew I would always end up here.
 
 Professor Alexei Volkov was a strange man. In fact, wasn't his class, "PL 420: The Ontology of Social Systems," the very reason why I decided to join Atlas University? Perhaps I expected too much. His lectures never quite met my rigorous standards. I always ended up having an argument with him in his class. His insight was always onto something but never quite right. Yet I genuinely enjoyed attending his class. His awkward gestures made me feel belonged. I knew mom would've liked him. Luna would've liked him, too. Wasn't he the catalyst that led me to her?
 
-I didn't know her name for the first couple of weeks. She was the enigmatic girl who was apparently obsessed with strawberry pink—every item she owned, from her shirt to her umbrella, from her books to her phone cover, emitting this specific range of wavelengths of light. She was even taller and stronger than me. Even someone as socially clueless as me could notice how people found such a girl with a masculine physique, surrounded by such a soft color, a contradiction to stereotypes. From the first moment I saw her, I sensed she was extraordinary. If only social interactions came as easily to me as analytical thinking.
+I didn't know her name for the first couple of weeks. She was the enigmatic girl who was apparently obsessed with strawberry pink—every item she owned, from her shirt to her umbrella, from her books to her phone cover, emitting this specific range of wavelengths of light, that we called pink. She was even taller and stronger than me. Even someone as socially clueless as me could notice how people found such a girl with a masculine physique, surrounded by such a soft color, a contradiction to stereotypes. From the first moment I saw her, I sensed she was extraordinary. If only social interactions came as easily to me as analytical thinking.
 
 Every time I argued with Professor Alexei, she was there to defend him, as if he were incapable of defending himself. I always despised those who defended authority, but I never despised her. Eventually, I realized I was closest to being the authority in PL 420, since I was the one who demanded an unprecedented level of philosophical rigor in a typical final-year undergraduate class.
 
 Walking around Lake Iluna, I found her sitting at the bar overlooking the lake. Behind her, the golden hour magic painted the sky, the bleeding sun casting its reflection across the lake's surface. Typically, I would have been studying in my dorm, but something—perhaps an inexplicable impulse—had drawn me out that day. In her eyes, fixed on the distant horizon, I sensed a melancholic dread that mirrored my own.
 
-My social anxiety threatened to paralyze me again, creating an invisible field of barrier. I genuinely had no idea how to start a conversation. Despite the cinematically romantic scene, I knew my intentions were purely platonic—I simply wanted to be a friend. Cautiously, I approached with each step shy and clumsy. She remained absorbed in her thoughts, seemingly unaware of my approach.
+My social anxiety threatened to paralyze me again, creating an invisible field of barrier. I genuinely had no idea how to start a conversation. Despite the cinematically romantic scene, I knew my intentions were purely platonic—I simply wanted to be a friend. Cautiously, I approached the table, fully aware of my shy and clumsy steps. The sunset transformed Lake Iluna into a canvas of molten gold, but my focus was entirely on not tripping. She remained absorbed in her thoughts, seemingly unaware of my approach.
 
-"Hi! Can I take this seat?" I asked, feeling an overwhelming nervousness. A few seconds passed before she seemed to notice my presence. Her gaze shifted, meeting mine briefly before a slight nod. I sat down, my attempt at a friendly smile likely appearing more like a grimace. Internally, I was spiraling—how could I explain my purely platonic intentions without sounding predatory? My knees trembled while my heart was pumping fast. Mercifully, she returned her attention to the waves, sparing me from my own awkwardness.
+"This seat taken?" The words came out more abrupt than intended.
+
+A few seconds passed before she glanced up. I noticed her pink umbrella casting a soft glow. A brief nod—invitation or dismissal, I couldn't tell. I sat, acutely aware of my friendly smile likely appearing more like a grimace. Internally, I was spiraling—how could I explain my purely platonic intentions without sounding predatory? My knees trembled while my heart was pumping fast. Mercifully, she returned her attention to the waves, sparing me from my own awkwardness.
 
 The waitress arrived like a savior, temporarily giving a break to my anxiety. I ordered a lemon tea, grateful for the momentary distraction. The sunset over Lake Iluna was breathtaking—a canvas of gold and crimson. Yet, somehow, her silhouette against that backdrop seemed more pleasantly breathtaking. The moment our eyes met, my embarrassment peaked.
 
 "What do you want?" she asked bluntly.
 
-"I'm sorry," I apologized, my voice trembling slightly, "I'm sorry for acting like a jerk in the class." She nodded in agreement, almost heartlessly.
+"I'm sorry," I apologized, in a trembling voice , "I'm sorry for acting like a jerk in the class." She nodded in agreement, almost heartlessly.
 
 "I'm sorry... if I'm interrupting your moment of solitude," I added, my fingers nervously tracing the table corner. She nodded again. I wanted her to tell me it was okay but she didn't. We had a silent moment of pure awkwardness until the waitress brought me a glass of lemon tea. I thanked the waitress.
 
@@ -516,7 +518,7 @@ Desperate to fill the silence, the historical trivia bubbled up before I could s
 
 "I never wanted to be masculine," she said softly, her gaze still fixed on the waves. "I hated my body. I hated how I looked. I just wanted to be a beautiful princess." A pause. "I surround myself with pink because girls look so beautiful in it. But apparently, I'm not one of them."
 
-"You look beautiful in pink," slipped out before I could filter my thoughts. Immediately, I wanted to disappear. Yes, I just officially labelled myself as a creep, didn't I? I knew she wouldn't be grateful for it. She must have thought either I was lying or I was trying to make her feel better. How should I explain I meant it genuinely without sounding more like a creep? The awkward silence came back. The sun sank into Lake Iluna, darkness spreading like ink. Streetlamps flickered to life, casting soft shadows. There was no moon in the sky. I wished Luna was here to navigate this social minefield.
+"You look beautiful in pink," slipped out before I could filter my thoughts. Immediately, I wanted to disappear. Yes, I just officially labelled myself as a creep, didn't I? I knew she wouldn't be grateful for it. She must have thought either I was lying or I assumed she was baiting for a compliment. How should I explain I meant it genuinely without sounding more like a creep? The awkward silence came back. The sun sank into Lake Iluna, darkness spreading like ink. Streetlamps flickered to life, casting soft shadows. There was no moon in the sky. I wished Luna was here to navigate this social minefield.
 
 "I suppose you wouldn't really want to be a jerk either—just like I never wanted to be a manly girl," she said, breaking the silence with an unexpected note of vulnerability. It was my turn to nod.
 
@@ -528,40 +530,40 @@ So was I. Why did she have to be so kind to one and so cruel to another?
 
 "No shit, Sherlock," she muttered, but this time the words felt more like a connection than a dismissal. Her pink drink vanished in one swift gulp.
 
-"I'm not the one who you confront with in the class," she said, recalling something, "Why did you apologize to me instead of Professor Alexei?" I supposed she was right.
+"I'm not the one you confronted in class," she said, with a hint of recollection in her voice. "Why did you apologize to me instead of Professor Alexei?"
 
-"I think Professor Alexei wouldn't want me to apologize. The dialogues were Socratic in essence and I believe he appreciates them," I explained.
+"I believe Professor Alexei would appreciate our dialogues," I explained. "They were Socratic in essence"
 
-"Are you saying I was unnecessarily sensitive?" she returned a question.
+"Are you saying I was unnecessarily sensitive?" she challenged. Even I wouldn't miss her eyebrows.
 
-"Of course, not," I replied immediately, "I'd love someone to help me refine my words, too. Actually were there someone to improve my arguments, our dialogues wouldn't have been that awkward."
+"Not at all," I replied immediately. "I'd welcome someone helping me refine my arguments. In fact, constructive feedback made our dialogues less... awkward."
 
-"I can't imagine how annoying you would be, hadn't you struggled with social anxiety," she complained. I deserved it.
+"I can't imagine how insufferable you'd be without social anxiety," she complained. I deserved it.
 
-"Well, welcome to my world. I have to hear my unfiltered thoughts, not restrained by social anxiety, all the time," I confessed.
+"Welcome to my internal monologue," I confessed with a slight, self-deprecating smile. "Unfiltered thoughts, unrestrained by social frictions."
 
-"I suppose it must be awful," she sounded sympathetic.
+"I suppose it must be exhausting," she said, her tone softening with an unexpected sympathy. I nodded.
 
-"It's."
+"My name is Seraphine," she introduced herself, and then continued with a hint of challenge in her tone. "What kind of name is Science? I mean no offense, but who names their child Science?"
 
-"My name is Seraphine," she introduced herself, "in case you didn't know already. What kind of a name is Science? I mean no offense but who name their child Science?"
+"A scientist who loved her work more than anything else," I replied, a memory of my mother's heart-warming smile crossing my mind.
 
-"A scientist mother," I replied, thinking of mom's warm smiles, "She just loves Science so much."
+"I'm sorry," she backtracked, "I didn't mean to be insensitive. It's just... unusual."
 
-"I'm sorry," she apologized, "I mean it's just weird. Don't you hear the same comment frequently?"
+"Actually, most people never learn my name," I explained. "Social anxiety ensures I rarely introduce myself. Even paperwork interactions are minimal—I have my ID anyway, don't I? Nobody usually want anything to do with someone like me either."
 
-"Actually, no. I'm too socially anxious to introduce myself," I explained, "People rarely get to know my name. At least, apart from those that deal with paperwork. Well, I have my ID to convince them and they don't want to have anything to do with someone like me either."
+"I'm sorry for being rude," she apologized. I felt her earlier defensiveness melting away. "I suppose I was projecting my own insecurities onto you. I understand you never meant to be difficult."
 
-"I'm sorry for having been rude," she replied, taking back her words, "I mean I chose to do something with you every time I decided to defend Professor Alexei. I understand you never meant to be annoying. I think I was projecting my own self-hatred onto you unnecessarily. I'm sorry about it, too."
+"It's okay," I assured her, sensing a tender shift in our interaction.
 
-"No, it's okay. You don't have to be sorry."
+"Do you have a last name?" she asked, with a hint of invitation for a genuine friendship.
 
-"Do you have a last name?"
+"Science Kristensen," I replied. "My mother was Alma Kristensen."
 
-"Yes, Science Kristensen. My mom was Alma Kristensen."
+"Ah, that explains the Scandinavian accent," she nodded. "I'm Seraphine Clair. My father, Arthur Clair, used to be Professor Alexei's mentor. They worked together for a decade."
 
-"That's why I noticed you had a Scandinavian accent. My name is Seraphine Arthur Clair. My dad was Arthur Arthur Clair. He used to be Professor Alexei' professor. They worked together for a decade."
+"That explains your dedication to defending him," I said, finally understanding the deeper context.
 
-"It explains why you wanted to defend Professor Alexei," I replied, understanding her intent finally.
+"I suppose it does," she agreed, with a subtle smile that finally made me feel comfortable.
 
-"I suppose it does."
+I realized sometimes you would have to touch the grass for the beginning of a beautiful friendship, that no books could offer. I believed the stars in the moonless sky smiled upon us.

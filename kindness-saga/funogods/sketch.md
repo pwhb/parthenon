@@ -112,7 +112,7 @@ The core plot device of the novel is the parents of the protagonists worked for 
 | **War**      | Propaganda     | Troll Farm Mogul        | China       | Female | Peng Mei         |
 | **War**      | Delusion       | Writer/Professor        | Switzerland | Male   | Dr. Daniel Huber |
 | **Famine**   | Bureaucracy    | Insurance CEO           | Altaria     | Female | Beatrice Vale    |
-| **Famine**   | Debt           | Financier               | US          | Male   | Donovan Price    |
+| **Famine**   | Debt           | Financier               | US          | Male   | Donovan Faust    |
 | **Death**    | Silence        | Private Intel CEO       | Israel      | Female | Shira Adler      |
 | **Death**    | Oblivion       | Museum Curator          | China       | Female | Ophelia          |
 
