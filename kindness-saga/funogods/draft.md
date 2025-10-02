@@ -482,7 +482,7 @@ I found myself pondering the intricate threads of Fate. Had some grand design or
 
 ---
 
-## Chapter IX - Strawberry Song [Science] (raw)
+## Chapter IX - Strawberry Song [Science]
 
 I never stayed at a place more than a semester. It was something deliberate; a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant work? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
 
