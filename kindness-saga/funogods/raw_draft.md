@@ -494,32 +494,36 @@ I didn't know her name for the first couple of weeks. She was the enigmatic girl
 
 Every time I argued with Professor Alexei, she was there to defend him, as if he were incapable of defending himself. I always despised those who defended authority, but I never despised her. Eventually, I realized I was closest to being the authority in PL 420, since I was the one who demanded an unprecedented level of philosophical rigor in a typical final-year undergraduate class.
 
-I found her sitting at the bar on the side of Lago Iluna. Behind her was the golden hour magic of the bleeding sun and its reflection in the lake. Usually I would be studying something in my dorm. I felt like walking that day. I sensed a melancholic dread in her eyes gazing at the waves on the horizon. My social anxiety was pulling me from approaching her. I genuinely had no idea how to start a conversation with her. I knew I wasn't romantically into her no matter how romantic the scene was. I just wanted her to be my friend. I walked towards her slowly. She was lost in her thoughts.
+Walking around Lake Iluna, I found her sitting at the bar overlooking the lake. Behind her, the golden hour magic painted the sky, the bleeding sun casting its reflection across the lake's surface. Typically, I would have been studying in my dorm, but something—perhaps an inexplicable impulse—had drawn me out that day. In her eyes, fixed on the distant horizon, I sensed a melancholic dread that mirrored my own.
 
-"Hi! Can I take this seat?" I asked awkwardly. It took her a few second to summon her mind. She looked at me and then nodded. I took the seat awkwardly, smiling at her like an idiot. How should I tell her I had no intention to hit on her without sounding like a creep? Should I tell her I wasn't stalking her? My kneels were unnecessarily shaking. It was so awkward. She was gazing at the waves again.
+My social anxiety threatened to paralyze me again, creating an invisible field of barrier. I genuinely had no idea how to start a conversation. Despite the cinematically romantic scene, I knew my intentions were purely platonic—I simply wanted to be a friend. Cautiously, I approached with each step shy and clumsy. She remained absorbed in her thoughts, seemingly unaware of my approach.
 
-The waitress saved me from this situation I put myself into. I ordered a lemon tea. Sunset in the lake Iluna was beautiful. More beautiful was she who was gazing at the sunset. I felt so embarrassed when she realized I was looking at her.
+"Hi! Can I take this seat?" I asked, feeling an overwhelming nervousness. A few seconds passed before she seemed to notice my presence. Her gaze shifted, meeting mine briefly before a slight nod. I sat down, my attempt at a friendly smile likely appearing more like a grimace. Internally, I was spiraling—how could I explain my purely platonic intentions without sounding predatory? My knees trembled while my heart was pumping fast. Mercifully, she returned her attention to the waves, sparing me from my own awkwardness.
+
+The waitress arrived like a savior, temporarily giving a break to my anxiety. I ordered a lemon tea, grateful for the momentary distraction. The sunset over Lake Iluna was breathtaking—a canvas of gold and crimson. Yet, somehow, her silhouette against that backdrop seemed more pleasantly breathtaking. The moment our eyes met, my embarrassment peaked.
 
 "What do you want?" she asked bluntly.
 
-"I'm sorry," I apologized, awkwardly, "I'm sorry for acting like a jerk in the class." She nodded in agreement, almost heartlessly.
+"I'm sorry," I apologized, my voice trembling slightly, "I'm sorry for acting like a jerk in the class." She nodded in agreement, almost heartlessly.
 
-"I'm sorry... for bothering you if you wanted to enjoy your solitude," I had to continue. She nodded again. I wanted her to tell me it was okay but she didn't. We had a silent moment of pure awkwardness until the waitress brought me a glass of lemon tea. I thanked the waitress.
+"I'm sorry... if I'm interrupting your moment of solitude," I added, my fingers nervously tracing the table corner. She nodded again. I wanted her to tell me it was okay but she didn't. We had a silent moment of pure awkwardness until the waitress brought me a glass of lemon tea. I thanked the waitress.
 
-"I don't know what is wrong with me," I confessed. She nodded again. I wished she didn't. I wished I hadn't been such a jerk in the class.
+"I don't know what's wrong with me," I muttered, more to myself than to her. She nodded again. I wished she didn't. I wished I hadn't been such a jerk in the class.
 
-"My name is Science," I introduced myself. I heard myself screaming in my mind—why did you have to make everything so awkward? I thought I was already used to painful embarrassments. It would have been so nice if she introduced herself but she didn't. She just kept looking at the moving waves. 
+"My name is Science," I introduced myself, then immediately regretted the abruptness. Why did I have to make everything so awkward? I thought I was already used to painful embarrassments. It would have been so nice if she introduced herself but she didn't. She just kept looking at the moving waves.
 
-"Historically, pink was actually considered a masculine color, a watered-down red—which was, of course, the color of war. Baby boys wore pink. It wasn't until the mid-20th century that marketing folks assigned it to girls," my autism spoke for itself. Why did I say it? I already sounded like a creep, didn't I? I hoped, at least, this clarified that I wasn't trying to hit on her. I had no wit required to save myself from this pit.
+Desperate to fill the silence, the historical trivia bubbled up before I could stop myself. "Did you know pink was originally a masculine color? It was considered a watered-down red—the color of war. Baby boys used to wear pink before marketing changed everything," my autism spoke for itself. Why did I say it? I already sounded like a creep, didn't I? I hoped, at least, this clarified that I wasn't trying to hit on her. I had no wit required to save myself from this pit.
 
-"I never wanted to be masculine," she replied, softly, still gazing at the waves. "I hated my body. I hated my look. I just wanted to be a beautiful princess," she continued, "I surrond myself with the color pink because girls look so beautiful in pink. Apparently, I'm not one of them."
+"I never wanted to be masculine," she said softly, her gaze still fixed on the waves. "I hated my body. I hated how I looked. I just wanted to be a beautiful princess." A pause. "I surround myself with pink because girls look so beautiful in it. But apparently, I'm not one of them."
 
-"You look beautiful in pink," I replied, without thinking. Yes, I just officially labelled myself as a creep, didn't I? I knew she wouldn't be grateful for it. She must have thought either I was lying or I was trying to make her feel better. How should I explain I meant it genuinely without sounding more like a creep? The awkward silence came back. It lasted for half an hour. The sun eventually drowned in the lake Iluna. Darkness took over the atmosphere. The lamps on the wall were turned on. There was no moon in the sky. I wished Luna was here. She could have helped me escaped this.
+"You look beautiful in pink," slipped out before I could filter my thoughts. Immediately, I wanted to disappear. Yes, I just officially labelled myself as a creep, didn't I? I knew she wouldn't be grateful for it. She must have thought either I was lying or I was trying to make her feel better. How should I explain I meant it genuinely without sounding more like a creep? The awkward silence came back. The sun sank into Lake Iluna, darkness spreading like ink. Streetlamps flickered to life, casting soft shadows. There was no moon in the sky. I wished Luna was here to navigate this social minefield.
 
-"I suppose you wouldn't really want to be a jerk either—just like I never wanted to be a manly girl," she broke the silence. It was my turn to nod.
+"I suppose you wouldn't really want to be a jerk either—just like I never wanted to be a manly girl," she said, breaking the silence with an unexpected note of vulnerability. It was my turn to nod.
 
-"I didn't want to do anything with you. I just couldn't help defending someone being humiliated. Professor Alexei is obviously on the spectrum," she explained. So was I. Why didn't she see it?
+"I didn't want to do anything with you," she continued. "I just couldn't help defending Professor Alexei. He's obviously on the spectrum—someone needed to stand up for him."
 
-"I never mean to humiliate anyone. I just couldn't help putting my head where it doesn't belong when I find something unrigorous. I'm on the spectrum myself," I explained.
+So was I. Why did she have to be so kind to one and so cruel to another?
 
-"Yes. No shit sherlock," she replied. She chugged her pink drink.
+"I never mean to humiliate anyone," I replied, "Sometimes I just can't help diving into discussions when something feels intellectually incomplete. I'm also on the spectrum myself."
+
+"No shit, Sherlock," she muttered, but this time the words felt more like a connection than a dismissal. Her pink drink vanished in one swift gulp.
