@@ -63,44 +63,43 @@ REC lies in the border of three countries and it's rich in rare earth minerals t
 
 The core plot device of the novel is the parents of the protagonists worked for the independence of REC. Two of them were from Veridia; one of them was in Veridian Liberation Army (VLA), the rebel group, fighting against the puppeteer Veridian government under the control of US. The lover of the Veridian freedom fighter is a linguist who will work for the preservation of REC, in the lens of indigenous languages threatened by cultural suppression, systematic marginalization and the genocide of endangered ethnic groups. She will be assasinated by those that want to control REC.
 
-| Group      | Role   | Name                       | Race                      | Occupation          |
-| ---------- | ------ | -------------------------- | ------------------------- | ------------------- |
-| Copenhagen | Father | Unknown                    | Unknown                   | Unknown             |
-|            | Mother | Alma Kristensen            | Germanic/Scandinavian     | Nuclear Physicist   |
-|            | Child  | Soren Socrates             | Germanic/Scandinavian     | Polymath            |
-|            |        |                            |                           |                     |
-| Athens     | Father | Dimitris Selas            | Mediterranean             | Virologist          |
-|            | Mother | Elena Selas                | Mediterranean             | Virologist          |
-|            | Child  | Aria Selas (Aria Antonia) | Mediterranean             | Alchemist           |
-|            |        |                            |                           |                     |
-| Vienna     | Father | Rafael                     | South American/Indigenous | Political Scientist |
-|            | Mother | Sophie Weber               | Germanic/Scandinavian     | Computer Scientist  |
-|            | Child  | Pallas Palamedes           | Mixed                     | Strategist          |
-|            |        |                            |                           |                     |
-| Bogotá    | Father | Galvarino                  | South American/Indigenous | Political Scientist |
-|            | Mother | Liliana García            | Latin American/Andean     | Linguist            |
-|            | Child  | Leila Lysandra             | Mixed                     | Healer              |
+| Group      | Role   | Name                             | Race                      | Occupation          |
+| ---------- | ------ | -------------------------------- | ------------------------- | ------------------- |
+| Copenhagen | Father | Unknown                          | Unknown                   | Unknown             |
+|            | Mother | Alma Kristensen                  | Germanic/Scandinavian     | Nuclear Physicist   |
+|            | Child  | Soren Socrates                   | Germanic/Scandinavian     | Polymath            |
+|            |        |                                  |                           |                     |
+| Athens     | Father | Dimitris Selas                  | Mediterranean             | Virologist          |
+|            | Mother | Elena Selas                      | Mediterranean             | Virologist          |
+|            | Child  | Aria Selas (Acanthia Andriades) | Mediterranean             | Alchemist           |
+|            |        |                                  |                           |                     |
+| Vienna     | Father | Rafael                           | South American/Indigenous | Political Scientist |
+|            | Mother | Sophie Weber                     | Germanic/Scandinavian     | Computer Scientist  |
+|            | Child  | Pallas Palamedes                 | Mixed                     | Strategist          |
+|            |        |                                  |                           |                     |
+| Bogotá    | Father | Galvarino                        | South American/Indigenous | Political Scientist |
+|            | Mother | Liliana García                  | Latin American/Andean     | Linguist            |
+|            | Child  | Leila Lysandra                   | Mixed                     | Healer              |
 
 ---
 
-| Horseman           | Squire         | Name                       | Race                  | Occupation              |
-| ------------------ | -------------- | -------------------------- | --------------------- | ----------------------- |
-| **Conquest** | Quantification | Quentin Finch              | US                    | Big Tech CTO            |
-|                    | Temptation     | Alma Kristensen            | France                | Streaming Platform CVO  |
-|                    | Subjugation    | Soren Socrates             | Altaria               | Head of Servizio (SIN)  |
-|                    |                |                            |                       |                         |
-| **War**      | Cowardice      | Dimitris Selas            | Mediterranean         | Financier               |
-|                    | Submission     | Elena Selas                | Santanderia           | Head of Black Ops (AIS) |
-|                    | Propaganda     | Aria Selas (Aria Antonia) | China                 | Troll Farm Mogul        |
-|                    | Delusion       |                            | Switzerland           | Writer/Professor        |
-|                    |                |                            |                       |                         |
-| **Famine**   | Bureaucracy    | Rafael                     | Altaria               | Insurance CEO           |
-|                    | Debt           | Sophie Weber               | Germanic/Scandinavian | Computer Scientist      |
-|                    |                |                            |                       |                         |
-| **Death**    | Silence        | Galvarino                  | Israel                | Private Intel CEO       |
-|                    | Oblivion       | Liliana García            | China                 | Museum Curator          |
-|                    |                |                            |                       | <br />                  |
-
+| Horseman           | Squire         | Name             | Race                  | Occupation              |
+| ------------------ | -------------- | ---------------- | --------------------- | ----------------------- |
+| **Conquest** | Quantification | Quentin Finch    | US                    | Big Tech CTO            |
+|                    | Temptation     | Thérèse Leroux | France                | Streaming Platform CVO  |
+|                    | Subjugation    | Severus Vale     | Altaria               | Head of Servizio (SIN)  |
+|                    |                |                  |                       |                         |
+| **War**      | Cowardice      | Cassian Faust   | Germanic/Scandinavian | Financier               |
+|                    | Submission     | Santiago Cruz    | Santanderia           | Head of Black Ops (AIS) |
+|                    | Propaganda     | Peng Mei         | China                 | Troll Farm Mogul        |
+|                    | Delusion       | Dr. Daniel Huber | Switzerland           | Writer/Professor        |
+|                    |                |                  |                       |                         |
+| **Famine**   | Bureaucracy    | Beatrice Vale    | Altaria               | Insurance CEO           |
+|                    | Debt           | Dorian Price     | US                    | Billionaire/Investor    |
+|                    |                |                  |                       |                         |
+| **Death**    | Silence        | Shira Adler      | Israel                | Private Intel CEO       |
+|                    | Oblivion       | Ophelia          | China                 | Museum Curator          |
+|                    |                |                  |                       |                         |
 
 | Horseman           | Squire         | Role                    | Nationality | Gender | Name             |
 | ------------------ | -------------- | ----------------------- | ----------- | ------ | ---------------- |

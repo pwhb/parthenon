@@ -39,10 +39,7 @@ What I shared below is the first two chapters I'm satisfied with for now. It's o
 
 my goal is to introduce four protagonists in four chapters. I understand since they all share the same spirit of understanding the world deeply and a similar fate, there's a risk of kind of getting repeatitive or duplicate. did I do I good job of introducing four unique characters? then in the next three chapters, I give the backstory for the four except for Love whose story was already self-contained in the introduction. I know, again, there's a risk of the backstories being similar to each other or even unbalanced. but is the narrative I chose so far convincing and organic?
 
-
-my novel is centered around four protagonists. each represents a unique mode of understanding. the story is told in alternating POVs of four protagonists. I hope you can see the tone and theme of each. 
-
-
+my novel is centered around four protagonists. each represents a unique mode of understanding. the story is told in alternating POVs of four protagonists. I hope you can see the tone and theme of each.
 
 can we work on refining these paragraphs? feel free to suggest paragraph by paragraph edit where I can improve, add more details. I'd prefer to keep my original tone though. some mysteries are intentionally left ambiguous to emphasize the character development in emotional dimension first.
 
@@ -74,6 +71,13 @@ She shook her head. It was insensitive of me. I blamed myself. Of course, withou
 
 ---
 
+before the protagonists converge in Atlas City, I think it's better to make Strategist and Alchemist share a place in somewhere near Altaria. They have been travelling around Europe with the magic crew for six years. Now they have been uncovering the conspiracies behind Strategist's parents' death. I think I need to show Strategist breaking into home network of the Cassian Faust before they break into his residence in Atlas City. what would be the best location for this one-time chapter?
+
+
+Since we change Financier to Cowardice and Billionaire to Debt. I need Financier's name to be something that starts with C (represeting Cowardice) and Billionaire's to be something that starts with D (representing Debt). I think it's ok to keep their race the same. Financier has Germanic/Scandinavian origin while the billionaire has some developed country origin but end up in US. Also I think Streaming Platform CVO (representing Temptation) to have a French origin. is Tatiana Vance as a French name ok? if not, please suggest a name that starts with T for her too.
+
+---
+
 Chapter I - Stationary Action [Science]
 
 Chapter II - Wavelength of Justice [Art]
@@ -93,12 +97,5 @@ Chapter VIII - Renegades [Politics]
 Chapter IX - Girl in Pink [Science]
 
 Chapter X - Girl in Guilt [Love]
-
-
-
-
-
-
-
 
 ---

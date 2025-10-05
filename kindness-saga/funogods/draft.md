@@ -62,7 +62,7 @@ I would never forget their mocking eyes. The shameless teachers not only failed 
 
 Mr. David was my mom's friend. He was a professor at Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. He was taking a look at my books, as if I didn't know what he was doing.
 
-"Let me guess. Is it Homer?" he said, with his eyes almost begging me for a validation. I nodded since I knew nothing better to do. He was right anyway. He tried to hide his smirk.
+"Let me guess. Is it Hesiod?" he said, with his eyes almost begging me for a validation. I nodded since I knew nothing better to do. He was right anyway. He tried to hide his smirk.
 
 "Aria, your mom told me what happened at your school."
 
@@ -320,7 +320,7 @@ Dad's whispered comments didn't escape me, even when he thought they did.
 
 It went on and on. When mom finally got permission to take me to the show, I surprised them both. "I'd rather stay home and read," I said, a small act of defiance that I would regret the rest of my life. While dad looked more relieved that I declined, mom still tried to persuade me to see the show with her. In that moment, I saw her genuine excitement, her hope of sharing something magical with me—and I shut her down. How much I wished I just listened to her instead of what I ended up doing—a hidden card up my sleeve.
 
-On the last day of the magic tour, before dawn could break, I packed my possessions—Homer's books and a change of clothes—and slipped out the window. One last look at my room, a space that had never truly felt like mine. I wasn't running from home. I was running towards the first opportunity to prove that my way of seeing the world wasn't a disorder—it was my strength.
+On the last day of the magic tour, before dawn could break, I packed my possessions—Hesiod's books and a change of clothes—and slipped out the window. One last look at my room, a space that had never truly felt like mine. I wasn't running from home. I was running towards the first opportunity to prove that my way of seeing the world wasn't a disorder—it was my strength.
 
 The magic tour's camp was my destination. My new life was about to begin.
 
@@ -422,9 +422,9 @@ And that was how I tricked the great magician Kaspar into taking me in. With a c
 
 "Why do you keep reading the Bible?" Art asked, without a hint of worry in her voice. In St. Matthew, such a question would have felt like a trap, an invitation to an unnecessary fight. But I knew her now—her curiosity was genuine, free of any hidden malice.
 
-"The same reason you brought Homer," I answered—recalling the good faith of Sister Cecilia. She nodded.
+"The same reason you brought Hesiod," I answered—recalling the good faith of Sister Cecilia. She nodded.
 
-"Why do you think I brought Homer?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
+"Why do you think I brought Hesiod?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
 
 "Certain items can work as a connection to something we cherish," I answered patiently.
 
@@ -468,13 +468,13 @@ She was onto something—I could feel it. While I knew some pieces of informatio
 
 I shook my head. "Knighthood didn't exist by the time the Bible was written."
 
-She remarked with a wry smile, "That's why I read Homer instead."
+She remarked with a wry smile, "That's why I read Hesiod instead."
 
-"Did Homer foretell our coming?" I poked her back.
+"Did Hesiod foretell our coming?" I poked her back.
 
-"No," she responded. "Homer didn't foretell anything. Homer isn't the beginning and the end. He created epics to reveal the true forms of shadows. Homer was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers did." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
+"No," she responded. "Hesiod didn't foretell anything. Hesiod isn't the beginning and the end. He wrote the poems to reveal the true forms of shadows. Hesiod was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers did." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
 
-"I want to read Homer in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
+"I want to read Hesiod in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
 
 "You chose Tingxuan to be your master. Learn acrobatics first. Don't disappoint multiple teachers at once." I knew she was still nursing a slight grudge that I'd selected a newcomer as my instructor instead of her. How could someone be simultaneously so mature and so childish? I knew begging would be futile. Just like at St. Matthew, where begging never worked—only fists did. If only I'd known some acrobatic skills back then.
 
@@ -658,3 +658,5 @@ She laughed—a brief moment of relief that couldn't quite dispel the storm of e
 "Whatever it is," I continued, "I have faith in the path you'll choose. I know my words can't fix anything. But I believe in you. I believe in your choice. You're already carrying so much. Don't punish yourself for things beyond your control. Regrets will find us no matter what we do. That doesn't mean you're doing anything wrong. Do what you need to do, and I'll always be here for you."
 
 She wrapped me in a desperate hug, her big arms holding on like I was her last anchor. "Thank you," she whispered again and again. I felt like her sister in that moment—and I knew she wasn't the only one destined to share such an intimate bond with me.
+
+---

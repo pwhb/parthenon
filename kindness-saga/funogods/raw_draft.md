@@ -62,7 +62,7 @@ I would never forget their mocking eyes. The shameless teachers not only failed 
 
 Mr. David was my mom's friend. He was a professor at Atlas University, visiting Athens for a conference. My parents invited him to our home. They said he wanted to get to know me since he heard about me from my mom. He was taking a look at my books, as if I didn't know what he was doing.
 
-"Let me guess. Is it Homer?" he said, with his eyes almost begging me for a validation. I nodded since I knew nothing better to do. He was right anyway. He tried to hide his smirk.
+"Let me guess. Is it Hesiod?" he said, with his eyes almost begging me for a validation. I nodded since I knew nothing better to do. He was right anyway. He tried to hide his smirk.
 
 "Aria, your mom told me what happened at your school."
 
@@ -320,7 +320,7 @@ Dad's whispered comments didn't escape me, even when he thought they did.
 
 It went on and on. When mom finally got permission to take me to the show, I surprised them both. "I'd rather stay home and read," I said, a small act of defiance that I would regret the rest of my life. While dad looked more relieved that I declined, mom still tried to persuade me to see the show with her. In that moment, I saw her genuine excitement, her hope of sharing something magical with me—and I shut her down. How much I wished I just listened to her instead of what I ended up doing—a hidden card up my sleeve.
 
-On the last day of the magic tour, before dawn could break, I packed my possessions—Homer's books and a change of clothes—and slipped out the window. One last look at my room, a space that had never truly felt like mine. I wasn't running from home. I was running towards the first opportunity to prove that my way of seeing the world wasn't a disorder—it was my strength.
+On the last day of the magic tour, before dawn could break, I packed my possessions—Hesiod's books and a change of clothes—and slipped out the window. One last look at my room, a space that had never truly felt like mine. I wasn't running from home. I was running towards the first opportunity to prove that my way of seeing the world wasn't a disorder—it was my strength.
 
 The magic tour's camp was my destination. My new life was about to begin.
 
@@ -418,13 +418,13 @@ And that was how I tricked the great magician Kaspar into taking me in. With a c
 
 ---
 
-## Chapter VIII - Renegades [Politics] (raw)
+## Chapter VIII - Renegades [Politics] (smooth)
 
 "Why do you keep reading the Bible?" Art asked, without a hint of worry in her voice. In St. Matthew, such a question would have felt like a trap, an invitation to an unnecessary fight. But I knew her now—her curiosity was genuine, free of any hidden malice.
 
-"The same reason you brought Homer," I answered—recalling the good faith of Sister Cecilia. She nodded.
+"The same reason you brought Hesiod," I answered—recalling the good faith of Sister Cecilia. She nodded.
 
-"Why do you think I brought Homer?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
+"Why do you think I brought Hesiod?" she continued to test me. I wanted to give a cyclic answer but I thought better of it.
 
 "Certain items can work as a connection to something we cherish," I answered patiently.
 
@@ -468,13 +468,13 @@ She was onto something—I could feel it. While I knew some pieces of informatio
 
 I shook my head. "Knighthood didn't exist by the time the Bible was written."
 
-She remarked with a wry smile, "That's why I read Homer instead."
+She remarked with a wry smile, "That's why I read Hesiod instead."
 
-"Did Homer foretell our coming?" I poked her back.
+"Did Hesiod foretell our coming?" I poked her back.
 
-"No," she responded. "Homer didn't foretell anything. Homer isn't the beginning and the end. He created epics to reveal the true forms of shadows. Homer was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers did." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
+"No," she responded. "Hesiod didn't foretell anything. Hesiod isn't the beginning and the end. He wrote the poems to reveal the true forms of shadows. Hesiod was a better therapist than Mr. David—he understood the nature of humanity far better than the Bible writers did." For someone swimming in a whimsical realm, she could be remarkably grounded at times. I nodded.
 
-"I want to read Homer in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
+"I want to read Hesiod in the original language. Will you teach me Greek?" I requested again, admitting my Greek was limited to just a few words. She shook her head definitively.
 
 "You chose Tingxuan to be your master. Learn acrobatics first. Don't disappoint multiple teachers at once." I knew she was still nursing a slight grudge that I'd selected a newcomer as my instructor instead of her. How could someone be simultaneously so mature and so childish? I knew begging would be futile. Just like at St. Matthew, where begging never worked—only fists did. If only I'd known some acrobatic skills back then.
 
@@ -570,7 +570,7 @@ I realized sometimes you would have to touch the grass for the beginning of a be
 
 ---
 
-## Chapter X - Stairwell of Sorrow [Love] (raw)
+## Chapter X - Stairwell of Sorrow [Love] (smooth)
 
 Just two more months of these soul-crushing Infectious Disease lectures, and I’d officially be a doctor. Personally I found the material—viral pathogenesis, outbreak epidemiology—quite fascinating. But our teacher, while a brilliant diagnostician on the wards, had the vocal monotone of a faulty EKG machine. The entire class was united in a shared, caffeine-fueled stupor. If only we’d known how important these lectures would be in the coming storm in the next few years.
 
@@ -658,3 +658,19 @@ She laughed—a brief moment of relief that couldn't quite dispel the storm of e
 "Whatever it is," I continued, "I have faith in the path you'll choose. I know my words can't fix anything. But I believe in you. I believe in your choice. You're already carrying so much. Don't punish yourself for things beyond your control. Regrets will find us no matter what we do. That doesn't mean you're doing anything wrong. Do what you need to do, and I'll always be here for you."
 
 She wrapped me in a desperate hug, her big arms holding on like I was her last anchor. "Thank you," she whispered again and again. I felt like her sister in that moment—and I knew she wasn't the only one destined to share such an intimate bond with me.
+
+---
+
+## Chapter XI - Neck of Hydra [Politics]
+
+Art and I worked with "Kaspar's Traveling Illusions" for six years. While I learned the art of manipulation with a focus on strategist planning, Art did the same with a focus on sensational perception. We earned enough for college that we never enrolled for. Even though we quit the travelling crew, we never stopped travelling. Art created a new identity for me—my name was Pallas Palamedes just like hers was Acanthia Andriades. Sometimes I worked as a chess hustler while she worked as a street performer—her voice was mesmerizing no matter how many times I heard.
+
+We never stayed in a city more than a month. We met so many people working in a travelling crew. As a consequence, we learned way too early that my paranoia wasn't even an overreaction—we noticed many secret agents and investigators from different countries were looking for us. I could imagine they would track me because of my parents' work but we didn't know why Art was also tracked, too. An Altarian spy that was looking for Aria Selas even joined the magic crew for a few months. He would've recognized her if not for the make-up Art wore everyday—or he pretended he didn't so well and even Art with her extraordinary perception could never know. We couldn't let our guard down for a second. We suspected even Tingxuan might have been a Chinese spy.
+
+We knew things were more complicated than they appeared. Art's parents vanished without a trace a year after she left them. She wanted to go home back then but she realized she was as homeless as me. We concluded it must be related to why many adults were looking for her. We were all we had. While they were tracking us down, I was also profiling them. My investigation would have been blocked in many places if not for Art. She always had a magical sense that made jumps I could never make sense of. She was almost always right.
+
+The web of informations I collected no longer fit in the wooden box which I left with the crew. We carried luggages now. The data I've been collecting had been fully digitalized—all stored inside a portable drive. I burned the paper pieces no matter how sentimental they were; weren't they future criminal evidence anyway? I still got the Bible and the chess set while Art still had her Hesiod.
+
+We arrived in Frankfurt a week ago. It would be a long story to explain why we were there. We would need to talk about a man that was already in prison first. His name was Theo Finch. He was a financier who handled the financial assets of almost all the most powerful people in the world. It wasn't even difficult to profile him; his life story was already in the news. What was interesting was that he was the node that had maximun number of connections to the other nodes in my web. He had a hand in many atrocities in recent decades. Organized crime activites? Checked. Political assassinations? Checked? Union busting? Checked. Environmental and industrial sabotage? Checked. Human trafficking? Checked. Arms Trafficking? Checked. Resource coup financing? Checked. Economic destabilization? Checked. Even the secret services in related countries probably didn't have a compendium of his best hits as complete as I did—or they were in beds with him.
+
+If I wanted to live free, I would have to take them down. Not just Theo Finch. Him and all of his clients. It was like Hydra—cut one head, two will replace it. Art taught me Greek and I had a privilege of reading Hesiod in Greek. She was right—Hesiod understood human nature better. Heracles, commonly known as Hercules, defeated Hydra with the help of Iolaus who cauterized the neck of Hydra so it wouldn't replace the cut head.
