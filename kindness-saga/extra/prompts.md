@@ -39,4 +39,66 @@ What I shared below is the first two chapters I'm satisfied with for now. It's o
 
 my goal is to introduce four protagonists in four chapters. I understand since they all share the same spirit of understanding the world deeply and a similar fate, there's a risk of kind of getting repeatitive or duplicate. did I do I good job of introducing four unique characters? then in the next three chapters, I give the backstory for the four except for Love whose story was already self-contained in the introduction. I know, again, there's a risk of the backstories being similar to each other or even unbalanced. but is the narrative I chose so far convincing and organic?
 
+
+my novel is centered around four protagonists. each represents a unique mode of understanding. the story is told in alternating POVs of four protagonists. I hope you can see the tone and theme of each. 
+
+
+
+can we work on refining these paragraphs? feel free to suggest paragraph by paragraph edit where I can improve, add more details. I'd prefer to keep my original tone though. some mysteries are intentionally left ambiguous to emphasize the character development in emotional dimension first.
+
+In that moment, I wasn't just offering comfort. I was creating a bridge between two souls, that knew the same despair.
+
+"Do I know you?" she asked, trying to recall her childhood despite her heavy emotions in the present.
+
+With a glance at the files on her lap, I noticed the name Arthur Clair. I understood her father was a patient here.
+
+"Ah, sorry. My name is Leila Lysandra. I'm David Lysandra's daughter," I explained. "You're Arthur's daughter, right?" She nodded.
+
+"I heard David adopted a daughter but I can't remember if I met her," she said, agreeing with my explanation.
+
+"I don't think you met me properly. My dad took me along when he met his friend, Arthur. It was soon after I arrived Atlas City. Maybe fifteen years ago. I saw you working out in the playground from a distance. I remembered Arthur said you were his daughter, Seraphine" I went on. She seemed convinced.
+
+"I'm sorry about your dad," I said softly, "Please let me know if there's anything I can do for you."
+
+"Thank you. You just did a lot already. Your hug took half my distress," she replied with a faint smile.
+
+"Can I take a look at the files?" I asked, thinking it might be painful for her to explain her father's condition herself. She nodded and handed me the files. I opened the files gently. He was suffering from a heart condition, namely, Coronary Artery Disease. It seemed he was in a terminal condition. Assuming Seraphine was also a final year student, I calculated he might not even see her graduate. It would explain her sorrow. What was with her guilt and hesitation? Coronary Artery Bypass Graft surgery would be the only option left for him.
+
+"Did you schedule a surgery?" I asked, hoping I could offer some help.
+
+She shook her head. It was insensitive of me. I blamed myself. Of course, without health insurance, the surgery cost might be too much for a struggling family of a retired professor.
+
+"I hope the insurrance claim would be approved soon," she muttered. I wished with all heart, it would be approved soon. It would explain her overwhelming emotions of guilt and hesitation.
+
+"Please let me know if I could do something to accelerate the process, Sera." I promised to help. She nodded. I wanted to offer financial support if she needed but I thought better of it. It would be more appropriate if my dad talked to her; her was her dad's friend after all.
+
+---
+
+Chapter I - Stationary Action [Science]
+
+Chapter II - Wavelength of Justice [Art]
+
+Chapter III - Sappho's Lyre [Love]
+
+Chapter IV - Barrel Gambit [Politics]
+
+Chapter V - Shield of Silence [Science]
+
+Chapter VI - Red Horse [Politics]
+
+Chapter VII - Vanishing Wand [Art]
+
+Chapter VIII - Renegades [Politics]
+
+Chapter IX - Girl in Pink [Science]
+
+Chapter X - Girl in Guilt [Love]
+
+
+
+
+
+
+
+
 ---

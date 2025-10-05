@@ -1,4 +1,4 @@
-# t(let me kiss you) at the funeral of the gods [funogods]
+# (let me kiss you) at the funeral of the gods [funogods]
 
 ## Chapter I - Stationary Action [Science] (smooth)
 
@@ -482,7 +482,7 @@ I found myself pondering the intricate threads of Fate. Had some grand design or
 
 ---
 
-## Chapter IX - Girl in Pink [Science] (smooth)
+## Chapter IX - Sunset in Pink Spectrum [Science] (smooth)
 
 I never stayed at a place more than a semester. It was something deliberate; a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant work? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
 
@@ -570,73 +570,91 @@ I realized sometimes you would have to touch the grass for the beginning of a be
 
 ---
 
-## Chapter X - [Love]
+## Chapter X - Stairwell of Sorrow [Love] (raw)
 
 Just two more months of these soul-crushing Infectious Disease lectures, and I’d officially be a doctor. Personally I found the material—viral pathogenesis, outbreak epidemiology—quite fascinating. But our teacher, while a brilliant diagnostician on the wards, had the vocal monotone of a faulty EKG machine. The entire class was united in a shared, caffeine-fueled stupor. If only we’d known how important these lectures would be in the coming storm in the next few years.
 
 I left the lecture hall as soon as it was over. Walking along the corridor, I recalled something. Of course, the elevators would be packed during the shift change, students, nurses, patients' families all squeezed together. I couldn't bear the claustrophobic emotions that would flood me in such tight spaces. The stairs offered a quiet sanctuary, a moment to breathe and filter out the overwhelming fields of other people's anxieties and hopes. I was too exhausted for it.
 
-Through the stair handrails, I saw a big girl in pink sitting on the steps alone. I slowed my steps, hoping not to interrupt her solitude. I knew she was crying. Absorbed in her own misery, she hadn't noticed me approach. I couldn't help stopping. Aware it might be unprofessional, I decided to sit beside her quietly anyway, leaving some space between us. She looked up, finally noticing my presence. My hand instinctively reached into my pocket, pulling out a pack of tissues. I offered them to her. She nodded, taking the tissues and wiping her tears.
+Through the stair handrails, I noticed her immediately—a tall figure in pink, hunched on the steps. Something in her posture hinted a clear sign of profound sorrow. Someone else would walk past quietly, uncomfortable with raw emotion, but I couldn't. My steps slowed, softening to avoid startling her. As expected, she was crying, lost in a private moment of grief that seemed to fill the entire stairwell.
 
-Something felt very strange. I could understand her sorrow, but beneath it lay unfamiliar sensations of guilt and hesitation. After years around patients and their families, I knew the usual emotional landscapes intimately. This was different. I tried to hug her slowly, knowing no words could suffice. She accepted my embrace, putting her head on my shoulder with a heart-warming trust. It felt so warm to caress her broad back.
+I hesitated. As a medical student, I was aware of the boundaries between compassion and professional distance. But compassion rarely follows rules. Carefully, I sat down a few steps away, leaving enough space to respect her solitude while offering a silent presence. She looked up, surprised—perhaps not expecting anyone to notice, let alone sit near her. My hand instinctively reached into my pocket, pulling out a pack of tissues. I offered them to her. She accepted them, and wiped her tears with a vulnerability that seemed to fill the space between us.
 
-"Do you know me?" she asked finally.
+Something felt very strange. Beyond her visible sorrow, I could sense layers of emotion—guilt, anger and hesitation, a complex emotional landscape that went far deeper than simple grief. After years of clinical training, I knew the typical emotional terrains of patients and their families. This was different.
 
-I asked myself the same question. Now that I had absorbed her emotions, I was sure I knew her. But how? She felt like a chapter in a textbook I studied a long time ago. It took me a few seconds to remember. She was big and she wore a pink t-shirt. I met her soon after I arrived Atlas City.
+I reached out, offering a slow, tender hug—not with clinical detachment, but with a warmth that came from something more intimate than medical training. She accepted immediately, her head finding my shoulder with a heart-warming trust. Her broad back trembled slightly under my touch, and I felt the weight of her unspoken pain.
 
-"You're Sera, right?" I asked, but I knew I was right. She nodded but her eyes showed clear signs of surprise and confusion.
+"Do you know me?" she asked finally, hinting a mixture of confusion and hope.
 
-"Are you a doctor?" she asked back. I was in scrubs. I realized she thought I knew her name from a file.
+I paused. Did I know her? Not in a conventional sense. But I knew her raw emotions with an intimacy that was beyond explanation. Fragments of memory surfaced—a playground, a pink t-shirt, a childhood moment that felt so distant. It was like a chapter in a textbook I studied a long time ago.
 
-"Not yet. At least, not in two months," I replied with a smile. "I'm a med student. I know you're wondering how I know you. I met you once when I was a kid."
+"You're Sera, right?" The name came out with a certainty I couldn't explain.
 
-"Do I know you?"
+Her surprised expression told me she was wondering how I knew. I was wearing a white coat—she likely assumed I'd recognized her from some medical file. But this connection was something else entirely.
 
-With a glance at the files on her lap, I saw the name Arthur Clair. I understood her father was a patient here.
+"I'm not a doctor yet," I smiled, sensing her unasked questions. "Just a med student. I met you once, when I was a child."
 
-"Ah, sorry. My name is Leila Lysandra. I'm David Lysandra's daughter. You're Arthur's daughter, right?" I explained. She nodded.
+In that moment, I wasn't just offering comfort. I was creating a bridge between two souls, intimately acquainted with the same despair.
 
-"I heard David adopted a daughter but I can't remember if I met her," she said, apparently trying to recall her childhood.
+"Do I know you?" she asked, trying to recollect her childhood despite the weight of her current emotions clouding her mind.
 
-"I don't think you met me properly. My dad took me along when he met his friend, Arthur. I saw you working out in the playground. I remembered Arthur said you were his daughter, Seraphine" I went on. She seemed convinced.
+With a glance at the files on her lap, I noticed a name—Arthur Clair. I understood her father was a patient here.
+
+"Ah, sorry. My name is Leila Lysandra—David's daughter," I explained, "You're Arthur's daughter, right?" Her nod was barely noticeable.
+
+"I heard David adopted a daughter," she murmured, searching for a distant memory. "But I can't quite remember..."
+
+"I saw you briefly, years ago," I continued softly. "When my dad brought me to Atlas City, maybe fifteen years back. I remember watching you in the playground. Arthur mentioned you then, his daughter Seraphine." A subtle recognition
+flickered in her eyes, bridging the gap between then and now.
 
 "I'm sorry about your dad," I said softly, "Please let me know if there's anything I can do for you."
 
 "Thank you. You just did a lot already. Your hug took half my distress," she replied with a faint smile.
 
-"Can I take a look at the files?" I asked, thinking it might be painful for her to explain her father's condition herself. She nodded and handed me the files. I opened the files gently. He was suffering from a heart condition, namely, Coronary Artery Disease. It seemed he was in a terminal condition. Assuming Seraphine was also a final year student, I calculated he might not even see her graduate. It would explain her sorrow. What was with her guilt and hesitation? Coronary Artery Bypass Graft surgery would be the only option left for him.
+"Can I take a look at the files?" I asked, thinking it might be painful for her to explain her father's condition herself. She nodded and handed me the files. I opened them gently, my medical training immediately parsing the clinical narrative.
 
-"Did you schedule a surgery?" I asked, hoping I could offer some help.
+He had been suffering from Coronary Artery Disease for more than a decade—a progressive condition characterized by thickening coronary arteries. The clinical notes detailed years of increasing symptoms: chest pain, exercise intolerance, and fatigue. It seemed he was now in a terminal stage. Assuming Seraphine was a final year student like myself, I quickly calculated the grim probability: he might not survive to see her graduate. This would explain her profound sorrow. But what of the guilt and hesitation I sensed?
 
-She shook her head. It was insensitive of me. I blamed myself. Of course, without health insurance, the surgery cost might be too much for a struggling family of a retired professor.
+Coronary Artery Bypass Graft (CABG) remained the only surgical option—a complex procedure involving harvesting healthy blood vessels, typically from the internal mammary artery or saphenous vein, to reroute blood flow around the blocked coronary arteries. Yet, at this advanced stage, the surgical risks would be significant.
 
-"I hope the insurrance claim would be approved soon," she muttered. I wished with all heart, it would be approved soon. It would explain her overwhelming emotions of guilt and hesitation.
+"Did you schedule a surgery?" I asked, without thinking much, hoping I could offer some help.
 
-"Please let me know if I could do something to accelerate the process, Sera." I promised to help. She nodded. I wanted to offer financial support if she needed but I thought better of it. It would be more appropriate if my dad talked to her; her was her dad's friend after all.
+She shook her head. Immediately, I felt the sting of my own insensitivity. Of course, without health insurance, the surgery costs would be too much of a burden for a family of a retired professor.
 
-"Sera, can you give me your phone number?" I said, opening the contact in my mobile phone. We shared each other's phones.
+"I hope the insurance claim gets approved soon," she muttered. I wished with all my heart it would be. It would almost explain her overwhelming emotions of guilt and hesitation.
 
-"I don't think my dad know his friend's condition."
+"Let me know if I can help accelerate the process, Sera," I offered. She nodded. I wanted to propose financial support but stopped myself. This would be better handled by my dad—he was, after all, her father's friend.
 
-"I'm sorry. It had been quite depressing months. Dad was unconscious most of the time. He never wanted to bother his friends and I didn't contact anyone," she explained. I took her phone again.
+"Sera, can I have your phone number?" I asked, pulling out my mobile. We exchanged phone numbers.
 
-"Is visiting allowed?" I asked while saving my dad's number in her phone. She nodded.
+"I don't think my dad knows about his friend's condition," I muttered. If he did, he would have mentioned it.
 
-"I'll make sure my dad will visit your dad," I promised. "I'll always be there for you, Sera. So will my dad. Never hesitate to reach out to us. Many doctors here are my professors. It'd be my pleasure to help you in any way I can."
+"Sorry," she said softly. "These past months have been depressing. Dad's been unconscious most of the time. He never wanted to bother his friends, so I didn't contact anyone." I took her phone again, feeling the weight of her unspoken struggle.
 
-"Thank you, Leila. It gave me a lot of strength to get to know you. My dad would be happy to see Mr. David. I grew up hearing about him a lot."
+"Is visiting allowed?" I asked, saving my dad's number. She nodded.
 
-I sensed a lot of her distress was relieved but still a massive amount of distress remained. What was with this storm of guilt and hesitation?
+"I'll make sure my dad visits yours," I promised. "I'll always be here for you, Sera. So will my dad. Never hesitate to reach out. Many doctors here are my professors—I'd be honored to help in any way I can."
 
-"Sera," I said, "I don't want to invade your privacy. I've been in many rounds of diagnosing patients and I can see something else was troubling you deeply. It is more than your dad's condition. Again, please let me know if there's anything I can do for you."
+"Thank you, Leila," she said, her voice finding a moment of strength. "My dad would be happy to see Mr. David. I grew up hearing so much about him. Is he still teaching at Atlas University?"
 
-"Thank you. You already helped me a lot," she replied, trying to smile. I knew it wouldn't be enough to open up.
+"Yes," I replied, sensing an opportunity for therapeutic small talk. "Most of his colleagues are retired now. He's been quite lonely. My classes are now in Asclepius Hall near the hospital so I rarely see him these days. You know how it is—a final year student, buried in textbooks, barely getting out of my dorm."
 
-"Whatever it's," I went on, "I have faith that the path you will choose is the right one. I understand it wouldn't be of any help. But I believe in you. I believe in your choice. You're already in enough miseries. Please don't punish yourself for the things out of your control. Regrets will find us no matter what we do. It doesn't mean you're doing something wrong. Do whatever you need to do and I'll always be there for you."
+"I'm also an Atlas University student," she shared. "Philosophy—following my dad's footsteps. I should've graduated a year ago, but I got injured playing basketball."
 
-She hugged me with her big arms. She thanked me again and again.
+"Oh, no. Arthur would've..." I caught myself, the unfinished sentence hanging in the air. She nodded, a sad smile flickering across her face.
 
+"The injury wasn't your fault," I comforted her, hoping to ease her invisible burden.
 
-Through the stair handrails, I saw a girl in pink sitting on the stair steps alone. I slowed down my steps, hoping to not interupt her safe space. I knew she was crying. Absorbed in her own misery, she didn't know I was behind her. I couldn't help stopping. I was aware it might be unprofessional but I decided to sit beside her quietly leaving some space. She looked up to me, finally noticing my presence. My hand took out a pack of tissues from my pocket and gave it to her. She nodded and took it and wiped her tears.
+"I know. But I didn't have insurrance," she muttered, shrugging her shoulders.
 
-Something felt very strange. I could understand sorrow but I also felt sensations of guilt and hesitation. I've been around patients and their families for several years; I knew the usual emotions intimately. I tried to hug her slowly without saying anything for I knew no words would be sufficient. She accpeted me and put her head on my shoulder trustingly.
+"Healthcare industry is such an evil business. You're not responsible for how such a system that's supposed to heal us could be so parasitic. If anything, I'm just another cog in this machine," I explained.
+
+She laughed—a brief moment of relief that couldn't quite dispel the storm of emotions swirling around her. Beneath her surface, I still sensed an unescapable gravity of distress. What hidden waves of guilt and hesitation were pulling her down?
+
+"Sera," I said softly, "I don't want to invade your privacy. But I've been through enough patient rounds to see something deeper is troubling you. This is more than your dad's condition. More than a delayed graduation." I paused, offering her an open invitation. "If you need anything—anything at all—I'm here."
+
+"Thank you. You've helped more than I could ask," she replied, attempting a smile. I knew my words weren't enough to unlock her hidden pain.
+
+"Whatever it is," I continued, "I have faith in the path you'll choose. I know my words can't fix anything. But I believe in you. I believe in your choice. You're already carrying so much. Don't punish yourself for things beyond your control. Regrets will find us no matter what we do. That doesn't mean you're doing anything wrong. Do what you need to do, and I'll always be here for you."
+
+She wrapped me in a desperate hug, her big arms holding on like I was her last anchor. "Thank you," she whispered again and again. I felt like her sister in that moment—and I knew she wasn't the only one destined to share such an intimate bond with me.
