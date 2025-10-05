@@ -450,13 +450,13 @@ I smiled and patted her like a playful kitten. She mimicked a cat's movements wi
 
 "So I might actually have the mental condition my parents diagnosed. But that doesn't mean my perception isn't reliable," she continued. I nodded in agreement.
 
-"Shadows are sometimes the only glimpse of truth we're allowed to witness," I responded. A biblical imagery flickered in my mind. Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+"Shadows are sometimes the only glimpse of truth we're allowed to witness," I responded.
 
-"Why I keep reading the Bible," I started a new thread of thoughts, "is more than a connection to Sister Cecilia's memory. It's something darker and more dubious. In its pages, I saw those that took my parents away. Not exactly the specific people responsible, but the entities whose shadows were the puppets that pulled the strings connected to the accident. I recognized their true forms in the Horsemen. The bullies at St. Matthew seemed to worship these same spectral forces. I suspect even your parents' misunderstanding was rooted in these shadowy influences."
+"Why I keep reading the Bible," I started a new thread of thoughts, "is more than a connection to Sister Cecilia's memory. It's something darker and more dubious." Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand. "In its pages, I saw those that took my parents away. Not exactly the specific people responsible, but the entities whose shadows were the puppets that pulled the strings connected to the accident. I recognized their true forms in the Horsemen. The bullies at St. Matthew seemed to worship these same spectral forces. I suspect even your parents' misunderstanding was rooted in these shadowy influences."
 
 "I'll join in your crusade," Art promised. Her declaration was an act of acknowledging our shared bond. She knew she was my family now, as much a comrade as my parents had ever been. I could see her mind already in progress of crafting something meaningful.
 
-"The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box—I collected them all back, the broken knight painstakingly glued back together. The verse echoed in my mind. He healeth the broken in heart, and bindeth up their wounds.
+"The Knights of Kindness," she continued, "we should name ourselves. The Knights of Kindness are the divine foes of the Four Horsemen of the Apocalypse." I recalled the chess pieces in my wooden box—I collected them all back, the broken knight painstakingly glued back together. He healeth the broken in heart, and bindeth up their wounds.
 
 "Let me show you something," I said, opening the box to reveal its hidden contents; a sprawling web of cropped newspaper clippings and printed documents laid before her, tracing back to the tragic accident in Vienna—the deaths of Rafael and Sophie Weber, my parents. Every scrap was meticulously collected: details about the driver, police reports, forensic autopsy notes. An intricate information tree branched out from that single devastating event. If only I had more information.
 
@@ -482,7 +482,7 @@ I found myself pondering the intricate threads of Fate. Had some grand design or
 
 ---
 
-## Chapter IX - Strawberry Song [Science]
+## Chapter IX - Sunset in Pink Spectrum [Science]
 
 I never stayed at a place more than a semester. It was something deliberate; a dispersion designed to create confusion. Each university became a node in an elaborate algorithm of distraction. I occasionally made ephemeral connections—colleagues who would forget me as quickly as I would forget them. I could have easily joined a doctorate program, but what would be the point? Didn't radiation kill Dr. Alma Kristensen despite her brilliant work? Leaving a trail of breadcrumbs that led nowhere was my intention, a cheap strategy of obfuscation. If I couldn't identify the threat, I would at least make myself difficult to track.
 
@@ -567,3 +567,94 @@ So was I. Why did she have to be so kind to one and so cruel to another?
 "I suppose it does," she agreed, with a subtle smile that finally made me feel comfortable.
 
 I realized sometimes you would have to touch the grass for the beginning of a beautiful friendship, that no books could offer. I believed the stars in the moonless sky smiled upon us.
+
+---
+
+## Chapter X - Stairwell of Sorrow [Love]
+
+Just two more months of these soul-crushing Infectious Disease lectures, and I’d officially be a doctor. Personally I found the material—viral pathogenesis, outbreak epidemiology—quite fascinating. But our teacher, while a brilliant diagnostician on the wards, had the vocal monotone of a faulty EKG machine. The entire class was united in a shared, caffeine-fueled stupor. If only we’d known how important these lectures would be in the coming storm in the next few years.
+
+I left the lecture hall as soon as it was over. Walking along the corridor, I recalled something. Of course, the elevators would be packed during the shift change, students, nurses, patients' families all squeezed together. I couldn't bear the claustrophobic emotions that would flood me in such tight spaces. The stairs offered a quiet sanctuary, a moment to breathe and filter out the overwhelming fields of other people's anxieties and hopes. I was too exhausted for it.
+
+Through the stair handrails, I noticed her immediately—a tall figure in pink, hunched on the steps. Something in her posture hinted a clear sign of profound sorrow. Someone else would walk past quietly, uncomfortable with raw emotion, but I couldn't. My steps slowed, softening to avoid startling her. As expected, she was crying, lost in a private moment of grief that seemed to fill the entire stairwell.
+
+I hesitated. As a medical student, I was aware of the boundaries between compassion and professional distance. But compassion rarely follows rules. Carefully, I sat down a few steps away, leaving enough space to respect her solitude while offering a silent presence. She looked up, surprised—perhaps not expecting anyone to notice, let alone sit near her. My hand instinctively reached into my pocket, pulling out a pack of tissues. I offered them to her. She accepted them, and wiped her tears with a vulnerability that seemed to fill the space between us.
+
+Something felt very strange. Beyond her visible sorrow, I could sense layers of emotion—guilt, anger and hesitation, a complex emotional landscape that went far deeper than simple grief. After years of clinical training, I knew the typical emotional terrains of patients and their families. This was different.
+
+I reached out, offering a slow, tender hug—not with clinical detachment, but with a warmth that came from something more intimate than medical training. She accepted immediately, her head finding my shoulder with a heart-warming trust. Her broad back trembled slightly under my touch, and I felt the weight of her unspoken pain.
+
+"Do you know me?" she asked finally, hinting a mixture of confusion and hope.
+
+I paused. Did I know her? Not in a conventional sense. But I knew her raw emotions with an intimacy that was beyond explanation. Fragments of memory surfaced—a playground, a pink t-shirt, a childhood moment that felt so distant. It was like a chapter in a textbook I studied a long time ago.
+
+"You're Sera, right?" The name came out with a certainty I couldn't explain.
+
+Her surprised expression told me she was wondering how I knew. I was wearing a white coat—she likely assumed I'd recognized her from some medical file. But this connection was something else entirely.
+
+"I'm not a doctor yet," I smiled, sensing her unasked questions. "Just a med student. I met you once, when I was a child."
+
+In that moment, I wasn't just offering comfort. I was creating a bridge between two souls, intimately acquainted with the same despair.
+
+"Do I know you?" she asked, trying to recollect her childhood despite the weight of her current emotions clouding her mind.
+
+With a glance at the files on her lap, I noticed a name—Arthur Clair. I understood her father was a patient here.
+
+"Ah, sorry. My name is Leila Lysandra—David's daughter," I explained, "You're Arthur's daughter, right?" Her nod was barely noticeable.
+
+"I heard David adopted a daughter," she murmured, searching for a distant memory. "But I can't quite remember..."
+
+"I saw you briefly, years ago," I continued softly. "When my dad brought me to Atlas City, maybe fifteen years back. I remember watching you in the playground. Arthur mentioned you then, his daughter Seraphine." A subtle recognition
+flickered in her eyes, bridging the gap between then and now.
+
+"I'm sorry about your dad," I said softly, "Please let me know if there's anything I can do for you."
+
+"Thank you. You just did a lot already. Your hug took half my distress," she replied with a faint smile.
+
+"Can I take a look at the files?" I asked, thinking it might be painful for her to explain her father's condition herself. She nodded and handed me the files. I opened them gently, my medical training immediately parsing the clinical narrative.
+
+He had been suffering from Coronary Artery Disease for more than a decade—a progressive condition characterized by thickening coronary arteries. The clinical notes detailed years of increasing symptoms: chest pain, exercise intolerance, and fatigue. It seemed he was now in a terminal stage. Assuming Seraphine was a final year student like myself, I quickly calculated the grim probability: he might not survive to see her graduate. This would explain her profound sorrow. But what of the guilt and hesitation I sensed?
+
+Coronary Artery Bypass Graft (CABG) remained the only surgical option—a complex procedure involving harvesting healthy blood vessels, typically from the internal mammary artery or saphenous vein, to reroute blood flow around the blocked coronary arteries. Yet, at this advanced stage, the surgical risks would be significant.
+
+"Did you schedule a surgery?" I asked, without thinking much, hoping I could offer some help.
+
+She shook her head. Immediately, I felt the sting of my own insensitivity. Of course, without health insurance, the surgery costs would be too much of a burden for a family of a retired professor.
+
+"I hope the insurance claim gets approved soon," she muttered. I wished with all my heart it would be. It would almost explain her overwhelming emotions of guilt and hesitation.
+
+"Let me know if I can help accelerate the process, Sera," I offered. She nodded. I wanted to propose financial support but stopped myself. This would be better handled by my dad—he was, after all, her father's friend.
+
+"Sera, can I have your phone number?" I asked, pulling out my mobile. We exchanged phone numbers.
+
+"I don't think my dad knows about his friend's condition," I muttered. If he did, he would have mentioned it.
+
+"Sorry," she said softly. "These past months have been depressing. Dad's been unconscious most of the time. He never wanted to bother his friends, so I didn't contact anyone." I took her phone again, feeling the weight of her unspoken struggle.
+
+"Is visiting allowed?" I asked, saving my dad's number. She nodded.
+
+"I'll make sure my dad visits yours," I promised. "I'll always be here for you, Sera. So will my dad. Never hesitate to reach out. Many doctors here are my professors—I'd be honored to help in any way I can."
+
+"Thank you, Leila," she said, her voice finding a moment of strength. "My dad would be happy to see Mr. David. I grew up hearing so much about him. Is he still teaching at Atlas University?"
+
+"Yes," I replied, sensing an opportunity for therapeutic small talk. "Most of his colleagues are retired now. He's been quite lonely. My classes are now in Asclepius Hall near the hospital so I rarely see him these days. You know how it is—a final year student, buried in textbooks, barely getting out of my dorm."
+
+"I'm also an Atlas University student," she shared. "Philosophy—following my dad's footsteps. I should've graduated a year ago, but I got injured playing basketball."
+
+"Oh, no. Arthur would've..." I caught myself, the unfinished sentence hanging in the air. She nodded, a sad smile flickering across her face.
+
+"The injury wasn't your fault," I comforted her, hoping to ease her invisible burden.
+
+"I know. But I didn't have insurrance," she muttered, shrugging her shoulders.
+
+"Healthcare industry is such an evil business. You're not responsible for how such a system that's supposed to heal us could be so parasitic. If anything, I'm just another cog in this machine," I explained.
+
+She laughed—a brief moment of relief that couldn't quite dispel the storm of emotions swirling around her. Beneath her surface, I still sensed an unescapable gravity of distress. What hidden waves of guilt and hesitation were pulling her down?
+
+"Sera," I said softly, "I don't want to invade your privacy. But I've been through enough patient rounds to see something deeper is troubling you. This is more than your dad's condition. More than a delayed graduation." I paused, offering her an open invitation. "If you need anything—anything at all—I'm here."
+
+"Thank you. You've helped more than I could ask," she replied, attempting a smile. I knew my words weren't enough to unlock her hidden pain.
+
+"Whatever it is," I continued, "I have faith in the path you'll choose. I know my words can't fix anything. But I believe in you. I believe in your choice. You're already carrying so much. Don't punish yourself for things beyond your control. Regrets will find us no matter what we do. That doesn't mean you're doing anything wrong. Do what you need to do, and I'll always be here for you."
+
+She wrapped me in a desperate hug, her big arms holding on like I was her last anchor. "Thank you," she whispered again and again. I felt like her sister in that moment—and I knew she wasn't the only one destined to share such an intimate bond with me.
