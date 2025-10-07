@@ -83,23 +83,23 @@ The core plot device of the novel is the parents of the protagonists worked for 
 
 ---
 
-| Horseman           | Squire         | Name             | Race                  | Occupation              |
-| ------------------ | -------------- | ---------------- | --------------------- | ----------------------- |
-| **Conquest** | Quantification | Quentin Finch    | US                    | Big Tech CTO            |
-|                    | Temptation     | Thérèse Leroux | France                | Streaming Platform CVO  |
-|                    | Subjugation    | Severus Vale     | Altaria               | Head of Servizio (SIN)  |
-|                    |                |                  |                       |                         |
-| **War**      | Cowardice      | Cassian Faust   | Germanic/Scandinavian | Financier               |
-|                    | Submission     | Santiago Cruz    | Santanderia           | Head of Black Ops (AIS) |
-|                    | Propaganda     | Peng Mei         | China                 | Troll Farm Mogul        |
-|                    | Delusion       | Dr. Daniel Huber | Switzerland           | Writer/Professor        |
-|                    |                |                  |                       |                         |
-| **Famine**   | Bureaucracy    | Beatrice Vale    | Altaria               | Insurance CEO           |
-|                    | Debt           | Dorian Price     | US                    | Billionaire/Investor    |
-|                    |                |                  |                       |                         |
-| **Death**    | Silence        | Shira Adler      | Israel                | Private Intel CEO       |
-|                    | Oblivion       | Ophelia          | China                 | Museum Curator          |
-|                    |                |                  |                       |                         |
+| Horseman           | Squire         | Name             | Race                  | Occupation              | Appeared |
+| ------------------ | -------------- | ---------------- | --------------------- | ----------------------- | -------- |
+| **Conquest** | Quantification | Quentin Finch    | US                    | Big Tech CTO            | True     |
+|                    | Temptation     | Thérèse Leroux | France                | Streaming Platform CVO  |          |
+|                    | Subjugation    | Severus Vale     | Altaria               | Head of Servizio (SIN)  | True     |
+|                    |                |                  |                       |                         |          |
+| **War**      | Cowardice      | Cassian Faust   | Germanic/Scandinavian | Financier               | True     |
+|                    | Submission     | Santiago Cruz    | Santanderia           | Head of Black Ops (AIS) | True     |
+|                    | Propaganda     | Peng Mei         | China                 | Troll Farm Mogul        |          |
+|                    | Delusion       | Dr. Daniel Huber | Switzerland           | Writer/Professor        |          |
+|                    |                |                  |                       |                         |          |
+| **Famine**   | Bureaucracy    | Beatrice Vale    | Altaria               | Insurance CEO           | True     |
+|                    | Debt           | Dorian Price     | US                    | Billionaire/Investor    |          |
+|                    |                |                  |                       |                         |          |
+| **Death**    | Silence        | Shira Adler      | Israel                | Private Intel CEO       | True     |
+|                    | Oblivion       | Ophelia          | China                 | Museum Curator          | True     |
+|                    |                |                  |                       |                         |          |
 
 | Horseman           | Squire         | Role                    | Nationality | Gender | Name             |
 | ------------------ | -------------- | ----------------------- | ----------- | ------ | ---------------- |
