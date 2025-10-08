@@ -46,7 +46,7 @@ I nodded. I grabbed Darwin's book in my arms and went to my bedroom to start rea
 
 ## Chapter II - Wavelength of Justice [Art]
 
-I hated shrinks. They acted like they could fix people like a mechanic fixed an engine. I was not an engine. I was just a creative little brat. The beauty of an engine lies in its mechanical nature while mine lies in organic nature that other organic creatures like my parents failed to grasp. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
+I hated shrinks. They acted like they could fix people like a mechanic would fix an engine. I was not an engine. I was just a creative little brat. The beauty of an engine lies in its mechanical nature while mine lies in organic nature that other organic creatures like my parents failed to grasp. It started with me siding with the girl who was bullied at school. I could tell they had been bullying her for a long time.
 
 "Aria, did you really see them hurting her?" the teacher asked.
 
@@ -394,7 +394,7 @@ The old woman's eyes sparkled with the kind of wisdom that comes from generation
 
 "Oh, little child," she said, in her warm voice stained with an unnecessary sorriness, "I couldn't speak a word in the foreigner's tongue."
 
-"It's okay, Yia-yia," I reassured her. "I'll translate.I'm just not as good as explaining in detail myself."
+"It's okay, Yia-yia," I reassured her. "I'll translate. I'm just not as good as explaining in detail myself."
 
 The old lady agreed to help me. She asked her neighbor shopkeeper to keep watch on her stall and followed me. I could sense her eagerness to share her knowledge, her loneliness finding a momentary companion in me.
 
@@ -430,7 +430,7 @@ And that was how I tricked the great magician Kaspar into taking me in. With a c
 
 "Like a magical thread," she muttered. I nodded in silent acknowledgment.
 
-I never asked her why she ran away from her home—a luxury I could no longer afford, no matter how desperately I wished. Yet she explained it to me anyway—perhaps she felt like she owed me an explanation. She knew exactly what she had to do once she saw a luminous thread connected to me. I admired her intuitive understanding, how she knew I wouldn't find her perception strange or meet it with skepticism.
+I never asked her why she ran away from her home—home was a luxury I could no longer afford, no matter how desperately I wished. Yet she explained it to me anyway—perhaps she felt like she owed me an explanation. She knew exactly what she had to do once she saw a luminous thread connected to me. I admired her intuitive understanding, how she knew I wouldn't find her perception strange or meet it with skepticism.
 
 She had become the most magical element of "Kaspar's Traveling Illusions". Since her arrival, the crew felt more like home than ever before. She was family to me—more so than even Sister Cecilia. My parents might have survived if they possessed half her cleverness. Mom would have adored her; Dad would have feared her. Inheriting both their spirits, I simultaneously loved and feared her.
 
@@ -490,9 +490,15 @@ Of many different universities I've been to, Atlas University campus, located on
 
 Professor Alexei Volkov was a strange man. In fact, wasn't his class, "PL 420: The Ontology of Social Systems," the very reason why I decided to join Atlas University? Perhaps I expected too much. His lectures never quite met my rigorous standards. I always ended up having an argument with him in his class. His insight was always onto something but never quite right. Yet I genuinely enjoyed attending his class. His awkward gestures made me feel belonged. I knew mom would've liked him. Luna would've liked him, too. Wasn't he the catalyst that led me to her?
 
+In the curriculum, it was said the class was an attempt to analyze the underlying anatomical structures of human civilization that remained the same in different ages. He explained in the first lecture that the trinity of business—technology, marketing, and management in modern terms—were the driving forces behind forming a social system. He explained the Neolithic and Industrial Revolutions as two examples of critical inflection points in human history. Of course, we can identify the trinity in each transformational moment in history. I found his framework compelling. The books he recommended for future reading like Kropotkin's "The Conquest of Bread" were excellent.
+
+However I failed to resist an itch in my mind. Wasn't it also the very driven force behind my interactions with Luna? Of course, I knew I never taught Luna, who was a graduate student, and I was merely a kid that loved mathematics. I didn't have enough foundation to teach her. I only pointed some perspectives she might have overlooked. I had to do the same with Professor Alexei. Despite my social anxiety, I had to argued what he was trying to theorize was something I'd prefer to call Conquest. Conquest has a trinity of tools: Quantification, Temptation, and Subjugation. My voice was shaking and Professor Alexei calmly took a while to understand what I was proposing. But a girl in the class immediately decided to defend him out of nowhere. She complained that the system I proposed was essentially a rephrased version of the Professor's theory. Of course, it was precisely how I came up with it in the first place. So I had to argue the terms I proposed were more rigorous and precise.
+
+The steam engine was one of the examples Professor Alexei illustrated. I figured it could be used as an example as good as any. It represented a pivotal moment in history where humanity transcended previous velocity limitations. This innovation dramatically expanded human capabilities, revolutionizing transportation and enabling unprecedented scales of colonization. While Professor Alexei interpreted it as a symbol of technological revolution, I perceived it as a consequence of a functional mapping between fuel and efficiency. So long as the value of fuel could be described in terms of money, every consequential outcome could be potentially quantified. I agreed with Professor Alexei about considering it as a crucial nail in the coffin of human civilization. Things that were more complicated to be quantified were quantified. He was eventually convinced after my awkward explanation but the girl remained skeptical. Had time permitted, our discussion could have extended indefinitely.
+
 I didn't know her name for the first couple of weeks. She was the enigmatic girl who was apparently obsessed with strawberry pink—every item she owned, from her shirt to her umbrella, from her books to her phone cover, emitting this specific range of wavelengths of light, that we called pink. She was even taller and stronger than me. Even someone as socially clueless as me could notice how people found such a girl with a masculine physique, surrounded by such a soft color, a contradiction to stereotypes. From the first moment I saw her, I sensed she was extraordinary. If only social interactions came as easily to me as analytical thinking.
 
-Every time I argued with Professor Alexei, she was there to defend him, as if he were incapable of defending himself. I always despised those who defended authority, but I never despised her. Eventually, I realized I was closest to being the authority in PL 420, since I was the one who demanded an unprecedented level of philosophical rigor in a typical final-year undergraduate class.
+The discussion about Conquest vs Business wasn't the first time we sort of interacted. Every time I argued with Professor Alexei, she was there to defend him, as if he were incapable of defending himself. I always despised those who defended authority, but I never despised her. Eventually, I realized I was closest to being the authority in PL 420, since I was the one who demanded an unprecedented level of philosophical rigor in a typical final-year undergraduate class.
 
 Walking around Lake Iluna, I found her sitting at the bar overlooking the lake. Behind her, the golden hour magic painted the sky, the bleeding sun casting its reflection across the lake's surface. Typically, I would have been studying in my dorm, but something—perhaps an inexplicable impulse—had drawn me out that day. In her eyes, fixed on the distant horizon, I sensed a melancholic dread that mirrored my own.
 
