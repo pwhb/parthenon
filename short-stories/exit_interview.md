@@ -58,9 +58,9 @@ I know the confused look on her face. She'll get used to it. She can no longer c
 
 I'm getting impatient, to be honest. She's acting as if their lame ass Jedi mind trick would work on a clown like me.
 
-"I'm sorry if I was rude. But if there were problems here, they would no longer affect me starting from tomorrow. At least as long as I'm awake. I just think it wouldn't help me in any way."
+"I'm sorry if I was rude. But if there were problems here, they would no longer affect me starting from tomorrow. At least not as long as I'm awake. I just think it wouldn't help me in any way."
 
-"Mr. Comedian, are you implying your experience is so traumatic that you think you'll have nightmares afterwards?"
+"Mr. Comedian, are you implying your experience is so terrible that you think you'll have nightmares afterwards?"
 
 I'm impressed she's quick enough to get my intent. If only they were as honest about turning away from countless problems rooted from institutional injustice.
 
@@ -72,11 +72,11 @@ I genuinely hope, from the deepest bottom of my heart, that she wasn't lying. Wh
 
 "I'm happy for you. Let me correct myself. The jobs I can afford all give me nightmares. I'm not saying this job is worse."
 
-"I appreciate your blunt honesty. It's exactly what I'm seeking in such a meeting like this. Formality isn't necessarily the priority."
+"I appreciate your blunt honesty. It's exactly what I'm looking for in such a meeting. Formality isn't necessarily the priority."
 
 I know she thinks of me as an unnecessarily difficult problem she is responsible to face. I know she wishes someone else from her team is conducting this interview.
 
-"Mr. Comedian, you mentioned that addressing the problems here wouldn't help you. I understand where you come from. But I would have to explain to you that you still owe a responsibility to guide us so we can improve your work environment. After all, it's still your second home until tomorrow. I'm not asking you to help me. I'm asking you to help your friends and colleagues one last time."
+"Mr. Comedian, you mentioned that addressing the problems here wouldn't help you. I understand where you come from. But I would have to explain to you that you still owe a responsibility to guide us so we can improve your work environment. After all, it's still your second home as of today. I'm not asking you to help me. I'm asking you to help your friends and colleagues one last time."
 
 "I know. It's embarrassing but let me admit I don't have any friends here. But I'm not being selfish. I really want to be helpful. I swear I've done everything I can to make it a less awful place. I just sincerely believe I don't owe any responsibility whatsoever to guide you to improve this hellhole."
 
@@ -98,13 +98,13 @@ She's raising her eyebrows. If only she knew I was purposefully leaving breadcru
 
 "Thank you for your clarification."
 
-I pause for a while. I really don't know where to begin. I'm not even sure if I want to spend social energy to explain the situation. I have to think of something or she'll think I've been being dramatic unnecessarily.
+I pause for a while. I really don't know where to begin. I'm not even sure if I want to spend my remaining social energy to explain the situation. I have to think of something or she'll think I've been being dramatic unnecessarily.
 
 "I aksed you to call me Mr. Comedian," I begins hoping I can pull this thread long enough to explain myself, "I used to dream of founding a comedy club at my university. It was ages ago. The club wouldn't have any political or artistic or scientific or communal purpose. It would be a group of people, going around in public places, with a sole purposeless purpose of telling jokes without any context whatsoever. Well, every organization has their members spread in the public to do something, publicly or secretly. Fortunately or unfortunately, it ended up as a dead joke that never came to fruit just like every other idea I had. I know I was never charismatic enough to pull that off. I never had any organizational skills either."
 
 I take a pause again. She's paying attention to me perhaps because she's wondering how I would possibly connect this random trivia about my boring life to the organization we both work at as of today.
 
-"I'm a loser. I've been a loser all my life. I never really had much to begin with. Yet somehow I lost so much. Please don't look down on me for it takes extraordinary effort to not lose more when you have almost nothing. Nobody is easier to rob than someone that has close to nothing for the simple reason that nobody is protecting them. Well how could someone that has almost nothing report to an authority if they got robbed of their almost nothing without risking being mocked at? How could you possibly lose your pillow made of garbage? How could someone harrass someone so ugly like you? Well you know the drill. No authority was ever created to protect those that have nothing anyway for they can never touch an authority by design. Every authority has a purpose which just usually doesn't happen to be justice."
+"I'm a loser. I've been a loser all my life. I never really had much to begin with. Yet somehow I lost so much. Please don't look down on me for it takes extraordinary effort to not lose more when you have almost nothing. Nobody is easier to rob than someone that has close to nothing for the simple reason that nobody is protecting them. Well how could someone that has almost nothing report to an authority if they got robbed of their almost nothing without being mocked at? How could you possibly lose your pillow made of garbage? How could someone harrass someone so ugly like you? Well you know the drill. No authority was ever created to protect those that have nothing anyway for they can never touch an authority by design. Every authority has a purpose which just usually doesn't happen to be justice."
 
 I can see a sense of fear in her eyes. I know she doesn't know where I'm going to. But she's quick enough to see that it's going to be an unpleasant journey for her. She probably realized by now that I was baiting for her permission to be unnecessarily honest. She didn't know what she signed up for.
 
@@ -128,9 +128,9 @@ I have to finish the play I started.
 
 "It's ok. You're the last person I have to interview today and I think we have enough time."
 
-I think she's hooked on my story now whether it would do anything for her KPI or not. On the other hand, I can't help but sensing a hopeful enthusiasm in her eyes that she thinks I might be her lucky ticket to write a report so good that would get her places. I feel like a criminal that's talking to a detective about snitching my organization. At this rate, Omertà code would get me killed at some point.
+I think she's hooked on my story now whether it would do anything for her KPI or not. On the other hand, I can't help but sensing a hopeful enthusiasm in her eyes that she thinks I might be her lucky ticket to write a report so good that would get her places. I feel like a criminal that's talking to a detective about snitching my organization. At this rate, Omertà code would get me killed at some point. I hope she doesn't see my subtle laugh.
 
-"I live the most boring life that anyone can get. I have this 9-5 job that's killing me slowly. I wake up and go to work and do the tedious office work everyday. I never do anything that would hurt anyone but everyone at my work hates me and doesn't even try to keep it a secret. For example, this morning the new girl offered me some cookies she baked without even knowing today is my last day. She was offering her cookies to everyone. But I shook my head because I was full. And then people started making fun of her."
+"I live the most boring life that anyone can get. I have this 9-5 job that's been killing me slowly. I wake up and go to work and do the tedious office work everyday. I never do anything that would hurt anyone but everyone at my work hates me and doesn't even try to keep it a secret. For example, this morning the new girl offered me some cookies she baked without even knowing today is my last day. She was offering her cookies to everyone. But I shook my head because I was full. And then people started making fun of her."
 
 "I understand your frustration. But I would need more context to understand whether or why your coworkers were mean to this girl."
 
@@ -138,13 +138,13 @@ I think she's hooked on my story now whether it would do anything for her KPI or
 
 She's writing down something in her book. I wonder what she's writing. I take a pause again to give her some time.
 
-"I understand your terrible struggle. What you went through is a classic office drama. People often need a black sheep to unfairly scapegoat for other things that are more complex to understand. Can you help me understand what you think is the reason why they were so mean to you? If you would like to, you can also name the coworkers who were mean to you. Your feelings are respected and this exchange will of course be confidential. They were never know what you told me about them."
+"I understand your terrible struggle. What you went through is a classic office drama. People often need a black sheep to unfairly blame for the things that are more complex to understand. Can you help me understand what you think is the reason why they were so mean to you? If you would like to, you can also name the coworkers who were mean to you. Your feelings are respected and this exchange will of course remain confidential. They were never know what you told me about them."
 
 "But I suppose you wouldn't blindly believe me either."
 
 "It's a little harsh but you're correct, Mr. Comedian. We would need to go through a formal process of verifying what you express and hopefully take actions accordingly one day."
 
-"My only crime is I never licked anyone's boots, not because I think it's too low for me but because I think bootlicking is a form of disrespect, like a creepy flattery, that even those that oppress me don't deserve. The society I'm in is so rotten that many people fail to see how wrong and disgusting catcalling is. So I think it's not unnatural that people see nothing wrong with bootlicking. Well, perhaps, it's wrong for me to not disrespect them by flattering while it could have gotten me to more comfortable places."
+"My only crime is I never licked anyone's boots, not because I think it's too low for me but because I think bootlicking is a form of disrespect, like a creepy flattery, that even those that tormented me don't deserve. The society we're in is so rotten that many people fail to see how wrong and disgusting catcalling is. So I think it's not unnatural that people see nothing wrong with bootlicking. Well, perhaps, it's wrong for me to not disrespect them by flattering while it could have gotten me to more comfortable places."
 
 "I understand what you're trying to say. It's a very common phenomenon in a typical workplace and unfortunately ours isn't an exception."
 
@@ -176,13 +176,13 @@ Does 'Don't talk to the police' include HR representatives?
 
 "It would've been more fun if you were really a friend because you know there'd be more stakes in the conversation. You would be interested in who and what I'm talking about. But as a HR professional, I understand having a distance between you and the subject is more appropriate."
 
-"I see. Please go on about Mr. Tragedian."
+"It's correct. Please go on about Mr. Tragedian."
 
 "I want to talk about the nature of gossip first. If you think about it, you see that it's possibly the origin of all the languages we have. It's no doubt an integral aspect of our evolution. How could you possibly manage a large organization of animals without enough information to trust who? So gossip is the social tool that fills this requirement."
 
 She nods.
 
-"I'm now gossiping about Mr. Tragedian but I'm not a master of gossip. I'm a master of none but honesty. Mr. Tragedian is a master of gossip. Let's say we have a Mr. Tyrant in my office room. So Mr. Tyrant has enough authority to decide the fate of a staff lower than his position in the hierarchy. Mr. Tyrant can turn anyone powerless into an outcast at whim. In fact, the reason why I'm so disliked in my office is also his work."
+"I'm now gossiping about Mr. Tragedian but I'm not a master of gossip. I'm a master of none but honesty. Mr. Tragedian is a master of gossip. Let's say we have a Mr. Tyrant in my office room. So Mr. Tyrant has enough authority to decide the fate of any staff lower than him in the hierarchy. This authority isn't given by God, but by the very oppressed that fear something that they shouldn't have feared. Mr. Tyrant can turn anyone powerless into an outcast at whim. In fact, the reason why I'm so disliked in my office is also his work."
 
 She is writing something again. I think she understands she can't easily convince me to say Mr. Tyrant's name and she doesn't bother to do so.
 
@@ -190,7 +190,7 @@ She is writing something again. I think she understands she can't easily convinc
 
 I can see in her eyes that she's impatiently waiting for a punchline that may or may not come.
 
-"Even though I speak my mind all the time, other people are naturally careful about talking about Mr. Tyrant behind his back. I mean who would want to risk being an outcast? It's far easier to just tolerate people like him and serve their wishes. You're only in this hellhole for one third of your 24 hours."
+"Even though I speak my mind all the time, other people are reasonably careful when talking about Mr. Tyrant behind his back. I mean who would want to risk being an outcast? It's far easier to just tolerate people like him and serve their wishes than a confrontation that they know they wouldn't win. You're only in this hellhole for one third of your 24 hours."
 
 "I understand there's such a recurring toxic element in your office. Even if you don't want to say out loud the names of the perpetrators here, I would appreciate if you could leave an anonymous email or any form of whistleblowing describing as much details as possible. It could save many innocent coworkers of yours from experiencing the same thing you did."
 
@@ -198,11 +198,11 @@ I can see in her eyes that she's impatiently waiting for a punchline that may or
 
 "Of course. Please continue."
 
-"So people like Mr. Tyrant act like they're gods. They can prevent anyone that could possibly challenge their authority from even joining this company. They can socially terminate anyone that doesn't want to serve their dictatorship. I hope you can understand why I don't have any hope in an institutional reformation."
+"So people like Mr. Tyrant act like they're gods. They can prevent anyone that could possibly challenge their authority from ever having a chance to challenge them. They can literally or virtually terminate anyone that doesn't want to serve their dictatorship. I hope you can understand why I don't have any hope in an institutional reformation."
 
 "I understand you don't have a hope. But we still do. I would appreciate if you could pass your torch to us. I promise we would do our best to investigate the problem."
 
-"I don't understand why you're pretending to still have faith in this system. I'm not even talking about a special phenomenon. This sort of mechanism that rewards the worst and punishes the best is present everywhere. I would even go further to say it's a integral part of the corporate culture. I believe you're not a stranger to it. I would appreciate if you didn't pretend as if the presence of such thing in my office is surprising to you."
+"I don't understand why you're still pretending to have faith in this system. I'm not even talking about a special phenomenon. This sort of mechanism that rewards the worst and punishes the best is present everywhere. I would even go further to say it's a integral part of the corporate culture. The higher management requires people like Mr. Tyrant to outsource the task of a scarecrow that can actually hurt you while they're busy serving other shareholders. I believe you're not a stranger to it. I would appreciate if you didn't pretend as if the presence of such thing in my office is surprising to you."
 
 "I'm sorry you feel like that. I understand your helplessness, Mr. Comedian. But I'm just trying to do my job. I would appreciate if you could respect me as a professional."
 
@@ -214,38 +214,76 @@ I can identify a sense of wounded ego in her voice. No wonder I've always been a
 
 "Who do you think is the most powerful person in my office?"
 
-"Is it Mr. Tyrant?"
+"Is it Mr. Tyrant, as a representative of the higher management?"
 
 "No. Mr. Tyrant is just an example of those that abuse their power. Mr. Tyrant is powerful but there's someone that hold even greater power. I mentioned that people usually walked on eggshells around people like Mr. Tyrant. I often speak the truth about people like Mr. Tyrant but I never mock them. There's someone that has the audacity to mock such people. It's Mr. Tragedian. He's a friend to everyone. While everyone seems to despise me, everyone seems to love Mr. Tragedian."
 
 "I'm no longer sure if you admire or dislike Mr. Tragedian. But please continue."
 
-"So Mr. Tragedian often goes out of his way to initiate a gossip about people like Mr. Tyrant. Let's say Ms. Gullible mistakenly takes Mr. Tragedian's gossip as an opportunity to speak out about Mr. Tyrant. Isn't gossip an essential tool that helped us survive the barbaric test of history? So Ms. Gullible would voluntarily add more details about Mr. Tyrant's wrongful acts. Do you know what happen afterwards?"
+"So Mr. Tragedian often goes out of his way to initiate a gossip about people like Mr. Tyrant. Let's say Ms. Gullible mistakenly takes our Mr. Tragedian's gossip as an opportunity to speak out about Mr. Tyrant. Isn't gossip an essential tool that helped us survive the test of barbaric history? So Ms. Gullible would agree with him and voluntarily add more details about Mr. Tyrant's wrongful acts. Do you know what happen afterwards?"
 
-"Mr. Tragedian reports about it to Mr. Tyrant?"
+"Mr. Tragedian reports it to Mr. Tyrant?"
 
-"Yes. But not immediately. Mr. Tragedian plants many traps, not just one. He then moves on to random things. Only after a random period of time, a few months, for example, Mr. Tragedian confided in Mr. Tyrant what Ms. Gullible told him. Mr. Tyrant would undoubtly get mad at Ms. Gullible and punish her."
+"Yes. But not immediately. Mr. Tragedian plants many traps, not just one. He then moves on to random things. Only after a random period of time, a few months, for example, Mr. Tragedian confided in Mr. Tyrant that Ms. Gullible is spreading such and such bad news about his character. Mr. Tyrant would appreciate our Mr. Tragedian for letting him know what other people hid from him. He would undoubtly get mad at Ms. Gullible and go out of his way to release his wrath upon Ms. Gullible."
 
 "It's such a horrible thing to do to a coworker. Do you think such a phenonmenon is also common in a workplace?"
 
-"Yes. Mr. Tragedian isn't that special. Some people don't need to climb the ladder. They can just play the powerful people as if they're their puppets for fun. Powerful people can decide the fate of the powerless at whim. People like Mr. Tragedian can decide how powerful people decide the fate of the powerless. I believe you must have seen one or two Mr. Tragedian, too."
+"Yes. Mr. Tragedian isn't that special. Some people don't need to climb the ladder. They can just play the powerful people as if they're their puppets for fun. Powerful people can decide the fate of the powerless at whim. Mr. Tragedian can decide how powerful people decide the fate of the powerless. I believe you must have seen one or two Mr. Tragedian, too."
 
-"I suppose I met some people that matches such a character."
+"I suppose I met some people that match such a character."
 
-"Do you know why people like Mr. Tragedian get away with it? Many people know that he's the one that initiated the gossip but nobody would dare to inform it to Mr. Tyrant. Why? Because nobody wants to be like Ms. Gullible. So Mr. Tyrant, despite his power, is often left in the dark."
+"Do you know why people like Mr. Tragedian get away with it? The same way every dishonest person does. When dishonesty is accepted as the truth, the truth becomes false news. Not everyone understands our Mr. Tragedian is the reason behind Ms. Gullible's punishment. Some people do but nobody would dare to inform Mr. Tyrant. Why? Because nobody wants to be like Ms. Gullible. Even if someone had the courage to speak out, they would've been instantly labeled as someone jealous trying to divide the wholesome friendship between Mr. Tyrant and Mr. Tragedian. So Mr. Tyrant, despite his power, is often left in the dark."
 
-"Can we do a thought experiment? Imagine two worlds, say A and B. The governments in both A and B lie to their subjects so they can get away with oppressing them. The subjects in A don't even understand the lies are lies while those in B do. Which one do you think is more disturbing?"
+"It's an interesting observation, I suppose. Are you implying that the terrible things that those in power happen to do aren't necessarily personal?"
 
-"I think world A is in a darker place. Why do you ask me this?"
+"No. It's still personal. Mr. Tyrant only throws a tantrum when his ego is involved. I would never defend the powerful that abuse their power. I'm just pointing out that they might not functionally be the most powerful people in the room if another loser like our Mr. Tragedian could play them."
 
-"Isn't there a faint hope that people in world A can see through the lies one day?"
+"I see. Please go on."
 
-"I see what you're trying to say now, Mr. Comedian. People in world B not only can see through the lies but also are immune to the lies. I suppose world B might be more disturbing because people seem to have make peace with their government. Do you feel like our company is analogous to world B?"
+"Can we do a thought experiment? Imagine two worlds, say world A and world B. The governments in both A and B spread propaganda to their subjects so they can get away with oppressing them. The subjects in A don't even understand the propaganda are lies while those in B do. Which one do you think is more disturbing?"
 
-there's this weird dude at my work that's the polar opposite of me. since I'm a comedian, let's call him a tragedian even though I know it's not a descriptive or precise name. so he pretends to be a friend of everyone. he wouldn't hesitate to backstab anyone for a reason less than none. he finds fun in harassing girls and betraying everyone. yet everyone here seems to love him while they all despise me. there's this trick that he has played many times that only I seem to recognize. he often pretends to bad-mouth someone. gossiping is a natural trait that helped us survive in our barbaric history from the predators. so naturally someone would agree with him and elaborate on the details of how wrong or evil the person they're talking about it is.
+"I suppose world A is in a darker place. Why do you ask me this?"
 
-what do you think he does afterwards? he moves on to other random things until after a random period of time. out of nowhere and for no reason that I can comprehend, he goes out of his way to report to the one that he bad-mouthed that the one that agreed with him is spreading such and such news. so the wrong and evil person releases their wrath upon this unfortunate person that happened to agree with our tragedian. well I can see that this wrong and evil person would appreciate our tragedian for telling him something that other people hid from him. well doesn't everyone know that our tragedian is the very one that started bad-mouthing this evil and wrong person? yes. then how does our tragedian get away with it? well the same way every dishonest person does. when dishonesty is treated as the truth, honesty becomes the false news. anyone that would explain to the evil and wrong person that our tragedian is the one that started the gossip would be seen as a snitch that's jealous of the wholesome relationship between the wrong and evil person and our tragedian.
+"Isn't there a faint hope that people in world A might possibly see through the lies one day?"
 
-well of course people that learned about this private explosion between the wrong and evil person and the one that agreed with our tragedian would later pay attention to not gossip in front of him or anywhere at all. so our tragedian robbed the concept of gossip from us and nobody seems to understand what they lost. either they give up the concept of gossip or they lose their place in the work environment. the wrong and evil person isn't the only one wrong and evil at my office. there are so many people like them. they can effortlessly turn you into an outcast if they don't like you. so our tragedian doesn't have any power like people with an authority but he can play God in the office. he can turn anyone into an outcast. he can turn anyone into a dictator. the threads of relationships in the office depend on his whims and boredom.
+"I see what you're trying to say now, Mr. Comedian. People in world B not only can see through the lies but also are immune to the lies. I suppose world B might be more disturbing because people seem to have made peace with their government. Do you feel like our company is analogous to world B?"
 
-I'm the only one immune to our tragedian. I'm possibly the only one he respects in the office. I never hide how I'm feeling. I'm already an outcast. he can't do anything that would possibly damage me more than I already experience. in fact, I'm the only one that has the right to say whatever truth about anyone because our tragedian couldn't possibly report a thing I say. well I might be saying how evil and wrongful a manager is in very explicit details and he couldn't snitch it back to that manager because that manager would blame our tragedian for allowing me to even say such things in the first place. I understand if people that look down on me envy me for having such a voice that they gave up for nothing. I mean I bought my voice with nothing.
+"Not quite. Let me get back to our Mr. Tragedian. So Mr. Tragedian holds the power to turn anyone into a dictator or an outcast for a reason less than none. First he robs the concept of gossip from the oppressed. And then he monopolizes the control board of the threads of the relationships in the office. Your place in the office depends on his boredom. Can you think of anyone that might possibly be immune to the power of Mr. Tragedian?"
+
+"I can't. I have to admit it's beyond the scope of my training."
+
+"Well, I'm immune to his power. Not because I have any power but because I have none. I'm possibly the only one he genuinely respects in the office. He can control anyone except me. I never hide how I'm feeling. I'm already an outcast. He can't do anything to make my life worse than it already is. In fact, I'm the only one that has the right to say whatever truth about anyone because our Mr. Tragedian couldn't possibly report a thing I say. I can be say how evil and wrongful Mr. Tyrant is, all I want, in unnecessarily explicit details. Our Mr. Tragedian couldn't snitch on me because Mr. Tyrant would blame our Mr. Tragedian for allowing me to even say such things in the first place. I understand if people that look down on me envy me for having such a voice that they gave up for nothing. I mean the very cost of my voice is nothing."
+
+"Are you trying to say that you think you're the most powerful person in your room?"
+
+"No. I'm saying I'm the opposite of it. I'm the most powerless person in any room. I take pride in being powerless. I take pride in having nothing more to lose."
+
+"I really appreciate your authentic feedback. But I'm sorry I don't quite see the meaning behind your story."
+
+"The meaning of this story is that the things you take for granted is meaningless."
+
+"It's... kind of anticlimactic."
+
+"It's. You've been waiting for a punchline that never existed."
+
+She sigh.
+
+"Wouldn't one ultimately be disappointed after a hopeful patient period of waiting for a process of handling a whistleblower's report, anyway? I'm merely handing the same end result ahead so you don't need to process unnecessary paperwork that would never matter in the end."
+
+"I suppose you have your reason to distrust us."
+
+We take a moment of silence. She suddenly seems to rememeber her task isn't finished yet.
+
+"I'm sorry but I still haven't finished recording your reason for departure. I recall you answered you have had enough but you know I can't record it for the obvious reason. Can I record a typical excuse like you're joining another company? You don't have to name the company."
+
+"But I'm not joining another company."
+
+What a pleasure to see the surprise in her eyes.
+
+"Now I have to admit I want to know your reason for resignation. It doesn't have anything to do with my job. Can you tell me why you quit your job?"
+
+"I think I owe you an explanation. Do you remember the thought experiment we talked about?"
+
+"Yes. The one with world A and world B."
+
+"You asked if the company is analogous to world B. It's more like world C where not everyone see that the propaganda is a lie and yet the people that can see the truth don't want to change anything. It has the worst of both worlds. The oppression here is as awful as everywhere else. But everyone pretends to be friendly to each other or they would fall victim to Mr. Tragedian's manipulations."

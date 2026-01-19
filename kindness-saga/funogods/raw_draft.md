@@ -2,7 +2,11 @@
 
 ## Chapter I - Stationary Action [Science] (smooth)
 
-"Oh my precious Science, did you just derive Hamilton's Principle," mom said, looking at the whiteboard.
+God doesn’t play dice. We’re the dice that play themselves. If someone says mathematics is the language of God, mathematicians aren’t to be honored—the honor belongs to God. Isn’t mathematics the very game the universe plays? It’s non‑negotiable that God must play the role of a mathematician.
+
+I always had Faith that a mathematician can figure out the little puzzle that had been itching me for years.
+
+"Oh my precious Science, did you just derive Hamilton's Principle," mom's voice brought me back to the whiteboard.
 
 "I'll never understand how such a beautiful mind was conceived inside me. When I was 10, I was dressing up paper dolls. I'll never be as brilliant as you, my dear." I could sense an overwhelming intensity of joy and pride in her voice. She wasn't just looking at a whiteboard filled with mathematical equations. She was looking at my weeks of exhausting work on these mechanics problems. My investigation of the physical world in the language I'm most fluent with.
 
