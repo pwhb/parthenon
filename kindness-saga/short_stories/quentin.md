@@ -1,4 +1,4 @@
-# Phantom Threads
+Phantom Threads
 
 My name is Quentin Gray. I'm a programmer. I didn't want to conquer the world like my father, Damian Gray. He's a financier who turns the dreams of those who build the future—or at least his clients think of themselves that way—into reality. They can pretend all they want to be busy doing something that's not directly controlling the world but I could see through every move because my father was making each come true through a series of tediously complicated procedures.
 
@@ -38,4 +38,40 @@ I couldn't help but nod, very subtly like a shy girl.
 
 "Give me a few seconds, Quentin," she began to pack her things. She gave me her handbag and I held it in my hand awkwardly. She then grabbed my arm and took me to the door. What would other people in the room think of me? I knew she'd always tended to be flirtatious but not in a meeting room. Perhaps she slept with half the men in the room and their existence no longer mattered to her. Was I her new puppet?
 
-"Where are you taking me?" I asked. She laughed.
+She took me into the elevator. I've never been to other parts of this tower, save for office area and residential area. She asked me to open her handbag and grabbed a key card to swipe and pressed a button that I recognized to be in residential floors. How did she had access to this area if she wasn't staying here? The last time I checked her penthouse was a couple streets away from this tower. She put the card back in the bag. We were alone in this little space but I found it odd that I wasn't nervous.
+
+"Where are you taking me?" I asked. She laughed and whispered sensually, "Trust me."
+
+She pinched my cheek like you would a little child. Why were she acting so childishly? What was I missing? Was she seducing me? Should I kiss her? Is it how people get laid? She was still holding my arm and movements I could do were limited. My thoughts weren't finished exactly when the door opened.
+
+"Brume de Narcisse", I saw the name on a wooden sign. The soft and ambient theme of the entrance implied it was a wellness center. Hearing a relaxing instrumental song confirmed my guess. I never visited such places because I hated being vulnerable.
+
+"I don't like skin contact," I complained. I was careful to not use the word vulnerable. She laughed without a sense of worry.
+
+"Trust me. Nobody will touch you," she tried to ease my anxiety.
+
+"But you're touching me," I pointed out.
+
+"As if you never wished for it," she replied impatiently.
+
+When we reached the reception, a clerk was smiling at her.
+
+"Bonjour, Senorita Thérèse. What can I do for you?"
+
+"Bonjour, Camélia," she greeted back, "Is the Daisy room free?" So she didn't have a booking apparently.
+
+The clerk shook her head with a sincerely sorry face and replied, "I'm afraid it isn't for an hour, Senorita. But the Lavender room can be reserved."
+
+She nodded so casually and asked, "It has a private sauna, right?"
+
+"Yes, it does, Senorita Thérèse. What services should I prepare for you?"
+
+"Just the sauna. We won't be using the other facilities."
+
+"Understood, Senorita Thérèse. That will be the Private Sauna Access package. Shall I process that for two persons?"
+
+"Yes, please, Camélia. It would be perfect, thank you."
+
+We waited at the desk for a minute before the staff led us to the locker area. I had never been to such a place. Apparently she had a dedicated locker while I was provided a guest locker. I handed her handbag back and she put it in her locker. Following her, I put my personal items in the locker. The staff handed me a bathrobe and took me to the changing room. I felt vulnerable while taking off my clothes. I never had a personal conversation with Thérèse Leroux until a couple minutes ago and now we were completely naked a few feet apart in different changing rooms. I put my clothes on the hangers in the room and then put on the bathrobe. A staff was waiting for me at the door. She took the hangers from my hand and gestured me to take a seat in the locker area. I nodded and waited for Thérèse Leroux. She didn't take as long as I expected. She handed her hangers to the staff and came towards me smiling. She gave me her hand gracefully but I had no clue what to do with it so I awkwardly pulled it and got up from the seat. Was I supposed to kiss her hand? She showed no awkwardness and grabbed my arm again and took me to where I thought was the Lavender room. I wouldn't believe I would be doing girly thing this evening if I told myself in the morning.
+
+We sat down on the bench. For the first time in days, I felt warm. The sauna chamber was like a wooden cooker for humans. We were basically being steamed alive. I laughed at the bizarre thought that she was cooking me like a duck. I hoped I would turn out to be a delicious dish. Steamed Quentin, wouldn't it be a magnificent dish.

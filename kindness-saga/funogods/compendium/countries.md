@@ -1,12 +1,10 @@
-| Country                                       | Continent     | Capital    | Culture | Organization                                                                             |
-| --------------------------------------------- | ------------- | ---------- | ------- | ---------------------------------------------------------------------------------------- |
-| **The Serene Republic of Altaria**      | Europe        | Atlas City |         | **National Intelligence Service (Servizio Informazioni Nazionale)**                |
+| Country                                | Continent     | Capital    | Culture | Organization                                                                  |
+| -------------------------------------- | ------------- | ---------- | ------- | ----------------------------------------------------------------------------- |
+| **The Serene Republic of Altaria**     | Europe        | Atlas City |         | **National Intelligence Service (Servizio Informazioni Nazionale)**           |
 | **The Sovereign Union of Santandería** | South America |            |         | **Santanderían Intelligence Agency (Agência de Inteligência de Santandería)** |
-| **The Republic of Veridia**             | South America |            |         |                                                                                          |
-| **The Sovereign State of Patuá**       | South America |            |         |                                                                                          |
-| **The Free Territory of Esmeralda**     | South America |            |         |                                                                                          |
-
-
+| **The Republic of Veridia**            | South America |            |         |                                                                               |
+| **The Sovereign State of Patuá**       | South America |            |         |                                                                               |
+| **The Free Territory of Esmeralda**    | South America |            |         |                                                                               |
 
 **The Rare Earth Crescent (REC)**. It's an area near the equator line in South America, composed of three countries;
 
